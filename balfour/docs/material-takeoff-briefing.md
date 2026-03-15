@@ -48,14 +48,25 @@
 
 # Documents Provided
 
-You will receive the following documents for scaling and quantity calculations:
+The following documents are available for scaling and quantity calculations:
 
-- [ ] Full House Plans (architectural drawings)
-- [ ] Survey
-- [ ] Topographic Survey
-- [ ] Plot Plan
-- [ ] Engineered Septic Field Plans (when available)
-- [ ] Engineering Specs for Retaining Walls (if available)
+| Document | Link | Description |
+|----------|------|-------------|
+| Foundation Plan | [Download](../reference-docs/house-plans/Foundation.pdf) | Foundation layout |
+| Finished Basement | [Download](../reference-docs/house-plans/Finished%20Basement.pdf) | Basement layout |
+| Floor Plan | [Download](../reference-docs/house-plans/Floor%20Plan.pdf) | Main floor layout |
+| Lake View Cross Section | [Download](../reference-docs/house-plans/Lake%20View%20Cross%20Section.pdf) | Building section |
+| Mudroom View Cross Section | [Download](../reference-docs/house-plans/Mudroom%20View%20Cross%20Section.pdf) | Building section |
+| Side Elevations | [Download](../reference-docs/house-plans/Side%20Elevations.pdf) | Left and right views |
+| Front and Rear Elevations | [Download](../reference-docs/house-plans/Front%20and%20Rear%20Elevations.pdf) | Front and rear views |
+| Survey | [Download](../reference-docs/civil-engineer/Survey.pdf) | Property survey |
+| Topo | [Download](../reference-docs/civil-engineer/Topo.pdf) | Topographic survey |
+| Plot Plan | [Download](../reference-docs/civil-engineer/Plot%20Plan.pdf) | Site plan with grading |
+
+**Pending Documents (will be added when available):**
+
+- Engineered Septic Field Plans
+- Engineering Specs for Retaining Walls
 
 ---
 
