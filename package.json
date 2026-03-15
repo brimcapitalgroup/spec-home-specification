@@ -1,0 +1,12 @@
+{
+  "name": "spec-home-specification",
+  "version": "1.0.0",
+  "description": "Spec home project specifications",
+  "scripts": {
+    "lint": "markdownlint '**/*.md' --ignore node_modules",
+    "lint:fix": "markdownlint '**/*.md' --ignore node_modules --fix"
+  },
+  "devDependencies": {
+    "markdownlint-cli": "^0.39.0"
+  }
+}
