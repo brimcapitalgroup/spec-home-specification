@@ -1,6 +1,6 @@
 # Plumbing Supply
 
-**Related Contractors:** [Plumbing Contractor](../../contractors/plumbing-contractor/README.md)
+**Related Contractors:** [Plumbing Contractor](../../contractors/plumbing-contractor)
 
 - Drain Pipe: Schedule 40
 - PEX (3/4" and 1/2")

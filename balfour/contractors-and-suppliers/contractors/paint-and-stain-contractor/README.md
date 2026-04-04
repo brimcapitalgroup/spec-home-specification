@@ -1,8 +1,9 @@
 # Paint and Stain Contractor
 
-**Related Suppliers:** [Paint and Stain Supplier](../../suppliers/paint-and-stain-supplier/README.md)
+**Related Suppliers:** [Paint and Stain Supplier](../../suppliers/paint-and-stain-supplier)
 
 - 1-Year Labor Warranty from Date Home Becomes Occupied
+
 - Interior Paint
   - Walls: Sherwin-Williams Evening Shadow, Flat
     - Exception — Closets: Sherwin-Williams Evening Shadow, Eggshell

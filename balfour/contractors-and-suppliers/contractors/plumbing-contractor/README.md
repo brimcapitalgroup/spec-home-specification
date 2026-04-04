@@ -1,6 +1,6 @@
 # Plumbing Contractor
 
-**Related Suppliers:** [Plumbing Fixture Supplier](../../suppliers/plumbing-fixture-supplier/README.md), [Plumbing Supply](../../suppliers/plumbing-supply/README.md)
+**Related Suppliers:** [Plumbing Fixture Supplier](../../suppliers/plumbing-fixture-supplier), [Plumbing Supply](../../suppliers/plumbing-supply)
 
 - 1-Year Labor Warranty from Date Home Becomes Occupied
 

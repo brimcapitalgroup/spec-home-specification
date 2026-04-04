@@ -12,3 +12,15 @@
 - Prep Only
   - Dryer - Gas
   - Washing Machine - Electric
+
+## Material Selections
+
+| Item | Brand | Model | Color | Status | Unit Price | Qty | Total | Last Validated |
+|------|-------|-------|-------|--------|-----------|-----|-------|----------------|
+| Range Hood | — | — | — | Needs Selection | — | 1 | — | — |
+| Kitchen Dishwasher | — | — | — | Needs Selection | — | 1 | — | — |
+| Basement Dishwasher | — | — | — | Needs Selection | — | 1 | — | — |
+| Range | — | — | — | Needs Selection | — | 1 | — | — |
+| Refrigerator / Freezer Combo | — | — | — | Needs Selection | — | 1 | — | — |
+| Dryer | — | — | — | Needs Selection | — | 1 | — | — |
+| Washing Machine | — | — | — | Needs Selection | — | 1 | — | — |

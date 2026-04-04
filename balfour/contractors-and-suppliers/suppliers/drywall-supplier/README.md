@@ -1,6 +1,6 @@
 # Drywall Supplier
 
-**Related Contractors:** [Drywall Contractor](../../contractors/drywall-contractor/README.md)
+**Related Contractors:** [Drywall Contractor](../../contractors/drywall-contractor)
 
 - Drywall Sheets (Garage, First Floor, and Basement)
 - Paper Tape

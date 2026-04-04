@@ -1,6 +1,6 @@
 # Steel Supplier
 
-**Related Contractors:** [Rough Carpenter (Framing)](../../contractors/rough-carpenter/README.md)
+**Related Contractors:** [Rough Carpenter (Framing)](../../contractors/rough-carpenter)
 
 - Take-Off Estimator to Calculate Linear Feet Per Piece (Rough Estimate)
   - Carpenters Will Get Exact Numbers on Order

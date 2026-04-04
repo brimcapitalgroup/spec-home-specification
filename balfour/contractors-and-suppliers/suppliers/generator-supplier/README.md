@@ -1,6 +1,6 @@
 # Generator Supplier
 
-**Related Contractors:** [Electrical Contractor](../../contractors/electrical-contractor/README.md)
+**Related Contractors:** [Electrical Contractor](../../contractors/electrical-contractor)
 
 - Generac 26,000W Dual Fuel Air-Cooled Whole House Standby Generator with Smart Home Monitoring
 - 200-AMP Automated Transfer Switch

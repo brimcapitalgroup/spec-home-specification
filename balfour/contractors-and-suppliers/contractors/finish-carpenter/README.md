@@ -1,8 +1,9 @@
 # Finish Carpenter
 
-**Related Suppliers:** [Cabinet Supplier](../../suppliers/cabinet-supplier/README.md), [Lumber Supplier](../../suppliers/lumber-supplier/README.md), [Window and Door Supplier](../../suppliers/window-and-door-supplier/README.md)
+**Related Suppliers:** [Cabinet Supplier](../../suppliers/cabinet-supplier), [Lumber Supplier](../../suppliers/lumber-supplier), [Window and Door Supplier](../../suppliers/window-and-door-supplier)
 
 - 1-Year Labor Warranty from Date Home Becomes Occupied
+
 - Interior Doors
 - Cabinets
 - Trim and Molding

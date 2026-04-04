@@ -1,6 +1,6 @@
 # Siding Supplier
 
-**Related Contractors:** [Siding Contractor](../../contractors/siding-contractor/README.md)
+**Related Contractors:** [Siding Contractor](../../contractors/siding-contractor)
 
 - James Hardie Cement Board
   - 10" Board and 2" Batten

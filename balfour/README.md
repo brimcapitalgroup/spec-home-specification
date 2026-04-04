@@ -1,24 +1,31 @@
-# Balfour Home Specifications
+# Balfour
 
-## Documents
+**Status:** In Progress
+**Last Updated:** 2026-04-04
 
-| Document | Description |
-|----------|-------------|
-| [Suppliers and Contractors](./docs/suppliers-and-contractors.md) | Complete specs for all contractors and suppliers |
-| [Material Takeoff Briefing](./docs/material-takeoff-briefing.md) | Briefing document for takeoff estimator |
-| [Material Takeoff Checklist](./docs/material-takeoff-checklist.md) | Validation checklist for takeoff deliverables |
-| [Decisions TODO](./docs/decisions-todo-checklist.md) | All pending decisions and selections |
-| [Quotes Checklist](./docs/quotes-checklist.md) | Contractor and supplier quote tracking |
+## Documentation
+
+- [Suppliers and Contractors Spec](docs/suppliers-and-contractors.md)
+- [Decisions / Todo Checklist](docs/decisions-todo-checklist.md)
+- [Quotes Checklist](docs/quotes-checklist.md)
+- [Material Takeoff Briefing](docs/material-takeoff-briefing.md)
+- [Material Takeoff Checklist](docs/material-takeoff-checklist.md)
+
+## Contractors and Suppliers
+
+- [All Contractors and Suppliers](contractors-and-suppliers)
 
 ## Reference Documents
 
-Plans and engineering documents needed for takeoff and quoting.
+- [House Plans and Engineering](reference-docs)
 
-| Category | Link |
-|----------|------|
-| House Plans | [View all plans](./reference-docs/README.md#house-plans) |
-| Civil Engineer | [View survey, topo, plot plan](./reference-docs/README.md#civil-engineer-documents) |
+## Construction Phases
 
-## Individual Contractor and Supplier Specs
-
-See [contractors-and-suppliers/](./contractors-and-suppliers/README.md) for individual spec sheets.
+- Phase 1: Site Work
+- Phase 2: Foundation
+- Phase 3: Framing
+- Phase 4: Dry-In
+- Phase 5: Rough-In
+- Phase 5.5: Insulation & Drywall
+- Phase 6: Finishes
+- Phase 7: Site Finish

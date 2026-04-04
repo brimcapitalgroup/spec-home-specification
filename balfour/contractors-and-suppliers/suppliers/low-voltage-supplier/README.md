@@ -1,6 +1,6 @@
 # Low Voltage Supplier
 
-**Related Contractors:** [Low Voltage Contractor](../../contractors/low-voltage-contractor/README.md)
+**Related Contractors:** [Low Voltage Contractor](../../contractors/low-voltage-contractor)
 
 - Shelly WiFi Relays
   - Hot Water Recirculation Pump Control

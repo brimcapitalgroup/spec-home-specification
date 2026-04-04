@@ -1,6 +1,6 @@
 # Lumber Supplier
 
-**Related Contractors:** [Rough Carpenter (Framing)](../../contractors/rough-carpenter/README.md), [Finish Carpenter](../../contractors/finish-carpenter/README.md)
+**Related Contractors:** [Rough Carpenter (Framing)](../../contractors/rough-carpenter), [Finish Carpenter](../../contractors/finish-carpenter)
 
 - Rough Framing Requirements for Take-Off Estimator
   - Roof Trusses: Engineered by Truss Supply Company
@@ -22,3 +22,15 @@
   - Door Handles
   - Door Stops
   - Ball Catches (Interior French Doors Without Astragal)
+
+## Material Selections
+
+| Item | Brand | Model | Color | Status | Unit Price | Qty | Total | Last Validated |
+|------|-------|-------|-------|--------|-----------|-----|-------|----------------|
+| Crown Molding Profile | — | — | — | Needs Selection | — | — | — | — |
+| Base Molding Profile | — | — | — | Needs Selection | — | — | — | — |
+| Window Casing Profile | — | — | — | Needs Selection | — | — | — | — |
+| Door Casing Profile | — | — | — | Needs Selection | — | — | — | — |
+| Stair Rail/Baluster Style | — | — | — | Needs Selection | — | — | — | — |
+| Door Handles | — | — | — | Needs Selection | — | — | — | — |
+| Bathroom Hardware | — | — | — | Needs Selection | — | — | — | — |

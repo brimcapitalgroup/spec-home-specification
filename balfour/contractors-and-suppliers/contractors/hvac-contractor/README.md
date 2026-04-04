@@ -1,6 +1,6 @@
 # HVAC Contractor
 
-**Related Suppliers:** [HVAC Supplier](../../suppliers/hvac-supplier/README.md)
+**Related Suppliers:** [HVAC Supplier](../../suppliers/hvac-supplier)
 
 - 1-Year Labor Warranty from Date Home Becomes Occupied
 

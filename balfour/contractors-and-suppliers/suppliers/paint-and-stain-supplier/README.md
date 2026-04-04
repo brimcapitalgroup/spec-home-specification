@@ -1,6 +1,6 @@
 # Paint and Stain Supplier
 
-**Related Contractors:** [Paint and Stain Contractor](../../contractors/paint-and-stain-contractor/README.md)
+**Related Contractors:** [Paint and Stain Contractor](../../contractors/paint-and-stain-contractor)
 
 - Interior Paint
   - Sherwin-Williams Evening Shadow, Flat (Walls)

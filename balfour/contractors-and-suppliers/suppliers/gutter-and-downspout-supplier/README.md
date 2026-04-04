@@ -1,6 +1,6 @@
 # Gutter and Downspout Supplier
 
-**Related Contractors:** [Gutter and Downspout Contractor](../../contractors/gutter-and-downspout-contractor/README.md)
+**Related Contractors:** [Gutter and Downspout Contractor](../../contractors/gutter-and-downspout-contractor)
 
 - Gutters: Aluminum Seamless, Satin White
 - Downspouts: Aluminum, Satin White

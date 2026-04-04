@@ -1,8 +1,9 @@
 # Low Voltage Contractor
 
-**Related Suppliers:** [Low Voltage Supplier](../../suppliers/low-voltage-supplier/README.md)
+**Related Suppliers:** [Low Voltage Supplier](../../suppliers/low-voltage-supplier)
 
 - 1-Year Labor Warranty from Date Home Becomes Occupied
+
 - All Low Voltage Wiring: Assume All Walls Including Basement Will Be Finished with Drywall
 - Shelly WiFi Relay Installation for Hot Water Recirculation Pump Control
 - Fireplace Control Systems (Coordinate with HVAC/Mechanical Contractor)

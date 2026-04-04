@@ -1,6 +1,6 @@
 # Septic Supplier
 
-**Related Contractors:** [Septic Contractor](../../contractors/septic-contractor/README.md)
+**Related Contractors:** [Septic Contractor](../../contractors/septic-contractor)
 
 - Elgin Raised Nitrogen Reduction Bed System (Sized for 3 Bedrooms)
   - Septic Tank

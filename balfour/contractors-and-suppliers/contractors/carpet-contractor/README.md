@@ -1,8 +1,9 @@
 # Carpet Contractor
 
-**Related Suppliers:** [Carpet Supplier](../../suppliers/carpet-supplier/README.md)
+**Related Suppliers:** [Carpet Supplier](../../suppliers/carpet-supplier)
 
 - 1-Year Labor Warranty from Date Home Becomes Occupied
+
 - Carpet
   - All Bedrooms
   - Office
