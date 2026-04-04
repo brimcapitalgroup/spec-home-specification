@@ -1,6 +1,6 @@
 # Electrical Contractor
 
-**Related Suppliers:** [Electrical Supplier](../../suppliers/electrical-supplier/README.md), [Generator Supplier](../../suppliers/generator-supplier/README.md)
+**Related Suppliers:** [Electrical Supplier](../../suppliers/electrical-supplier), [Generator Supplier](../../suppliers/generator-supplier)
 
 - 1-Year Labor Warranty from Date Home Becomes Occupied
 

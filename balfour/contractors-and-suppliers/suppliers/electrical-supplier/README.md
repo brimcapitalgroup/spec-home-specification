@@ -1,6 +1,6 @@
 # Electrical Supplier
 
-**Related Contractors:** [Electrical Contractor](../../contractors/electrical-contractor/README.md)
+**Related Contractors:** [Electrical Contractor](../../contractors/electrical-contractor)
 
 - Primary Electrical Panel: Square D QO Panel with Maximum Space Available
 - 200 Amp Garage Subpanel: Square D QO Panel with Half the Spaces of Primary Panel
@@ -23,3 +23,9 @@
 - Keyless Lights
 - Custom Lights (to be quoted)
 - All Light and Ceiling Fan Locations TBD
+
+## Material Selections
+
+| Item | Brand | Model | Color | Status | Unit Price | Qty | Total | Last Validated |
+|------|-------|-------|-------|--------|-----------|-----|-------|----------------|
+| Custom Light Fixtures | — | — | — | Needs Selection | — | — | — | — |

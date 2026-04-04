@@ -1,6 +1,6 @@
 # Window and Door Supplier
 
-**Related Contractors:** [Finish Carpenter](../../contractors/finish-carpenter/README.md), [Rough Carpenter (Framing)](../../contractors/rough-carpenter/README.md)
+**Related Contractors:** [Finish Carpenter](../../contractors/finish-carpenter), [Rough Carpenter (Framing)](../../contractors/rough-carpenter)
 
 - All Windows: Andersen 100 Series
   - Exterior: Black

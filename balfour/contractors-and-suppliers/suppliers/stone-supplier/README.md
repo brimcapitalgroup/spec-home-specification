@@ -1,6 +1,6 @@
 # Stone Supplier
 
-**Related Contractors:** [Excavation Contractor - General](../../contractors/excavation-contractor-general/README.md), [Grading Contractor](../../contractors/grading-contractor/README.md), [Masonry Contractor](../../contractors/masonry-contractor/README.md)
+**Related Contractors:** [Excavation Contractor - General](../../contractors/excavation-contractor-general), [Grading Contractor](../../contractors/grading-contractor), [Masonry Contractor](../../contractors/masonry-contractor)
 
 - Take-Off Estimator to Rough Calculate Cubic Yards for All Stone Types
 - Boulder for Retaining Walls

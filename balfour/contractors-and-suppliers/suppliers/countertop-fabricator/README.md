@@ -1,6 +1,6 @@
 # Countertop Fabricator
 
-**Related Contractors:** [Tile Contractor](../../contractors/tile-contractor/README.md)
+**Related Contractors:** [Tile Contractor](../../contractors/tile-contractor)
 
 - Kitchen
   - Cabinet Counters
@@ -48,3 +48,11 @@
     - Granite
   - Basement Bathroom
     - Granite
+
+## Material Selections
+
+| Item | Brand | Model | Color | Status | Unit Price | Qty | Total | Last Validated |
+|------|-------|-------|-------|--------|-----------|-----|-------|----------------|
+| Kitchen Countertop | — | — | — | Needs Selection | — | — | — | — |
+| Bathroom Vanity Countertops | — | — | — | Needs Selection | — | — | — | — |
+| Basement Bar Countertop | — | — | — | Needs Selection | — | — | — | — |

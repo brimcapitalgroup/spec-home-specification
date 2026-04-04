@@ -1,8 +1,9 @@
 # Drywall Contractor
 
-**Related Suppliers:** [Drywall Supplier](../../suppliers/drywall-supplier/README.md)
+**Related Suppliers:** [Drywall Supplier](../../suppliers/drywall-supplier)
 
 - 1-Year Labor Warranty from Date Home Becomes Occupied
+
 - Scope: Garage, First Floor, and Basement
   - Basement: All Walls and Ceilings
 - Installation: All Walls and Ceilings Screwed and Glued (Including Ceilings)

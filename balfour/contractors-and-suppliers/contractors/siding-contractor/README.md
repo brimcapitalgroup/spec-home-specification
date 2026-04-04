@@ -1,8 +1,9 @@
 # Siding Contractor
 
-**Related Suppliers:** [Siding Supplier](../../suppliers/siding-supplier/README.md)
+**Related Suppliers:** [Siding Supplier](../../suppliers/siding-supplier)
 
 - 1-Year Labor Warranty from Date Home Becomes Occupied
+
 - Install All Materials Where Specified by Design
 - James Hardie Cement Board
   - Siding: 10" Board and 2" Batten

@@ -1,8 +1,9 @@
 # Rough Carpenter (Framing)
 
-**Related Suppliers:** [Lumber Supplier](../../suppliers/lumber-supplier/README.md), [Steel Supplier](../../suppliers/steel-supplier/README.md)
+**Related Suppliers:** [Lumber Supplier](../../suppliers/lumber-supplier), [Steel Supplier](../../suppliers/steel-supplier)
 
 - 1-Year Labor Warranty from Date Home Becomes Occupied
+
 - Rough Framing Requirements for Take-Off Estimator
   - Roof Trusses: Engineered by Truss Supply Company
   - Floor Trusses: Engineered by Truss Supply Company

@@ -1,8 +1,9 @@
 # Concrete Contractor
 
-**Related Suppliers:** [Concrete Supplier](../../suppliers/concrete-supplier/README.md)
+**Related Suppliers:** [Concrete Supplier](../../suppliers/concrete-supplier)
 
 - 1-Year Labor Warranty from Date Home Becomes Occupied
+
 - Basement
   - Wire Mesh Reinforcement
   - Control Joints at 10' Max Spacing, 1" Deep, Saw-Cut Within 12 Hours of Pour, Square Panels

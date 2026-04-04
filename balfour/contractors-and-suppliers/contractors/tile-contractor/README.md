@@ -1,8 +1,9 @@
 # Tile Contractor
 
-**Related Suppliers:** [Tile Supplier](../../suppliers/tile-supplier/README.md), [Countertop Fabricator](../../suppliers/countertop-fabricator/README.md)
+**Related Suppliers:** [Tile Supplier](../../suppliers/tile-supplier), [Countertop Fabricator](../../suppliers/countertop-fabricator)
 
 - 1-Year Labor Warranty from Date Home Becomes Occupied
+
 - All Tile Grout Joints: 1/16" Where Applicable
 - All Tile Pattern: 50/50 Brick Pattern (Running Bond)
 - All Slate: Acid Cleaned and Sealed After Install

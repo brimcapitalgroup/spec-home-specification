@@ -1,6 +1,6 @@
 # Landscaping Supplier
 
-**Related Contractors:** [Landscaping Contractor](../../contractors/landscaping-contractor/README.md), [Sprinkler Contractor](../../contractors/sprinkler-contractor/README.md)
+**Related Contractors:** [Landscaping Contractor](../../contractors/landscaping-contractor), [Sprinkler Contractor](../../contractors/sprinkler-contractor)
 
 - Topsoil (2" Depth for Entire Yard)
 - Kentucky 31 Non-Coated Grass Seed

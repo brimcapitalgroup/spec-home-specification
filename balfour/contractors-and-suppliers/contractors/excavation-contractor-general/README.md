@@ -1,6 +1,6 @@
 # Excavation Contractor - General
 
-**Related Suppliers:** [Stone Supplier](../../suppliers/stone-supplier/README.md)
+**Related Suppliers:** [Stone Supplier](../../suppliers/stone-supplier)
 
 - Basement
 - Retaining Walls: Install per Engineering Spec

@@ -1,6 +1,6 @@
 # Concrete Supplier
 
-**Related Contractors:** [Concrete Contractor](../../contractors/concrete-contractor/README.md)
+**Related Contractors:** [Concrete Contractor](../../contractors/concrete-contractor)
 
 - Basement: 4,000 PSI
 - Deck Post Footing: 4,500 PSI

@@ -1,6 +1,6 @@
 # Tile Supplier
 
-**Related Contractors:** [Tile Contractor](../../contractors/tile-contractor/README.md)
+**Related Contractors:** [Tile Contractor](../../contractors/tile-contractor)
 
 - Slate
   - Foyer
@@ -21,3 +21,12 @@
   - Shower Door Thresholds
   - Shower Benches
   - Shower Niche Base and Mid Shelves
+
+## Material Selections
+
+| Item | Brand | Model | Color | Status | Unit Price | Qty | Total | Last Validated |
+|------|-------|-------|-------|--------|-----------|-----|-------|----------------|
+| Slate Tile | — | — | — | Needs Selection | — | — | — | — |
+| Porcelain Tile | — | — | — | Needs Selection | — | — | — | — |
+| Wood Plank Look Porcelain Tile | — | — | — | Needs Selection | — | — | — | — |
+| Rubber Gym Mat Flooring | — | — | — | Needs Selection | — | — | — | — |

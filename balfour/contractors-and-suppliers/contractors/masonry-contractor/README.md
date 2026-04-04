@@ -1,8 +1,9 @@
 # Masonry Contractor
 
-**Related Suppliers:** [Stone Supplier](../../suppliers/stone-supplier/README.md)
+**Related Suppliers:** [Stone Supplier](../../suppliers/stone-supplier)
 
 - 1-Year Labor Warranty from Date Home Becomes Occupied
+
 - All Brick Pattern: 50/50 Brick Pattern (Running Bond)
 - All Brick, Stone, and Slate: Acid Cleaned and Sealed After Install
 - Framed Chimney Chase Stone Veneer

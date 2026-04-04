@@ -1,8 +1,9 @@
 # Roofing Contractor
 
-**Related Suppliers:** [Roofing Supplier](../../suppliers/roofing-supplier/README.md)
+**Related Suppliers:** [Roofing Supplier](../../suppliers/roofing-supplier)
 
 - 1-Year Labor Warranty from Date Home Becomes Occupied
+
 - Asphalt Shingles: GAF Charcoal Architectural Shingles, 50-Year Warranty
   - Roof Areas per Design Spec
 - Metal: Satin Black Standing Seam, Striated Finish (to Minimize Oil-Canning)

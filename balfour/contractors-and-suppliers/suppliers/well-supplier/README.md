@@ -1,6 +1,6 @@
 # Well Supplier
 
-**Related Contractors:** [Well Contractor](../../contractors/well-contractor/README.md)
+**Related Contractors:** [Well Contractor](../../contractors/well-contractor)
 
 - Minimum 10 Year Labor and Parts Warranty
 - 2HP Constant Pressure Inverter Well Pump (1.25 Supply)

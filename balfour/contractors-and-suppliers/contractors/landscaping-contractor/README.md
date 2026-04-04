@@ -1,8 +1,9 @@
 # Landscaping Contractor
 
-**Related Suppliers:** [Landscaping Supplier](../../suppliers/landscaping-supplier/README.md)
+**Related Suppliers:** [Landscaping Supplier](../../suppliers/landscaping-supplier)
 
 - 1-Year Labor Warranty from Date Home Becomes Occupied
+
 - Topsoil: 2" Depth for Entire Yard
 - Harley Rake
 - Slit Seed and Fertilize

@@ -1,8 +1,9 @@
 # Septic Contractor
 
-**Related Suppliers:** [Septic Supplier](../../suppliers/septic-supplier/README.md)
+**Related Suppliers:** [Septic Supplier](../../suppliers/septic-supplier)
 
 - 1-Year Labor Warranty from Date Home Becomes Occupied
+
 - Elgin Raised Nitrogen Reduction Bed System (Sized for 3 Bedrooms)
   - Septic Tank
   - Pump Tank

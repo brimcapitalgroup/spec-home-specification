@@ -1,6 +1,6 @@
 # HVAC Supplier
 
-**Related Contractors:** [HVAC Contractor](../../contractors/hvac-contractor/README.md)
+**Related Contractors:** [HVAC Contractor](../../contractors/hvac-contractor)
 
 - Outdoor Unit: Bosch IDS 2.0 Inverter Air-Source Heat Pump (20 SEER Minimum)
 - Indoor Coil: Bosch (Sized by Contractor)
@@ -18,3 +18,10 @@
 - Garage Gas Heater: 80K BTU
 - Great Room Fireplace
 - Basement Fireplace
+
+## Material Selections
+
+| Item | Brand | Model | Color | Status | Unit Price | Qty | Total | Last Validated |
+|------|-------|-------|-------|--------|-----------|-----|-------|----------------|
+| Great Room Fireplace | — | — | — | Needs Selection | — | 1 | — | — |
+| Basement Fireplace | — | — | — | Needs Selection | — | 1 | — | — |

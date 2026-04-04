@@ -1,6 +1,6 @@
 # Plumbing Fixture Supplier
 
-**Related Contractors:** [Plumbing Contractor](../../contractors/plumbing-contractor/README.md)
+**Related Contractors:** [Plumbing Contractor](../../contractors/plumbing-contractor)
 
 - Bathrooms (4 Total)
   - Master Full Bathroom
@@ -33,3 +33,14 @@
 - Outdoor
   - 2 Frost Free Garden Spigots
   - 1 Sprinkler Valve: Zurn Wilkins 1-710 1" 710 Pressure Vacuum Breaker Assembly
+
+## Material Selections
+
+| Item | Brand | Model | Color | Status | Unit Price | Qty | Total | Last Validated |
+|------|-------|-------|-------|--------|-----------|-----|-------|----------------|
+| Faucet Brand and Finish | — | — | — | Needs Selection | — | — | — | — |
+| Toilet Brand/Model | — | — | — | Needs Selection | — | 4 | — | — |
+| Sink Brand/Model | — | — | — | Needs Selection | — | — | — | — |
+| Bathtub Brand/Model | — | — | — | Needs Selection | — | 1 | — | — |
+| Shower Fixtures Brand | — | — | — | Needs Selection | — | — | — | — |
+| Kitchen Faucet Brand | — | — | — | Needs Selection | — | 1 | — | — |

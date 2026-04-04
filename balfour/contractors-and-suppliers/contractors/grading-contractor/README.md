@@ -1,6 +1,6 @@
 # Grading Contractor
 
-**Related Suppliers:** [Stone Supplier](../../suppliers/stone-supplier/README.md)
+**Related Suppliers:** [Stone Supplier](../../suppliers/stone-supplier)
 
 ## Rough
 

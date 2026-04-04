@@ -1,8 +1,9 @@
 # Well Contractor
 
-**Related Suppliers:** [Well Supplier](../../suppliers/well-supplier/README.md)
+**Related Suppliers:** [Well Supplier](../../suppliers/well-supplier)
 
 - Minimum 10 Year Labor and Parts Warranty
+
 - Minimum 20 GPM Flow Rate or Greater
 - 2HP Constant Pressure Inverter 1.25 Supply
 - 1-1/4" Non-Lead Brass Check Valve
