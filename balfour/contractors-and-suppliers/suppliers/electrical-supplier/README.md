@@ -4,7 +4,7 @@
 
 - Primary Electrical Panel: Square D QO Panel with Maximum Space Available
 - 200 Amp Garage Subpanel: Square D QO Panel with Half the Spaces of Primary Panel
-- 100 AMP Electrical Panel for DTE Meter for Heat Pump and Furnace
+- 150 AMP Electrical Panel for DTE Meter for Heat Pump and Furnace
 - GFCI Breakers (All Outlets)
 - Wall Plates: Mulberry Brand, Decora Style, Metal, Smooth White — All Locations Including Low Voltage and 240V
 - Outlets and Switches: Leviton White Decora Style Throughout
@@ -18,8 +18,14 @@
 - Kitchen 6 Recessed Lights
 - Kitchen Garbage Disposal Air Switch
 - Kitchen 2 Popup Plugs (Island)
-- Kitchen 3 Ceiling Electrical Enclosures for Pendant Lights (Island)
+- Kitchen 3 Ceiling Electrical Enclosures for Triple Pendant (Island)
 - 20 Amp Underground Circuit Materials (Septic Pump Tank)
+- Garage Cold-Storage Attic: provide lighting and at least one 20A outlet in the garage attic storage area.
 - Keyless Lights
 - Custom Lights (to be quoted)
-- All Light and Ceiling Fan Locations TBD
+- Lighting Plan Fixtures
+  - Lighted Ceiling Fans + 4 Recessed Each: Every Bedroom, Office, and Entertainment Room
+  - Great Room: Large Lighted Ceiling Fan + 4 Recessed + 2 Fireplace Spotlights
+  - Dining: Coffer Lights
+  - Kitchen Island: Triple Pendant
+  - All Other / Remaining Locations: Custom Metal Fixtures (to be Quoted)

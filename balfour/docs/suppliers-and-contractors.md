@@ -82,13 +82,13 @@
 **Related Suppliers:** [Carpet Supplier](#carpet-supplier)
 
 - 1-Year Labor Warranty from Date Home Becomes Occupied
-- Carpet
+- Carpet: Premium Carpet over the Thickest Pad
   - All Bedrooms
-  - Office
+  - Office (Home Office)
   - Both Master Closets
   - Bedroom Closets
   - Closet in Hallway to 2nd and 3rd Bedrooms
-  - Basement TV Room
+  - Basement TV Room (Media Room)
 
 ## Concrete Contractor
 
@@ -115,7 +115,7 @@
   - Wire Mesh Reinforcement
   - Control Joints at 10' Max Spacing, 1" Deep, Saw-Cut Within 12 Hours of Pour, Square Panels
   - Spray-Applied Concrete Stain and Sealer
-- Primary Driveway
+- Primary Driveway (2-Car-Wide Concrete)
   - Welded Wire Metal Mesh Reinforcement
   - Control Joints at 10' Max Spacing, 1" Deep, Saw-Cut Within 12 Hours of Pour, Square Panels
   - Spray-Applied Concrete Stain and Sealer
@@ -123,7 +123,7 @@
   - Wire Mesh Reinforcement
   - Control Joints at 8' Max Spacing, 1" Deep, Saw-Cut Within 12 Hours of Pour, Square Panels
   - Spray-Applied Concrete Stain and Sealer
-- Secondary Driveway
+- Secondary Driveway (Rear Service Driveway, Sized for an RV or Boat)
   - Welded Wire Metal Mesh Reinforcement
   - Control Joints at 10' Max Spacing, 1" Deep, Saw-Cut Within 12 Hours of Pour, Square Panels
   - Spray-Applied Concrete Stain and Sealer
@@ -143,10 +143,12 @@
 - Finish: Tape, Cover Coat, and Finish Coat (All Surfaces)
   - Tape: Paper Tape with Sheetrock Pre-Mixed All-Purpose Joint Compound (Green Bucket)
   - Cover and Finish Coats: Sheetrock Plus 3 Premixed Lightweight Joint Compound (Blue Carton)
+- Rev-01 Take-Off Quantities (Dan McJunkin, Est. 26-0518-5544-R01): 285 sheets 4'x12'x1/2" regular (93 ceiling + 192 wall); 31 sheets 4'x12'x5/8" Type-X firecode (22 garage ceiling + 9 garage wall); 15 sheets 4'x10'x1/2" water-resistant (wet areas); 12 rolls tape (500'/roll); 66 lb screws 1-1/4"; 35 buckets 4.5-gal Green Bucket (tape & float) + 41 cartons 3.5-gal Blue Carton (skim/cover); ~15,536 SF calculated. [SELECTION] tape type, screw type, joint-compound brand — builder to confirm.
+- Kitchen/Dining Studio Ceiling: Drywall the 12-ft Flat Coffered "Studio Ceiling" Over the Kitchen and Dining Area (Coffered Detail, Per Plan)
 - Pre-Prime Inspection and Repair Included
 - Pre-Paint Repair Included
 - Exclusions
-  - Great Room Fireplace Wall: Floor-to-Ceiling (Slate)
+  - Great Room Fireplace Wall: Floor-to-Ceiling (Montauk Black Slate)
   - Open Doorways Without Doors
   - Basement Mechanical Room Ceiling
 
@@ -165,7 +167,7 @@
 - 200 Amp Garage Subpanel: Square D QO Panel with Half the Spaces of Primary Panel
   - Cover for Drywall Wall Install
   - Connected to Main Panel with Feed-Through Lugs (Subfeed Lugs)
-- 100 AMP Electrical Panel for DTE Meter for Heat Pump and Furnace
+- 150 AMP Electrical Panel for DTE Meter for Heat Pump and Furnace
   - Service Entrance: Conduit Required from Meter to Home Penetration; Interior Wiring Installed per Code
   - Add Tankless Water Heaters if Permitted
 - Garage EV Charger Prep (2 Locations - One per Garage Door)
@@ -195,10 +197,11 @@
   - All Outlets Required to be Protected by GFCI Breakers
   - No GFCI Plugs or Arc Fault Breakers to be Used Anywhere in the Home
 - Dedicated 15 Amp Outlet in Attic at Radon Pipe for Future Radon Pump where vent pipe located
-- 2nd DTE 100 AMP Meter for HVAC System (DTE Heat Pump Discount Program)
+- Garage Cold-Storage Attic: provide lighting and at least one 20A outlet in the garage attic storage area.
+- 2nd DTE 150 AMP Meter for entire HVAC System — DTE CoolCurrents Program (Rate D1.1) — separately-metered, interruptible heat-pump/AC rate (up to ~25% on heat-pump heating and ~29% on cooling; interruptible May–Sept, no interruptions Oct–April)
   - Separate HVAC Subpanel
   - Feeds Heat Pump, Air Handler, and Backup Gas Furnace
-  - Equipment on Meter to be Verified with DTE Application
+  - Equipment on Meter to be Verified with DTE Application; confirm CoolCurrents enrollment
 - Ceiling Fan Boxes: All Boxes in Ceiling Fan Locations to be Rated for Fan Weight
 - 20 Amp Underground Circuit to Septic Pump Tank
 - Kitchen Under-Cabinet Track Plug System (In Lieu of Wall Outlets)
@@ -208,7 +211,13 @@
   - Garbage Disposal with Air Switch
   - 2 Popup Plugs in Island (No Outlets Cut into Island Cabinets)
   - 3 Ceiling Electrical Enclosures Over Island for Hanging Pendant Lights
-- All Light and Ceiling Fan Locations TBD
+- Lighting Layout (Fixtures)
+  - Every Bedroom, Office, and Entertainment / Media Room: Lighted Ceiling Fan + 4 Recessed Lights
+  - Great Room: Large Lighted Ceiling Fan + 4 Recessed Lights + 2 Recessed Spotlights at the Fireplace
+  - Dining: Coffer Lights in the Studio Ceiling + Triple Pendant over the Island (Fed from the 3 Ceiling Electrical Enclosures Over the Island)
+  - Kitchen: 6 Recessed Lights (See Kitchen Above)
+  - All Remaining Fixtures: Custom Metal
+- Remaining Custom-Metal Fixture and Ceiling-Fan Locations TBD
 - Standby Generator Install: Generac 26,000W Dual Fuel Air-Cooled Whole House Standby Generator with Smart Home Monitoring and 200-AMP Automated Transfer Switch
   - Provides Whole House Brownout and Power Outage Protection
   - Generator Load Shed Devices on All Garage 240V Circuits
@@ -224,7 +233,7 @@
   - Prior to Paint
     - Keyless Lights
   - After Paint
-    - Custom (to be quoted)
+    - Custom Metal (to be quoted)
 
 ## Engineer
 
@@ -243,11 +252,12 @@
 - Well Water Trench
   - From Well Head to Foundation
 - Utilities Trench (Shared Trench for All Utilities and Sewage Pipe to Septic)
-- Shared French Drain System (Gutter Downspouts and Exterior Sump Pump)
+- Shared Sub-Surface French Drain System (Gutter Downspouts, Exterior Sump Pump, and Water-Filter Backwash)
   - Install All French Drain Pipe and Fittings
   - All Downspout Drain Lines Tied Into Common French Drain
   - Exterior Sump Pump Discharge Tied Into Common French Drain
-  - Single Popup Emitter at Rear Property Line
+  - Water-Filter (Iron Filter / Softener) Backwash Discharge Tied Into Common French Drain
+  - Pop-Up Emitters at Lakeside
 
 ## Excavation Contractor - Septic
 
@@ -267,9 +277,15 @@
 - Cabinets
 - Trim and Molding
 - All Interior Molding, Trim, and Casing: Minimize Seams While Minimizing Waste
-- Crown: All Rooms with Flat Ceiling Corners (Excluding Closets)
-- Window Casing
-- Stair Rails, Post and Balusters
+- Large Crown Molding: Every Flat-Ceilinged Room (Excluding Closets) — 1,068 LF (Rev-01; itemized by room in the Material Takeoff Briefing) [SELECTION: profile]
+- Window Casing: All Windows Fully Cased — Full-Perimeter Casing LF NOT in Rev-01 Take-Off (Gap; Rev-01 carries window casing pieces 7 ea 12' + 11 ea 14' + 14 ea 16' + jamb trim + 1x6 jamb extensions)
+- Baseboard: 66 ea 16' (≈1,056 LF) [SELECTION: profile]; Base Shoe: 65 ea 16' (≈1,040 LF) [SELECTION: profile]
+- Door Casing: 108 ea 10' + 7 ea 12' + 44 ea 14' + 17 ea 16' [SELECTION: profile]
+- Stair Rails, Post and Balusters — Interior: Poplar Hardwood Handrail + CW Hoffman Black Gothic STEEL Balusters and Posts (Newels); Exterior Deck: Black Aluminum (Rust-Resistant). This supersedes any prior wood-baluster spec. Rev-01 (superseded): 42 ea 36" wood balusters; 2 metal newels (52"); handrail 6' + 12'; wall rail 10' + 3 brackets [CONFIRM: vs Dan's wood-baluster take-off count]
+- Stairs (Rev-01): Attic stair unit (HD 10', 30"x54", 300 lb); MDF skirt 2 ea 1x12x16 + cap 1 ea 1x8x16; 16 custom risers + 14 custom treads (manufactured, milled edge)
+- Closet/Pantry (Rev-01): 19 ea 1x12x16 shelving + 19 ea 1x2x16 cleats + 8 ea 1-3/8"x16' clothes poles [SELECTION: shelving material]
+- Rev-01 Take-Off source: Dan McJunkin, Est. 26-0518-5544-R01
+- Custom hardwood decorative braces (brackets) at the accent roof over the garage windows, per the elevations
 - Hardware
   - Door Handles
   - Door Stops
@@ -290,18 +306,19 @@
 **Related Suppliers:** [Garage Door Supplier](#garage-door-supplier)
 
 - 1-Year Labor Warranty from Date Home Becomes Occupied
-- 1 — 18' x 8' Garage Door with Direct Drive Electric Opener
-- 1 — 9' x 8' Garage Door with Direct Drive Electric Opener
+- Garage Door Finish: Factory Black Finish (durable, warranted factory coating — NOT field-painted)
+- 1 — 18' x 8' Garage Door (Factory Black Finish) with Direct Drive Electric Opener
+- 1 — 9' x 8' Garage Door (Factory Black Finish) with Direct Drive Electric Opener
 
 ## Glass Contractor
 
 **Related Suppliers:** [Glass Supplier](#glass-supplier)
 
 - 1-Year Labor Warranty from Date Home Becomes Occupied
-- Shower Doors: Frameless Euro Glass, Minimum 3/8" Thick, Clear Glass
+- Shower Doors: Frameless Euro Glass, 1/2" Thick, Clear Glass
   - Hinges and Hardware: Metal Finish to Match Existing Bathroom Hardware
   - Handles: TBD
-- All Bathrooms: Frameless Mirrors Mounted on Backsplash
+- All Bathrooms: Custom-Fabricated Frameless Glass Mirrors Mounted on Backsplash
 
 ## Grading Contractor
 
@@ -320,8 +337,8 @@
 **Related Suppliers:** [Gutter and Downspout Supplier](#gutter-and-downspout-supplier)
 
 - 1-Year Labor Warranty from Date Home Becomes Occupied
-- Gutters: Aluminum Seamless, Satin White
-- Downspouts: Aluminum, Satin White
+- Gutters: Aluminum Seamless, Copper-Colored (to Simulate Copper)
+- Downspouts: Aluminum, Copper-Colored (to Simulate Copper)
   - Terminate into Corrugated Pipe via Downspout-to-Pipe Adapters
   - Corrugated Pipe Ties into Shared French Drain System
 
@@ -330,7 +347,7 @@
 **Related Suppliers:** [Hardwood Flooring Supplier](#hardwood-flooring-supplier)
 
 - 1-Year Labor Warranty from Date Home Becomes Occupied
-- 8" Engineered Hardwood Flooring
+- 8" Engineered Wire-Brushed White Oak (varied grain)
   - Dining Area
   - Kitchen and Pantry
   - Great Room
@@ -350,11 +367,12 @@
   - Full Insulation End-to-End on All Ducts in Unconditioned Spaces
 - Bathroom Exhaust Fans: 6" Ducts (All Bathrooms)
 - Dual-Fuel Inverter System
+  - Provides Both Heating and Central Air Conditioning (Cooling): the Bosch dual-fuel inverter heat pump supplies central air conditioning/cooling and heating, with the backup gas furnace providing heating on the coldest days
   - Sizing: HVAC Contractor to Choose Tonnage and BTU Ratings
     - Must Handle -15°F Winter Days and 115°F Summer Days
   - Outdoor Unit: Bosch IDS 2.0 Inverter Air-Source Heat Pump (20 SEER Minimum)
   - Indoor Coil: Bosch (Sized by Contractor)
-  - Backup Gas Furnace: Bosch (96% AFUE Minimum, Two-Stage, Variable-Speed ECM)
+  - Backup Gas Furnace: SEPARATE Bosch 96% AFUE Gas Furnace (Two-Stage, Variable-Speed ECM) — Auto-Engages Only in Extreme Cold via the AprilAire 8920W Dual-Fuel Control
   - Filtration: AprilAire 2210 or 2410 with MERV 11 Media
   - Whole House AprilAire Humidifier
   - Thermostat: AprilAire 8920W Dual-Fuel Control
@@ -371,16 +389,18 @@
   - Heater
   - Install
   - Gas Line Installed by Plumber; HVAC to Make Final Connection as Needed
-- Great Room Fireplace
+- Great Room Fireplace: See-Through / Pass-Through (Viewable from Great Room AND Deck)
   - Fireplace Installation by HVAC/Mechanical Contractor
     - 2-Wire Dry Contact Trigger Supplied
-  - Venting: Outside or Inside
+  - Venting: Great-Room Chimney with Custom Metal Chimney Cap and Functional Vent (Vents the Pass-Through Fireplace)
+  - Smart / Google Nest Controlled
   - Auto On/Off Fans (As Applicable)
   - Gas Line Installed by Plumber; HVAC to Make Final Connection as Needed
 - Basement Fireplace
   - Fireplace Installation by HVAC/Mechanical Contractor
     - 2-Wire Dry Contact Trigger Supplied
-  - Venting: Framed Chimney Space with Custom Black Fabricated Chimney Cap
+  - Venting: Primary Limestone Chimney with Custom Metal Chimney Cap and Functional Vent (Shared with Kitchen Range Hood)
+  - Smart / Google Nest Controlled
   - Auto On/Off Fans (As Applicable)
   - Gas Line Installed by Plumber; HVAC to Make Final Connection as Needed
 - Vents Through Brick or Stone: Satin Black Paint
@@ -395,9 +415,12 @@
 **Related Suppliers:** [Insulation Supplier](#insulation-supplier)
 
 - 1-Year Labor Warranty from Date Home Becomes Occupied
-- Walls: Batt Insulation (First Floor, Basement, and Garage — All Exterior Walls)
-- Ceilings: Batt Insulation with Cellulose Blown-In Over Batts (All Ceilings)
-- Band Joist / Rim Joist: Spray Foam
+- Walls: Batt Insulation (First Floor, Basement, and Garage — All Exterior Walls) — R-21 Batts (5-1/2"), 5,657 SF (10% waste)
+- Ceilings: Batt Insulation with Cellulose Blown-In Over Batts (All Ceilings, Including the Garage Ceiling Under the Cold-Storage Attic — Garage Fully Insulated: Exterior Walls and Ceiling) — R-38 Batts (5-1/2"), 1,882 SF + 93 Bags 25# Cellulose R-38 (1.3 lb/SF; 10% waste)
+- Garage: Interior ~981 sq ft (26'11" x 36'5.5"); Fully Insulated Walls and Ceiling
+- Foundation/Slab (Basement + Garage): 76 Sheets 4'x8'x2" Foam Plank + 908 LF Seam/Vapor-Barrier Tape (Rev-01 slab-insulation; also Concrete scope)
+- Band Joist / Rim Joist: Spray Foam (Not Carried as a Rev-01 Take-Off Line — Field-Measure)
+- Rev-01 Take-Off source: Dan McJunkin, Est. 26-0518-5544-R01
 - Air Sealing: All Electrical Boxes, Window Rough Opening Gaps, Penetrations, Cracks, and Gaps Sealed with Spray Foam Prior to Insulation
 
 ## Insurance Agent
@@ -427,7 +450,7 @@
 - 1-Year Labor Warranty from Date Home Becomes Occupied
 - All Low Voltage Wiring: Assume All Walls Including Basement Will Be Finished with Drywall
 - Shelly WiFi Relay Installation for Hot Water Recirculation Pump Control
-- Fireplace Control Systems (Coordinate with HVAC/Mechanical Contractor)
+- Fireplace Control Systems (Coordinate with HVAC/Mechanical Contractor; All Fireplaces Smart / Google Nest Controlled)
   - Great Room Fireplace
     - 24V DC Transformer Installation
     - 24V DC Relay Installation (Neutral Wire Trigger Capable)
@@ -466,26 +489,29 @@
   - All Doorbell Wiring to Extra Large Low Voltage Panel Box
   - Low Voltage Panel Box Location: Builder to Choose
   - Panel Box with DIN Mount 24V DC Transformer
+- Smart Touchscreen Door Locks — all exterior doors (including the mudroom and garage service doors)
 
 ## Masonry Contractor
 
 **Related Suppliers:** [Stone Supplier](#stone-supplier)
 
 - 1-Year Labor Warranty from Date Home Becomes Occupied
-- All Brick Pattern: 50/50 Brick Pattern (Running Bond)
-- All Brick, Stone, and Slate: Acid Cleaned and Sealed After Install
-- Framed Chimney Chase Stone Veneer
+- All King-Size Brick Pattern: 50/50 Brick Pattern (Running Bond)
+- King-Size Brick: Smooth Sand/Buff Brick with a Sandy Face, Set in Light-Sand Mortar
+- Split-Face Limestone Veneer: Irregular-Shaped, Set in Light-Gray Mortar
+- All Brick, Split-Face Limestone Veneer, and Slate: Acid Cleaned and Sealed After Install
+- Framed Chimney Chase Split-Face Limestone Veneer
   - Waterproof Outdoor-Rated Polymer-Modified Thinset for Scratch Coat
-  - Stone Veneer Applied with Same Thinset
+  - Split-Face Limestone Veneer Applied with Same Thinset
   - 1/2" Grout Spacing
   - Outdoor-Rated Colored Sanded Grout to Match Exterior Brick Grout
 - Cleaning
 - Masonry
   - Exterior
-    - Brick Install
-    - Brick and Materials
-    - Stone Facade Install
-    - Stone Facade and Materials
+    - King-Size Brick Install
+    - King-Size Brick and Materials
+    - Split-Face Limestone Veneer Facade Install
+    - Split-Face Limestone Veneer Facade and Materials
 
 ## Paint and Stain Contractor
 
@@ -494,13 +520,18 @@
 - 1-Year Labor Warranty from Date Home Becomes Occupied
 - Interior Paint
   - Walls: Sherwin-Williams Evening Shadow, Flat
-    - Exception — Closets: Sherwin-Williams Evening Shadow, Eggshell
+    - Exception — All Closets and the Pantry: Sherwin-Williams Evening Shadow, Eggshell
   - Ceilings: Sherwin-Williams Ceiling White, Flat
-  - Trim, Interior Doors, Bi-Fold Doors, Garage-to-Mudroom Door, and Poplar Stair Rails: Sherwin-Williams Extra White, Semi-Gloss
+  - All Interior Trim, Interior Doors, Bi-Fold Doors, Garage-to-Mudroom Door, Window Casing, Base, Crown, and Poplar Stair Rails: Sherwin-Williams Extra White, Semi-Gloss
+- Exterior Paint
+  - None — garage doors are a factory black finish by the garage-door supplier (durable, warranted factory coating; NOT field-painted)
 - Interior Stain
   - Front Door: Stained in American Walnut
+- Exterior Stain (American Walnut, to Match Front Door) [CONFIRM: added per round-2 correction]
+  - Custom Hardwood Decorative Braces (Brackets) over the Garage Windows
+  - Front and Rear Porch Posts (Exposed American Walnut Hardwood Posts) [CONFIRM: exposed posts vs 12" vinyl post wraps in Siding spec — post-wrap vs exposed-post conflict]
 - Deck Stain and Treatment
-  - Cedar Deck: Stained and Sealed to Natural Cedar Finish
+  - Cedar Deck: Stained and Sealed to Natural Cedar Finish [CONFIRM: deck now Trex composite — does deck stain/seal still apply?]
 
 ## Permits
 
@@ -525,7 +556,7 @@
 - Basement Ejector Pump for Drain System
 - Basement Mechanical Room Floor Drain for Furnace
 - Basement Sump Pump System
-  - 2 Hard-Wired Sump Pumps (Offset for Redundancy)
+  - Dual (2) Hard-Wired Sump Pumps (Offset for Redundancy)
   - Both Exit to Same Exterior Drain
   - Backflow Preventer on Each Pump
   - Sealed Cover with Plastic Glass View Port
@@ -564,35 +595,35 @@
 - Fixtures
   - Bathrooms (4 Total)
     - Master Full Bathroom
-      - 2 Sinks with Wide Grip Faucets
+      - 2 Sinks with Delta Stryke Laminar-Flow Widespread Faucets
       - Shower
-      - 1 Piece Toilet
+      - Swiss Madison One-Piece Toilet
       - 1/4 Turn Valves for Sinks and Toilet
     - Jack and Jill Full Bathroom
-      - 2 Sinks with Wide Grip Faucets
+      - 2 Sinks with Delta Stryke Laminar-Flow Widespread Faucets
       - Drop-In Bathtub with Shower
         - Mixing Valve Located Under Vanity
-      - 1 Piece Toilet
+      - Swiss Madison One-Piece Toilet
       - 1/4 Turn Valves for Sinks and Toilet
     - Powder Bathroom
-      - 1 Sink with Wide Grip Faucet
-      - 1 Piece Toilet
+      - 1 Sink with Delta Stryke Laminar-Flow Widespread Faucet
+      - Swiss Madison One-Piece Toilet
       - 1/4 Turn Valves for Sink and Toilet
     - Basement Full Bathroom
-      - 1 Sink with Wide Grip Faucet
+      - 1 Sink with Delta Stryke Laminar-Flow Widespread Faucet
       - Shower
-      - 1 Piece Toilet
+      - Swiss Madison One-Piece Toilet
       - 1/4 Turn Valves for Sink and Toilet
   - Kitchen
-    - 1 Sink with Single Piece Faucet
+    - 1 Sink with Delta Stryke Laminar-Flow Single-Hole Faucet
     - Filtered Water Dispenser from Reverse Osmosis
     - Dishwasher Drain Support
   - Basement Bar
-    - 1 Sink with Single Piece Faucet
+    - 1 Sink with Delta Stryke Laminar-Flow Single-Hole Faucet
     - Filtered Water Spigot from Reverse Osmosis
     - Dishwasher Drain Support
   - Mudroom
-    - 1 Sink with Single Piece Faucet
+    - 1 Sink with Delta Stryke Laminar-Flow Single-Hole Faucet
   - Laundry Room
     - Washing Machine: 1/2" Hot and Cold Water Ports with Drain
   - Outdoor
@@ -607,11 +638,11 @@
   - All Supply Piping to and from Iron Filters and Softener: PEX
   - 1-1/4" Stainless Steel 3-Way Valves
   - Bypass Valves for Zero Downtime Servicing
-  - Drain to Exterior
+  - Backwash Drain (Tied Into Shared Sub-Surface French Drain System, Exiting at Lakeside Pop-Up Emitters)
     - Schedule 40 PVC with Pressure Fittings
     - Backflow Preventer
     - 3 Check Valves (One per Filter) to Prevent Backflow Between Filters
-    - 3-into-1 Configuration to Single Output to Exterior Drain
+    - 3-into-1 Configuration to Single Output Tied Into Shared Sub-Surface French Drain System
   - Garden Hoses Water Supply
     - 3-Way Valve to Select Water from Iron Filter Only or from Softener
   - Sprinkler System Water Supply
@@ -639,12 +670,9 @@
 **Related Suppliers:** [Roofing Supplier](#roofing-supplier)
 
 - 1-Year Labor Warranty from Date Home Becomes Occupied
-- Asphalt Shingles: GAF Charcoal Architectural Shingles, 50-Year Warranty
-  - Roof Areas per Design Spec
-- Metal: Satin Black Standing Seam, Striated Finish (to Minimize Oil-Canning)
-  - Minimum 30 to 50 Year Warranty
-  - Roof Areas per Design Spec
-- Drip Edge: Satin Black
+- Asphalt Shingles: GAF Charcoal Black Architectural Shingles, Lifetime Limited Warranty
+  - All Roof Areas per Design Spec
+- Drip Edge: Black
 - Exterior Chimney Chases
   - Plywood Sheathing Fully Wrapped in Ice and Water Shield Membrane (All Sides, Top to Bottom)
   - Stainless Steel Screws with Silicone Caulk on Heads
@@ -663,7 +691,9 @@
 - Screw Down Flooring
 - No Drop Flooring
 - Install Blocking for All Handrails, Towel Holders, and Bathroom Toilet Paper Holders
-- Deck Install
+- Deck Install (Trex Composite Decking; Includes Under-Deck Drainage System Routing Rainwater to Gutters/Downspouts So the Walkout Patio Below Stays Dry)
+- Kitchen/Dining Studio Ceiling: Frame the 12-ft Flat Coffered "Studio Ceiling" Over the Kitchen and Dining Area, with an 8"x12" Beam Where the Vaulted Ceiling Steps Down to the Studio Ceiling (Per Plan)
+- Garage Cold-Storage Attic: truss the attic over the full length of the garage as load-bearing; frame and plywood-sheathe the attic floor for cold storage; provide a pull-down attic access stair at the mudroom-door landing.
 
 ## Septic Contractor
 
@@ -684,20 +714,20 @@
 
 - 1-Year Labor Warranty from Date Home Becomes Occupied
 - Install All Materials Where Specified by Design
-- James Hardie Cement Board
+- Board-and-Batten Vinyl Siding (10" board / 2" batten, wood-grain, cool bluish-toned black)
   - Siding: 10" Board and 2" Batten
-  - Porch and Deck Post Wraps: 12"
+  - Porch and Deck Post Wraps: 12" [CONFIRM: owner now wants EXPOSED American Walnut hardwood porch posts (stained to match the front door) instead of 12" vinyl post wraps — post-wrap vs exposed-post conflict]
   - All Other Trim per Design Spec
-  - Standard White with Wood Grain
+  - Cool Bluish-Toned Black with Wood Grain
 - Aluminum
   - All Aluminum: Satin White Smooth Finish
   - Roof Fascia: Satin White Smooth
   - Garage Door Opening Trim: Satin White Smooth
-  - Soffit: Wood Grain if Available, Smooth if Not
+  - Soffit: Vinyl
   - All Aluminum Vent Exits on Side of House: Satin White Smooth
 - Vents Through Brick or Stone: Satin Black Paint
   - Metal Vents with Door Flaps
-- Deck Ceiling: Hardie Board (Ceiling Above Deck)
+- Deck Ceiling: Hardie Board (Ceiling Above Deck) [CONFIRM: siding changed to vinyl; deck ceiling still Hardie?]
 
 ## Silt Fence Contractor
 
@@ -719,23 +749,25 @@
 - All Tile Grout Joints: 1/16" Where Applicable
 - All Tile Pattern: 50/50 Brick Pattern (Running Bond)
 - All Slate: Acid Cleaned and Sealed After Install
-- Slate
+- Montauk Black Slate (12 in. x 24 in., natural textured)
   - Foyer
-  - Closet by Mudroom
+  - Powder Room
   - Mudroom
   - Laundry Room
-  - Powder Room
-  - Great Room Fireplace Surround: Floor-to-Ceiling Slate (Floor, Hearth, and Full Wall to Ceiling)
-  - Basement Walkout Landing Area
+  - Great Room Fireplace Surround: Floor-to-Ceiling Montauk Black Slate (Floor, Hearth, and Full Wall to Ceiling)
+  - Great Room Fireplace Chimney Box
+  - Basement Fireplace Chimney Box
+  - Basement Walkout Landing: Interior Montauk Black Slate Landing with Single Step Up (Basement ~4 ft Below Grade) [CONFIRM: change D relocates the walkout landing from porcelain to Montauk Black Slate]
 - Porcelain Tile
-  - All Bathrooms (Excluding Powder Room)
+  - All Bathrooms (Excluding Powder Room — Powder Room is Montauk Black Slate)
+  - Closet by Mudroom
   - Basement Open Area and Bar
     - Wood Plank Look Porcelain Tile
   - All Showers: Full Porcelain Tile on Floor, Walls, Niche, and Ceiling
-    - Exclusions: Granite Shower Door Thresholds, Shower Benches, Niche Base, and Niche Mid Shelves
+    - Exclusions: Grade-E Brazilian Exotic Granite Shower Door Thresholds, Shower Benches, Niche Base, and Niche Mid Shelves
 - Rubber Gym Mat Flooring
   - Basement Gym
-- Granite Shower Components: Installed by Tile Contractor
+- Grade-E Brazilian Exotic Granite Shower Components: Installed by Tile Contractor
   - Shower Door Thresholds
   - Shower Benches
   - Shower Niche Base and Mid Shelves
@@ -746,15 +778,15 @@
   - Buried Service from Pole to Meter
     - 3" PVC Conduit
   - 200 Amp Primary Meter
-  - 100 Amp Heat Pump Meter
+  - 150 Amp Heat Pump Meter (DTE CoolCurrents, Rate D1.1)
 - Internet (Xfinity)
   - 1.5" PVC Conduit from Pole to Exterior Xfinity Connection Box
 - Natural Gas (Consumers Energy)
   - Directionally Bored from Street to Gas Meter
-  - Gas Meter BTU Capacity: To Be Determined
+  - Gas Meter: 1.8 Million BTU High-Capacity Meter
 - Water: Private Well (See Plumbing)
 - Sewer: Private Septic System (See Septic Contractor)
-- Storm Water / Sump / Gutters: Shared French Drain System (See Excavation Contractor - General)
+- Storm Water / Sump / Gutters / Water-Filter Backwash: Shared Sub-Surface French Drain System, Exiting at Lakeside Pop-Up Emitters (See Excavation Contractor - General)
 
 ## Well Contractor
 
@@ -774,15 +806,18 @@
 
 ## Appliance Supplier
 
+- Most premium ZLINE editions, standard stainless steel (not panel-ready)
+- Lower-Level (Basement) and Wet Bar Appliances: All Matching ZLINE
 - Units and Install
   - Kitchen Dishwasher
-  - Basement Dishwasher
+  - Kitchen Island Beverage Fridge: ZLINE
+  - Basement / Wet Bar Dishwasher: ZLINE (Matching)
   - Range
   - Range Hood: 400 CFM Maximum (No Makeup Air Required)
-    - Venting: Framed Chimney Space with Custom Black Fabricated Chimney Cap
+    - Venting: Primary Limestone Chimney with Custom Metal Chimney Cap and Functional Vent (Shared with Basement Fireplace)
   - Refrigerator / Freezer Combo
     - Water Line from Reverse Osmosis
-  - Basement Mini Fridge
+  - Basement / Wet Bar Mini Fridge: ZLINE (Matching)
 - Prep Only
   - Dryer - Gas
   - Washing Machine - Electric
@@ -791,7 +826,12 @@
 
 **Related Contractors:** [Finish Carpenter](#finish-carpenter)
 
-- All Cabinets: Semi-Custom
+- All Cabinets: Shaker-Style, Semi-Custom
+- Species by Room:
+  - Kitchen Island, Powder Room, and Mudroom: Natural Hickory
+  - Rest of Kitchen and Laundry Room: Maple, Off-White
+  - All Bathrooms (Excluding Powder Room): Cherry Wood, Shaker, Stained with a Dark-Mocha Edge Fading to a Light-Espresso Center (NOT a Red-Toned Cherry Look)
+  - Basement Wet Bar: Shaker-Style, Semi-Custom (Grade-E Brazilian Exotic Granite Counters; Matching ZLINE Appliances) [CONFIRM: wet bar cabinet species not specified]
 - Design to be completed
 - Selection to be completed
 - Cabinet Pulls
@@ -802,13 +842,13 @@
 
 **Related Contractors:** [Carpet Contractor](#carpet-contractor)
 
-- Carpet
+- Carpet: Premium Carpet over the Thickest Pad
   - All Bedrooms
-  - Office
+  - Office (Home Office)
   - Both Master Closets
   - Bedroom Closets
   - Closet in Hallway to 2nd and 3rd Bedrooms
-  - Basement TV Room
+  - Basement TV Room (Media Room)
 
 ## Concrete Supplier
 
@@ -820,9 +860,9 @@
 - Front Porch and Steps: 4,500 PSI, Air-Entrained (5–7%)
 - Front Porch Roof Support Footing: 4,500 PSI
 - Garage: 4,500 PSI, Air-Entrained (5–7%)
-- Primary Driveway: 4,500 PSI, Air-Entrained (5–7%)
+- Primary Driveway (2-Car-Wide Concrete): 4,500 PSI, Air-Entrained (5–7%)
 - Rear Patio: 4,500 PSI, Air-Entrained (5–7%)
-- Secondary Driveway: 4,500 PSI, Air-Entrained (5–7%)
+- Secondary Driveway (Rear Service Driveway, Sized for an RV or Boat): 4,500 PSI, Air-Entrained (5–7%)
 - Wire Mesh Reinforcement
 - Welded Wire Metal Mesh Reinforcement
 - #4 Rebar
@@ -834,6 +874,7 @@
 
 **Related Contractors:** [Tile Contractor](#tile-contractor)
 
+- All Granite: Grade-E Brazilian Exotic Granite (Most Premium Tier)
 - Kitchen
   - Cabinet Counters
   - Island
@@ -871,24 +912,30 @@
   - Basement Bar
     - Travertine
   - Powder Bathroom
-    - Granite
+    - Grade-E Brazilian Exotic Granite
   - Laundry Room
-    - Granite
+    - Grade-E Brazilian Exotic Granite
   - Jack and Jill Bathroom
-    - Granite
+    - Grade-E Brazilian Exotic Granite
   - Master Bathroom
-    - Granite
+    - Grade-E Brazilian Exotic Granite
   - Basement Bathroom
-    - Granite
+    - Grade-E Brazilian Exotic Granite
 
 ## Drywall Supplier
 
 **Related Contractors:** [Drywall Contractor](#drywall-contractor)
 
 - Drywall Sheets (Garage, First Floor, and Basement)
-- Paper Tape
-- Sheetrock Pre-Mixed All-Purpose Joint Compound (Green Bucket)
-- Sheetrock Plus 3 Premixed Lightweight Joint Compound (Blue Carton)
+  - 285 sheets 4'x12'x1/2" Regular (93 ceiling + 192 wall)
+  - 31 sheets 4'x12'x5/8" Type-X Firecode (22 garage ceiling + 9 garage wall)
+  - 15 sheets 4'x10'x1/2" Water-Resistant (wet areas)
+  - ~15,536 SF calculated (area note)
+- Paper Tape — 12 rolls (500'/roll) [SELECTION: type]
+- Drywall Screws — 66 lb, 1-1/4" [SELECTION: type]
+- Sheetrock Pre-Mixed All-Purpose Joint Compound (Green Bucket, tape & float) — 35 buckets (4.5 gal) [SELECTION: brand/type]
+- Sheetrock Plus 3 Premixed Lightweight Joint Compound (Blue Carton, skim/cover) — 41 cartons (3.5 gal) [SELECTION: brand/type]
+- Rev-01 Take-Off source: Dan McJunkin, Est. 26-0518-5544-R01
 
 ## Dumpster Rental
 
@@ -900,7 +947,7 @@
 
 - Primary Electrical Panel: Square D QO Panel with Maximum Space Available
 - 200 Amp Garage Subpanel: Square D QO Panel with Half the Spaces of Primary Panel
-- 100 AMP Electrical Panel for DTE Meter for Heat Pump and Furnace
+- 150 AMP Electrical Panel for DTE Meter for Heat Pump and Furnace
 - GFCI Breakers (All Outlets)
 - Wall Plates: Mulberry Brand, Decora Style, Metal, Smooth White — All Locations Including Low Voltage and 240V
 - Outlets and Switches: Leviton White Decora Style Throughout
@@ -916,16 +963,21 @@
 - Kitchen 2 Popup Plugs (Island)
 - Kitchen 3 Ceiling Electrical Enclosures for Pendant Lights (Island)
 - 20 Amp Underground Circuit Materials (Septic Pump Tank)
+- Garage Cold-Storage Attic: provide lighting and at least one 20A outlet in the garage attic storage area.
 - Keyless Lights
-- Custom Lights (to be quoted)
-- All Light and Ceiling Fan Locations TBD
+- Custom Metal Lights (to be quoted)
+- Lighted Ceiling Fans (Bedrooms, Office, Entertainment / Media Rooms, Great Room)
+- Recessed Lights (4 per Bedroom/Office/Entertainment Room; 4 + 2 Fireplace Spotlights in Great Room)
+- Triple Pendant over Kitchen Island; Coffer Lights in Dining Studio Ceiling
+- Remaining Custom-Metal Fixture and Ceiling-Fan Locations TBD
 
 ## Garage Door Supplier
 
 **Related Contractors:** [Garage Door Contractor](#garage-door-contractor)
 
-- 1 — 18' x 8' Garage Door
-- 1 — 9' x 8' Garage Door
+- Garage Door Finish: Factory Black Finish (durable, warranted factory coating — NOT field-painted)
+- 1 — 18' x 8' Garage Door (Factory Black Finish)
+- 1 — 9' x 8' Garage Door (Factory Black Finish)
 - 2 Direct Drive Electric Openers
 
 ## Generator Supplier
@@ -940,17 +992,17 @@
 
 **Related Contractors:** [Glass Contractor](#glass-contractor)
 
-- Shower Doors: Frameless Euro Glass, Minimum 3/8" Thick, Clear Glass
+- Shower Doors: Frameless Euro Glass, 1/2" Thick, Clear Glass
   - Hinges and Hardware: Metal Finish to Match Existing Bathroom Hardware
   - Handles: TBD
-- All Bathrooms: Frameless Mirrors Mounted on Backsplash
+- All Bathrooms: Custom-Fabricated Frameless Glass Mirrors Mounted on Backsplash
 
 ## Gutter and Downspout Supplier
 
 **Related Contractors:** [Gutter and Downspout Contractor](#gutter-and-downspout-contractor)
 
-- Gutters: Aluminum Seamless, Satin White
-- Downspouts: Aluminum, Satin White
+- Gutters: Aluminum Seamless, Copper-Colored (to Simulate Copper)
+- Downspouts: Aluminum, Copper-Colored (to Simulate Copper)
 - Downspout-to-Pipe Adapters
 - Corrugated Pipe
 
@@ -958,7 +1010,7 @@
 
 **Related Contractors:** [Hardwood Flooring Contractor](#hardwood-flooring-contractor)
 
-- 8" Engineered Hardwood Flooring
+- 8" Engineered Wire-Brushed White Oak (varied grain)
   - Dining Area
   - Kitchen and Pantry
   - Great Room
@@ -968,9 +1020,10 @@
 
 **Related Contractors:** [HVAC Contractor](#hvac-contractor)
 
+- Bosch Dual-Fuel Inverter Heat Pump: Provides Both Heating and Central Air Conditioning (Cooling)
 - Outdoor Unit: Bosch IDS 2.0 Inverter Air-Source Heat Pump (20 SEER Minimum)
 - Indoor Coil: Bosch (Sized by Contractor)
-- Backup Gas Furnace: Bosch (96% AFUE Minimum, Two-Stage, Variable-Speed ECM)
+- Backup Gas Furnace: SEPARATE Bosch 96% AFUE Gas Furnace (Two-Stage, Variable-Speed ECM) — Auto-Engages Only in Extreme Cold via the AprilAire 8920W Dual-Fuel Control
 - Filtration: AprilAire 2210 or 2410 with MERV 11 Media
 - Whole House AprilAire Humidifier
 - Thermostat: AprilAire 8920W Dual-Fuel Control
@@ -989,9 +1042,11 @@
 
 **Related Contractors:** [Insulation Contractor](#insulation-contractor)
 
-- Batt Insulation (First Floor, Basement, and Garage — All Exterior Walls)
-- Batt Insulation with Cellulose Blown-In Over Batts (All Ceilings)
-- Spray Foam (Band Joist / Rim Joist and Air Sealing)
+- Batt Insulation (First Floor, Basement, and Garage — All Exterior Walls) — R-21 Batts (5-1/2"), 5,657 SF (10% waste)
+- Batt Insulation with Cellulose Blown-In Over Batts (All Ceilings, Including the Garage Ceiling Under the Cold-Storage Attic) — R-38 Batts (5-1/2"), 1,882 SF + 93 Bags 25# Cellulose R-38 (1.3 lb/SF; 10% waste)
+- Foundation/Slab Foam Plank (Basement + Garage) — 76 Sheets 4'x8'x2" + 908 LF Seam/Vapor-Barrier Tape
+- Spray Foam (Band Joist / Rim Joist and Air Sealing) — Not Carried as a Rev-01 Take-Off Line (Field-Measure)
+- Rev-01 Take-Off source: Dan McJunkin, Est. 26-0518-5544-R01
 
 ## Landscaping Supplier
 
@@ -1020,6 +1075,7 @@
 - Cat 6 Cable and Wall Outlets
 - Cat 6 Ceiling Outlets for PoE WiFi Access Points
 - Google Hardwired Doorbell Cameras (4)
+- Smart Touchscreen Door Locks — all exterior doors (including the mudroom and garage service doors)
 - 2-Wire 18 Gauge Wiring
 - Extra Large Low Voltage Panel Box
 - DIN Mount 24V DC Transformer (Panel Box)
@@ -1035,15 +1091,21 @@
   - No Dimensional Lumber Longer Than 16'
   - LVL Requirements: Estimator to Identify Where Needed and Specify if Engineering Required
 - Deck
-  - Cedar Decking Material
-  - Waterproof Deck Gutter System with Downspouts
-  - Deck Stain and Sealer (Estimator to Calculate Quantities)
-  - Ceiling Above Deck: Hardie Board (Installed by Siding Contractor)
-- Trim and Molding
-- Crown Molding
+  - Trex Composite Decking Material
+  - Waterproof Deck Gutter System with Downspouts (Under-Deck Drainage: routes rainwater from the deck above the walkout to gutters/downspouts so the patio below stays dry)
+  - Deck Stain and Sealer (Estimator to Calculate Quantities) [CONFIRM: deck now Trex composite — does deck stain/seal still apply?]
+  - Ceiling Above Deck: Hardie Board (Installed by Siding Contractor) [CONFIRM: siding changed to vinyl; deck ceiling still Hardie?]
+- Trim and Molding (Finish Trim Materials — see RFQ-26 Interior Trim, Molding & Stair Materials; framing lumber is RFQ-13)
+- Large Crown Molding (Every Flat-Ceilinged Room, Excluding Closets) — 1,068 LF (Rev-01; itemized by room in the Material Takeoff Briefing) [SELECTION: profile]
+- Baseboard 66 ea 16' (≈1,056 LF) + Base Shoe 65 ea 16' (≈1,040 LF) [SELECTION: profile]
+- Door Casing: 108 ea 10' + 7 ea 12' + 44 ea 14' + 17 ea 16' [SELECTION: profile]
+- Window Casing (All Windows Fully Cased) — Full-Perimeter LF NOT in Rev-01 (Gap); Rev-01 carries window casing pieces 7 ea 12' + 11 ea 14' + 14 ea 16', jamb trim, and 1x6 #1 WP jamb extensions (7 ea 12' + 11 ea 14' + 14 ea 16')
 - Stair Rails, Post and Balusters
-  - Interior
-  - Exterior
+  - Interior: Poplar Hardwood Handrail + CW Hoffman Black Gothic STEEL Balusters and Posts (Newels). This supersedes any prior wood-baluster spec. Rev-01 (superseded): 42 ea 36" wood balusters; 2 metal newels (52"); handrail 6' + 12'; wall rail 10' + 3 brackets [CONFIRM: vs Dan's wood-baluster take-off count]
+  - Exterior Deck: Black Aluminum (Rust-Resistant) (not in Rev-01) [CONFIRM: vs Dan's wood-baluster take-off count]
+- Stairs (Rev-01): Attic stair unit (HD 10', 30"x54", 300 lb); MDF skirt 2 ea 1x12x16 + cap 1 ea 1x8x16; 16 custom risers + 14 custom treads
+- Closet/Pantry (Rev-01): 19 ea 1x12x16 shelving + 19 ea 1x2x16 cleats + 8 ea 1-3/8"x16' clothes poles [SELECTION: shelving material]
+- Rev-01 Take-Off source: Dan McJunkin, Est. 26-0518-5544-R01
 - Finish Hardware
   - Door Handles
   - Door Stops
@@ -1055,13 +1117,18 @@
 
 - Interior Paint
   - Sherwin-Williams Evening Shadow, Flat (Walls)
-  - Sherwin-Williams Evening Shadow, Eggshell (Closets)
+  - Sherwin-Williams Evening Shadow, Eggshell (All Closets and the Pantry)
   - Sherwin-Williams Ceiling White, Flat (Ceilings)
-  - Sherwin-Williams Extra White, Semi-Gloss (Trim, Interior Doors, Bi-Fold Doors, Garage-to-Mudroom Door, Poplar Stair Rails)
+  - Sherwin-Williams Extra White, Semi-Gloss (All Interior Trim, Interior Doors, Bi-Fold Doors, Garage-to-Mudroom Door, Window Casing, Base, Crown, Poplar Stair Rails)
+- Exterior Paint
+  - None — garage doors are a factory black finish by the garage-door supplier (durable, warranted factory coating; NOT field-painted)
 - Interior Stain
   - American Walnut (Front Door)
+- Exterior Stain (American Walnut, to Match Front Door) [CONFIRM: added per round-2 correction]
+  - Custom Hardwood Decorative Braces over Garage Windows
+  - Front and Rear Porch Posts (Exposed American Walnut Hardwood Posts) [CONFIRM: exposed posts vs 12" vinyl post wraps in Siding spec — post-wrap vs exposed-post conflict]
 - Deck Stain and Sealer
-  - Natural Cedar Finish
+  - Natural Cedar Finish [CONFIRM: deck now Trex composite — does deck stain/seal still apply?]
 
 ## Plumbing Fixture Supplier
 
@@ -1069,32 +1136,32 @@
 
 - Bathrooms (4 Total)
   - Master Full Bathroom
-    - 2 Sinks with Wide Grip Faucets
+    - 2 Sinks with Delta Stryke Laminar-Flow Widespread Faucets
     - Shower Fixtures
-    - 1 Piece Toilet
+    - Swiss Madison One-Piece Toilet
     - 1/4 Turn Valves for Sinks and Toilet
   - Jack and Jill Full Bathroom
-    - 2 Sinks with Wide Grip Faucets
+    - 2 Sinks with Delta Stryke Laminar-Flow Widespread Faucets
     - Drop-In Bathtub with Shower Fixtures
     - Mixing Valve
-    - 1 Piece Toilet
+    - Swiss Madison One-Piece Toilet
     - 1/4 Turn Valves for Sinks and Toilet
   - Powder Bathroom
-    - 1 Sink with Wide Grip Faucet
-    - 1 Piece Toilet
+    - 1 Sink with Delta Stryke Laminar-Flow Widespread Faucet
+    - Swiss Madison One-Piece Toilet
     - 1/4 Turn Valves for Sink and Toilet
   - Basement Full Bathroom
-    - 1 Sink with Wide Grip Faucet
+    - 1 Sink with Delta Stryke Laminar-Flow Widespread Faucet
     - Shower Fixtures
-    - 1 Piece Toilet
+    - Swiss Madison One-Piece Toilet
     - 1/4 Turn Valves for Sink and Toilet
 - Kitchen
-  - 1 Sink with Single Piece Faucet
+  - 1 Sink with Delta Stryke Laminar-Flow Single-Hole Faucet
   - Garbage Disposal
 - Basement Bar
-  - 1 Sink with Single Piece Faucet
+  - 1 Sink with Delta Stryke Laminar-Flow Single-Hole Faucet
 - Mudroom
-  - 1 Sink with Single Piece Faucet
+  - 1 Sink with Delta Stryke Laminar-Flow Single-Hole Faucet
 - Outdoor
   - 2 Frost Free Garden Spigots
   - 1 Sprinkler Valve: Zurn Wilkins 1-710 1" 710 Pressure Vacuum Breaker Assembly
@@ -1109,7 +1176,7 @@
 - Water Hammer Arrestors
 - Basement Ejector Pump
 - Basement Sump Pump System
-  - 2 Hard-Wired Sump Pumps
+  - Dual (2) Hard-Wired Sump Pumps
   - Backflow Preventers
   - Sealed Cover with Plastic Glass View Port
 - Radon Exhaust Pipeline Materials
@@ -1139,10 +1206,8 @@
 
 **Related Contractors:** [Roofing Contractor](#roofing-contractor)
 
-- Asphalt Shingles: GAF Charcoal Architectural Shingles, 50-Year Warranty
-- Metal: Satin Black Standing Seam, Striated Finish (to Minimize Oil-Canning)
-  - Minimum 30 to 50 Year Warranty
-- Drip Edge: Satin Black
+- Asphalt Shingles: GAF Charcoal Black Architectural Shingles, Lifetime Limited Warranty
+- Drip Edge: Black
 - Ice and Water Shield Membrane (Exterior Chimney Chases)
 - Plywood Sheathing (Chimney Chases)
 
@@ -1160,16 +1225,16 @@
 
 **Related Contractors:** [Siding Contractor](#siding-contractor)
 
-- James Hardie Cement Board
+- Board-and-Batten Vinyl Siding (10" board / 2" batten, wood-grain, cool bluish-toned black)
   - 10" Board and 2" Batten
-  - Porch and Deck Post Wraps: 12"
+  - Porch and Deck Post Wraps: 12" [CONFIRM: owner now wants EXPOSED American Walnut hardwood porch posts (stained to match the front door) instead of 12" vinyl post wraps — post-wrap vs exposed-post conflict]
   - All Other Trim per Design Spec
-  - Standard White with Wood Grain
+  - Cool Bluish-Toned Black with Wood Grain
 - Aluminum
   - All Aluminum: Satin White Smooth Finish
   - Roof Fascia: Satin White Smooth
   - Garage Door Opening Trim: Satin White Smooth
-  - Soffit: Wood Grain if Available, Smooth if Not
+  - Soffit: Vinyl
   - All Aluminum Vent Exits on Side of House: Satin White Smooth
 - Metal Vents with Door Flaps (Satin Black Paint)
 
@@ -1194,12 +1259,12 @@
 - Take-Off Estimator to Rough Calculate Cubic Yards for All Stone Types
 - Boulder for Retaining Walls
   - Determined from Plot Plan by Take-Off Estimator
-- Primary Driveway
+- Primary Driveway (2-Car-Wide Concrete)
   - Rough
     - 1 x 3
   - Finish Under Concrete
     - 21AA
-- Secondary Driveway
+- Secondary Driveway (Rear Service Driveway, Sized for an RV or Boat)
   - Rough
     - 1 x 3
   - Finish Under Concrete
@@ -1217,22 +1282,24 @@
 
 **Related Contractors:** [Tile Contractor](#tile-contractor)
 
-- Slate
+- Montauk Black Slate (12 in. x 24 in., natural textured)
   - Foyer
-  - Closet by Mudroom
+  - Powder Room
   - Mudroom
   - Laundry Room
-  - Powder Room
-  - Great Room Fireplace Surround: Floor-to-Ceiling Slate (Floor, Hearth, and Full Wall to Ceiling)
-  - Basement Walkout Landing Area
+  - Great Room Fireplace Surround: Floor-to-Ceiling Montauk Black Slate (Floor, Hearth, and Full Wall to Ceiling)
+  - Great Room Fireplace Chimney Box
+  - Basement Fireplace Chimney Box
+  - Basement Walkout Landing: Interior Montauk Black Slate Landing with Single Step Up (Basement ~4 ft Below Grade) [CONFIRM: change D relocates the walkout landing from porcelain to Montauk Black Slate]
 - Porcelain Tile
-  - All Bathrooms (Excluding Powder Room)
+  - All Bathrooms (Excluding Powder Room — Powder Room is Montauk Black Slate)
+  - Closet by Mudroom
   - Basement Open Area and Bar
     - Wood Plank Look Porcelain Tile
   - All Showers: Full Porcelain Tile on Floor, Walls, Niche, and Ceiling
 - Rubber Gym Mat Flooring
   - Basement Gym
-- Granite Shower Components
+- Grade-E Brazilian Exotic Granite Shower Components
   - Shower Door Thresholds
   - Shower Benches
   - Shower Niche Base and Mid Shelves
@@ -1256,20 +1323,21 @@
   - Exterior: Black
   - Interior: White
 - Exterior Sliding Doors
-  - Great Room: 2-Panel Sliding Door, 8' Height
-  - Basement: 3-Panel Sliding Door, 8' Height
+  - Great Room: Dual (2) Glass Sliding Doors to the Deck, 8' Height Each
+  - Basement Walkout: Glass Sliding Door onto an Interior Montauk Black Slate Landing with a Single Step Up (Basement ~4 ft Below Grade), 3-Panel, 8' Height [CONFIRM: lower-level/basement doors are standard 6'-8" height per the new rule, but this walkout slider is specified at 8' — keep at 8'?]
 - Doors
   - General
-    - All Doors (Interior, Exterior, Glass Sliding, and Bi-Fold): 8' Height
+    - All Main-Floor Doors (Interior, Exterior, Glass Sliding, and Bi-Fold): 8' Height
+    - All Lower-Level / Basement Doors: Standard Height (6'-8")
     - All Swing and French Style Doors: Ball Bearing Black Hinges
     - All Swing and French Style Doors: Factory Back-Beveled Latch Edge
   - Exterior
-    - Front Door: Therma-Tru Fiberglass French Door
-      - Near Full-Lite Decorative Glass Insert
+    - Front Door: Therma-Tru Wood-Grain French Entry Door
+      - Full-Height Custom Decorative Glass (Mix of Privacy and Clear) with Integrated Metalwork
       - Astragal Between Panels
-      - Wood Grain Texture, Unfinished (To Be Stained — Color Selection Under Paint and Stain)
+      - Wood Grain Texture, Unfinished (To Be Stained American Walnut — See Paint and Stain)
     - Garage to Mudroom: Fiberglass, Fireproof, 2-Panel Shaker Style
-    - Garage Doors: Per Design Spec
+    - Garage Doors: Factory Black Finish (durable, warranted factory coating — NOT field-painted; see Garage Door Supplier)
   - Interior
     - All Interior Swing Doors: Hollow Core Wood, 2-Panel Shaker Style
     - Closet French Doors: Ball Catch

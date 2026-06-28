@@ -14,6 +14,7 @@
 - Cat 6 Cable and Wall Outlets
 - Cat 6 Ceiling Outlets for PoE WiFi Access Points
 - Google Hardwired Doorbell Cameras (4)
+- Smart Touchscreen Door Locks — all exterior doors (including the mudroom and garage service doors)
 - 2-Wire 18 Gauge Wiring
 - Extra Large Low Voltage Panel Box
 - DIN Mount 24V DC Transformer (Panel Box)

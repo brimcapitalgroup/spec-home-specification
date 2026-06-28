@@ -38,7 +38,7 @@ Comprehensive tracking for all contractor and supplier quotes.
 | Contractor | Quote Received | Scope Notes |
 |------------|----------------|-------------|
 | [ ] Concrete Contractor | | Foundation, basement, garage, driveways, patios, porches |
-| [ ] Masonry Contractor | | Brick, stone facade, chimney chase stone veneer |
+| [ ] Masonry Contractor | | King-Size brick, split-face limestone veneer facade, chimney chase split-face limestone veneer |
 
 ### Phase 4: Framing
 
@@ -50,8 +50,8 @@ Comprehensive tracking for all contractor and supplier quotes.
 
 | Contractor | Quote Received | Scope Notes |
 |------------|----------------|-------------|
-| [ ] Roofing Contractor | | Shingles, metal roofing, chimney chases |
-| [ ] Siding Contractor | | Hardie board, aluminum trim, soffit, fascia |
+| [ ] Roofing Contractor | | Shingles (all roof areas), chimney chases |
+| [ ] Siding Contractor | | Board-and-batten vinyl siding, aluminum fascia/trim, vinyl soffit |
 | [ ] Gutter and Downspout Contractor | | Seamless aluminum gutters |
 | [ ] Garage Door Contractor | | 18x8 and 9x8 doors with openers |
 
@@ -61,7 +61,7 @@ Comprehensive tracking for all contractor and supplier quotes.
 |------------|----------------|-------------|
 | [ ] Plumbing Contractor - Rough | | Overall quote - all pipe/fittings included per spec |
 | [ ] Electrical Contractor - Rough | | Overall quote - all wire/devices included per spec |
-| [ ] HVAC Contractor - Rough | | Ductwork, heat pump, fireplaces, garage heater |
+| [ ] HVAC Contractor - Rough | | Ductwork, heat pump (heating + central AC/cooling), fireplaces, garage heater |
 | [ ] Low Voltage Contractor | | Cat 6, doorbell cameras, fireplace controls |
 
 **Note:** Plumber and electrician provide overall quotes per spec. Custom items already specified - no separate itemization of wire/pipe needed.
@@ -77,8 +77,8 @@ Comprehensive tracking for all contractor and supplier quotes.
 
 | Contractor | Quote Received | Scope Notes |
 |------------|----------------|-------------|
-| [ ] Tile Contractor | | Slate, porcelain, rubber gym flooring |
-| [ ] Hardwood Flooring Contractor | | 8" engineered hardwood |
+| [ ] Tile Contractor | | Montauk Black slate, porcelain, rubber gym flooring |
+| [ ] Hardwood Flooring Contractor | | 8" engineered wire-brushed white oak |
 | [ ] Carpet Contractor | | Bedrooms, office, closets, basement TV |
 | [ ] Finish Carpenter | | Doors, cabinets, trim, molding, hardware |
 | [ ] Paint and Stain Contractor | | Interior paint/stain, deck stain |
@@ -101,7 +101,7 @@ Comprehensive tracking for all contractor and supplier quotes.
 
 | Utility | Contact | Scope |
 |---------|---------|-------|
-| [ ] DTE Electric | | 200A primary + 100A heat pump meters |
+| [ ] DTE Electric | | 200A primary + 150A heat-pump meter |
 | [ ] Consumers Energy | | Natural gas service |
 | [ ] Xfinity | | Internet conduit |
 
@@ -122,8 +122,8 @@ Comprehensive tracking for all contractor and supplier quotes.
 
 | Supplier | Quote Received | Scope Notes |
 |----------|----------------|-------------|
-| [ ] Roofing Supplier | | Shingles, metal roofing, ice shield |
-| [ ] Siding Supplier | | Hardie board, aluminum |
+| [ ] Roofing Supplier | | Shingles (all roof areas), ice shield |
+| [ ] Siding Supplier | | Board-and-batten vinyl siding, aluminum |
 | [ ] Window and Door Supplier | | Andersen 100 windows, all doors |
 | [ ] Garage Door Supplier | | 18x8, 9x8 doors + openers |
 | [ ] Gutter and Downspout Supplier | | Seamless aluminum, corrugated pipe |
@@ -136,7 +136,7 @@ Comprehensive tracking for all contractor and supplier quotes.
 | [ ] Generator Supplier | | Generac 26KW + transfer switch |
 | [ ] Plumbing Supply | | Pipe, PEX, manifold, pumps, water treatment |
 | [ ] Plumbing Fixture Supplier | | Faucets, toilets, sinks, tub, shower fixtures |
-| [ ] HVAC Supplier | | Heat pump, furnace, ductwork, fireplaces |
+| [ ] HVAC Supplier | | Heat pump (heating + central AC/cooling), furnace, ductwork, fireplaces |
 | [ ] Insulation Supplier | | Batt, cellulose, spray foam |
 | [ ] Low Voltage Supplier | | Cat 6, relays, server rack, doorbells |
 
@@ -145,8 +145,8 @@ Comprehensive tracking for all contractor and supplier quotes.
 | Supplier | Quote Received | Scope Notes |
 |----------|----------------|-------------|
 | [ ] Drywall Supplier | | Sheets, tape, compound |
-| [ ] Tile Supplier | | Slate, porcelain, rubber gym mat |
-| [ ] Hardwood Flooring Supplier | | 8" engineered hardwood |
+| [ ] Tile Supplier | | Montauk Black slate, porcelain, rubber gym mat |
+| [ ] Hardwood Flooring Supplier | | 8" engineered wire-brushed white oak |
 | [ ] Carpet Supplier | | Carpet + pad |
 | [ ] Paint and Stain Supplier | | Sherwin-Williams paint, deck stain |
 | [ ] Glass Supplier | | Shower doors, mirrors |

@@ -5,12 +5,12 @@
 - Take-Off Estimator to Rough Calculate Cubic Yards for All Stone Types
 - Boulder for Retaining Walls
   - Determined from Plot Plan by Take-Off Estimator
-- Primary Driveway
+- Primary Driveway (2-Car-Wide)
   - Rough
     - 1 x 3
   - Finish Under Concrete
     - 21AA
-- Secondary Driveway
+- Secondary Driveway (Rear Service, Sized for RV or Boat)
   - Rough
     - 1 x 3
   - Finish Under Concrete

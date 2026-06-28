@@ -13,7 +13,7 @@
 - 200 Amp Garage Subpanel: Square D QO Panel with Half the Spaces of Primary Panel
   - Cover for Drywall Wall Install
   - Connected to Main Panel with Feed-Through Lugs (Subfeed Lugs)
-- 100 AMP Electrical Panel for DTE Meter for Heat Pump and Furnace
+- 150 AMP Electrical Panel for DTE Meter for Heat Pump and Furnace
   - Service Entrance: Conduit Required from Meter to Home Penetration; Interior Wiring Installed per Code
   - Add Tankless Water Heaters if Permitted
 - Garage EV Charger Prep (2 Locations - One per Garage Door)
@@ -43,10 +43,11 @@
   - All Outlets Required to be Protected by GFCI Breakers
   - No GFCI Plugs or Arc Fault Breakers to be Used Anywhere in the Home
 - Dedicated 15 Amp Outlet in Attic at Radon Pipe for Future Radon Pump where vent pipe located
-- 2nd DTE 100 AMP Meter for HVAC System (DTE Heat Pump Discount Program)
+- Garage Cold-Storage Attic: provide lighting and at least one 20A outlet in the garage attic storage area.
+- 2nd DTE 150 AMP Meter for entire HVAC System — DTE CoolCurrents Program (Rate D1.1) — separately-metered, interruptible heat-pump/AC rate (up to ~25% on heat-pump heating and ~29% on cooling; interruptible May–Sept, no interruptions Oct–April)
   - Separate HVAC Subpanel
   - Feeds Heat Pump, Air Handler, and Backup Gas Furnace
-  - Equipment on Meter to be Verified with DTE Application
+  - Equipment on Meter to be Verified with DTE Application; confirm CoolCurrents enrollment
 - Ceiling Fan Boxes: All Boxes in Ceiling Fan Locations to be Rated for Fan Weight
 - 20 Amp Underground Circuit to Septic Pump Tank
 - Kitchen Under-Cabinet Track Plug System (In Lieu of Wall Outlets)
@@ -55,8 +56,13 @@
   - 6 Recessed Lights
   - Garbage Disposal with Air Switch
   - 2 Popup Plugs in Island (No Outlets Cut into Island Cabinets)
-  - 3 Ceiling Electrical Enclosures Over Island for Hanging Pendant Lights
-- All Light and Ceiling Fan Locations TBD
+  - 3 Ceiling Electrical Enclosures Over Island for Triple Pendant Lights
+- Lighting Plan (Fixtures Custom, to be Quoted Unless Noted)
+  - Every Bedroom, Office, and Entertainment Room: Lighted Ceiling Fan + 4 Recessed
+  - Great Room: Large Lighted Ceiling Fan + 4 Recessed + 2 Fireplace Spotlights
+  - Dining: Coffer Lights
+  - Kitchen Island: Triple Pendant
+  - All Other / Remaining Locations: Custom Metal Fixtures (to be Quoted)
 - Standby Generator Install: Generac 26,000W Dual Fuel Air-Cooled Whole House Standby Generator with Smart Home Monitoring and 200-AMP Automated Transfer Switch
   - Provides Whole House Brownout and Power Outage Protection
   - Generator Load Shed Devices on All Garage 240V Circuits

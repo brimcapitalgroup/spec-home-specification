@@ -2,6 +2,7 @@
 
 **Related Contractors:** [Garage Door Contractor](../../contractors/garage-door-contractor/README.md)
 
-- 1 — 18' x 8' Garage Door
-- 1 — 9' x 8' Garage Door
+- Garage Door Finish: Factory Black Finish (durable, warranted factory coating — NOT field-painted)
+- 1 — 18' x 8' Garage Door (Factory Black Finish)
+- 1 — 9' x 8' Garage Door (Factory Black Finish)
 - 2 Direct Drive Electric Openers

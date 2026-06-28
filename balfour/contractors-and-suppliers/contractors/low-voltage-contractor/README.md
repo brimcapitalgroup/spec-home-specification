@@ -6,17 +6,20 @@
 - All Low Voltage Wiring: Assume All Walls Including Basement Will Be Finished with Drywall
 - Shelly WiFi Relay Installation for Hot Water Recirculation Pump Control
 - Fireplace Control Systems (Coordinate with HVAC/Mechanical Contractor)
-  - Great Room Fireplace
+  - All Fireplaces: Smart / Google Nest Controlled [CONFIRM: Nest integration with existing Shelly WiFi relay scheme]
+  - Great Room Fireplace (See-Through / Pass-Through: Great Room and Deck)
     - 24V DC Transformer Installation
     - 24V DC Relay Installation (Neutral Wire Trigger Capable)
     - Shelly WiFi Relay to Trigger 24V DC Relay
     - Signals to 2-Wire Dry Contact Trigger
+    - Google Nest Smart Control
     - Decorative Switch Override
   - Basement Fireplace
     - 24V DC Transformer Installation
     - 24V DC Relay Installation (Neutral Wire Trigger Capable)
     - Shelly WiFi Relay to Trigger 24V DC Relay
     - Signals to 2-Wire Dry Contact Trigger
+    - Google Nest Smart Control
     - Decorative Switch Override
 - Full 2-Post Full Height Server Rack in Mechanical Room
   - Rack Location: Builder to Choose
@@ -44,3 +47,4 @@
   - All Doorbell Wiring to Extra Large Low Voltage Panel Box
   - Low Voltage Panel Box Location: Builder to Choose
   - Panel Box with DIN Mount 24V DC Transformer
+- Smart Touchscreen Door Locks — all exterior doors (including the mudroom and garage service doors)

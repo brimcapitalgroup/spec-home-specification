@@ -8,9 +8,9 @@
 - Front Porch and Steps: 4,500 PSI, Air-Entrained (5-7%)
 - Front Porch Roof Support Footing: 4,500 PSI
 - Garage: 4,500 PSI, Air-Entrained (5-7%)
-- Primary Driveway: 4,500 PSI, Air-Entrained (5-7%)
+- Primary Driveway (2-Car-Wide): 4,500 PSI, Air-Entrained (5-7%)
 - Rear Patio: 4,500 PSI, Air-Entrained (5-7%)
-- Secondary Driveway: 4,500 PSI, Air-Entrained (5-7%)
+- Secondary Driveway (Rear Service, Sized for RV or Boat): 4,500 PSI, Air-Entrained (5-7%)
 - Wire Mesh Reinforcement
 - Welded Wire Metal Mesh Reinforcement
 - #4 Rebar

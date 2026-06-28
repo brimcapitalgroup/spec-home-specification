@@ -7,8 +7,9 @@
 - Well Water Trench
   - From Well Head to Foundation
 - Utilities Trench (Shared Trench for All Utilities and Sewage Pipe to Septic)
-- Shared French Drain System (Gutter Downspouts and Exterior Sump Pump)
+- Shared French Drain System (Gutter Downspouts, Exterior Sump Pump, and Water-Filter Backwash)
   - Install All French Drain Pipe and Fittings
   - All Downspout Drain Lines Tied Into Common French Drain
   - Exterior Sump Pump Discharge Tied Into Common French Drain
-  - Single Popup Emitter at Rear Property Line
+  - Water-Filter (Iron Filter/Softener) Backwash Discharge Tied Into Common French Drain
+  - Lakeside Pop-Up Emitters (System Exits at Lake Side of Property)

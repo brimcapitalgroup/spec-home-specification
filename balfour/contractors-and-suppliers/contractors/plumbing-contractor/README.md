@@ -13,7 +13,7 @@
 - Basement Mechanical Room Floor Drain for Furnace
 - Basement Sump Pump System
   - 2 Hard-Wired Sump Pumps (Offset for Redundancy)
-  - Both Exit to Same Exterior Drain
+  - Both Exit to Same Exterior Drain (Tied Into Shared French Drain System; Exits at Lakeside Pop-Up Emitters)
   - Backflow Preventer on Each Pump
   - Sealed Cover with Plastic Glass View Port
   - Fully Sealed Water-Tight to Floor
@@ -51,35 +51,35 @@
 - Fixtures
   - Bathrooms (4 Total)
     - Master Full Bathroom
-      - 2 Sinks with Wide Grip Faucets
+      - 2 Sinks with Delta Stryke Widespread Laminar-Flow Faucets
       - Shower
-      - 1 Piece Toilet
+      - Swiss Madison One-Piece Toilet
       - 1/4 Turn Valves for Sinks and Toilet
     - Jack and Jill Full Bathroom
-      - 2 Sinks with Wide Grip Faucets
+      - 2 Sinks with Delta Stryke Widespread Laminar-Flow Faucets
       - Drop-In Bathtub with Shower
         - Mixing Valve Located Under Vanity
-      - 1 Piece Toilet
+      - Swiss Madison One-Piece Toilet
       - 1/4 Turn Valves for Sinks and Toilet
     - Powder Bathroom
-      - 1 Sink with Wide Grip Faucet
-      - 1 Piece Toilet
+      - 1 Sink with Delta Stryke Widespread Laminar-Flow Faucet
+      - Swiss Madison One-Piece Toilet
       - 1/4 Turn Valves for Sink and Toilet
     - Basement Full Bathroom
-      - 1 Sink with Wide Grip Faucet
+      - 1 Sink with Delta Stryke Widespread Laminar-Flow Faucet
       - Shower
-      - 1 Piece Toilet
+      - Swiss Madison One-Piece Toilet
       - 1/4 Turn Valves for Sink and Toilet
   - Kitchen
-    - 1 Sink with Single Piece Faucet
+    - 1 Sink with Delta Stryke Laminar-Flow Faucet (Single-Hole)
     - Filtered Water Dispenser from Reverse Osmosis
     - Dishwasher Drain Support
   - Basement Bar
-    - 1 Sink with Single Piece Faucet
+    - 1 Sink with Delta Stryke Laminar-Flow Faucet (Single-Hole)
     - Filtered Water Spigot from Reverse Osmosis
     - Dishwasher Drain Support
   - Mudroom
-    - 1 Sink with Single Piece Faucet
+    - 1 Sink with Delta Stryke Laminar-Flow Faucet (Single-Hole)
   - Laundry Room
     - Washing Machine: 1/2" Hot and Cold Water Ports with Drain
   - Outdoor
@@ -94,11 +94,11 @@
   - All Supply Piping to and from Iron Filters and Softener: PEX
   - 1-1/4" Stainless Steel 3-Way Valves
   - Bypass Valves for Zero Downtime Servicing
-  - Drain to Exterior
+  - Backwash Drain (Tied Into Shared French Drain System; Exits at Lakeside Pop-Up Emitters)
     - Schedule 40 PVC with Pressure Fittings
     - Backflow Preventer
     - 3 Check Valves (One per Filter) to Prevent Backflow Between Filters
-    - 3-into-1 Configuration to Single Output to Exterior Drain
+    - 3-into-1 Configuration to Single Output Tied Into Shared French Drain System
   - Garden Hoses Water Supply
     - 3-Way Valve to Select Water from Iron Filter Only or from Softener
   - Sprinkler System Water Supply

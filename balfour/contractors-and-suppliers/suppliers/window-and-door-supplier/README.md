@@ -6,18 +6,19 @@
   - Exterior: Black
   - Interior: White
 - Exterior Sliding Doors
-  - Great Room: 2-Panel Sliding Door, 8' Height
-  - Basement: 3-Panel Sliding Door, 8' Height
+  - Great Room: Dual Glass Sliding Doors to Deck, 8' Height [CONFIRM: "dual" = two slider assemblies vs. prior single 2-Panel unit]
+  - Basement Walkout: Glass Sliding Door onto Interior Montauk Black Slate Landing, Single Step Up (Basement ~4 ft Below Grade), 3-Panel, 8' Height [CONFIRM: basement doors specced standard 6'-8"; walkout slider still 8'?]
 - Doors
   - General
-    - All Doors (Interior, Exterior, Glass Sliding, and Bi-Fold): 8' Height
+    - Main-Floor Doors (Interior, Exterior, Glass Sliding, and Bi-Fold): 8' Height
+    - Lower-Level/Basement Doors: Standard Height (6'-8")
     - All Swing and French Style Doors: Ball Bearing Black Hinges
     - All Swing and French Style Doors: Factory Back-Beveled Latch Edge
   - Exterior
-    - Front Door: Therma-Tru Fiberglass French Door
-      - Near Full-Lite Decorative Glass Insert
+    - Front Door: Therma-Tru Wood-Grain French Entry Door
+      - Full-Height Custom Decorative Glass (Privacy + Clear Zones) with Integrated Metalwork
       - Astragal Between Panels
-      - Wood Grain Texture, Unfinished (To Be Stained — Color Selection Under Paint and Stain)
+      - Wood Grain Texture, Unfinished (To Be Stained American Walnut — Under Paint and Stain)
     - Garage to Mudroom: Fiberglass, Fireproof, 2-Panel Shaker Style
     - Garage Doors: Per Design Spec
   - Interior

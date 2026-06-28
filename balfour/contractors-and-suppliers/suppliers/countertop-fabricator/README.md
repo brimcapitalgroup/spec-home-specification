@@ -2,6 +2,7 @@
 
 **Related Contractors:** [Tile Contractor](../../contractors/tile-contractor/README.md)
 
+- All Granite: Grade-E Brazilian Exotic Granite (Most Premium Tier)
 - Kitchen
   - Cabinet Counters
   - Island
@@ -28,7 +29,7 @@
   - Backsplash
   - Shower Door Threshold: Pitched to Interior of Shower
   - Bench
-- Basement Bar
+- Basement Wet Bar
   - Countertop
   - Island
 - Backsplashes
@@ -36,15 +37,15 @@
     - Travertine
   - Mudroom
     - Travertine
-  - Basement Bar
+  - Basement Wet Bar
     - Travertine
   - Powder Bathroom
-    - Granite
+    - Grade-E Brazilian Exotic Granite
   - Laundry Room
-    - Granite
+    - Grade-E Brazilian Exotic Granite
   - Jack and Jill Bathroom
-    - Granite
+    - Grade-E Brazilian Exotic Granite
   - Master Bathroom
-    - Granite
+    - Grade-E Brazilian Exotic Granite
   - Basement Bathroom
-    - Granite
+    - Grade-E Brazilian Exotic Granite

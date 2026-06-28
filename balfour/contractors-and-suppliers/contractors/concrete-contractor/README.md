@@ -23,7 +23,7 @@
   - Wire Mesh Reinforcement
   - Control Joints at 10' Max Spacing, 1" Deep, Saw-Cut Within 12 Hours of Pour, Square Panels
   - Spray-Applied Concrete Stain and Sealer
-- Primary Driveway
+- Primary Driveway (2-Car-Wide)
   - Welded Wire Metal Mesh Reinforcement
   - Control Joints at 10' Max Spacing, 1" Deep, Saw-Cut Within 12 Hours of Pour, Square Panels
   - Spray-Applied Concrete Stain and Sealer
@@ -31,7 +31,7 @@
   - Wire Mesh Reinforcement
   - Control Joints at 8' Max Spacing, 1" Deep, Saw-Cut Within 12 Hours of Pour, Square Panels
   - Spray-Applied Concrete Stain and Sealer
-- Secondary Driveway
+- Secondary Driveway (Rear Service Driveway, Sized for RV or Boat)
   - Welded Wire Metal Mesh Reinforcement
   - Control Joints at 10' Max Spacing, 1" Deep, Saw-Cut Within 12 Hours of Pour, Square Panels
   - Spray-Applied Concrete Stain and Sealer

@@ -8,15 +8,15 @@ All pending decisions, selections, and specifications that need to be completed 
 
 | Item | Related To | Decision Needed |
 |------|------------|-----------------|
-| All Light Locations | Electrical | Choose locations for all light fixtures |
-| All Ceiling Fan Locations | Electrical | Choose locations for all ceiling fans |
-| Custom Light Fixture Selection | Electrical | Select light fixtures (style, brand) |
+| Lighting Layout | Electrical | Specified per spec (lighted ceiling fan + 4 recessed per bedroom/office/entertainment room; great room large lighted ceiling fan + 4 recessed + 2 fireplace spotlights; dining coffer lights + island triple pendant) — confirm exact placements |
+| Remaining Light/Ceiling-Fan Locations | Electrical | Confirm placements for any locations not covered by the spec'd layout |
+| Custom Metal Light Fixture Selection | Electrical | All remaining fixtures are custom metal — select style/brand |
 | Shower Door Handles | Glass | Select handle style |
 | HVAC Finish Items | HVAC | Define HVAC finish scope |
 | HVAC Room Sensor Locations | HVAC | Choose locations for AprilAire 8051 sensors (bedrooms, office, great room, kitchen) |
 | Thermostat Locations | HVAC | Choose wall locations for 3 zone thermostats |
 | Insurance Agent | Insurance | Select insurance provider |
-| Gas Meter BTU Capacity | Utilities | Confirm with Consumers Energy |
+| Gas Meter | Utilities | Spec'd: 1.8 Million BTU High-Capacity Meter — confirm availability with Consumers Energy |
 | Server Rack Location | Low Voltage | Choose location in mechanical room |
 | Cat 6 Outlet Locations | Low Voltage | Choose specific wall locations |
 | Doorbell Camera Locations | Low Voltage | Choose mounting positions |
@@ -31,7 +31,7 @@ All pending decisions, selections, and specifications that need to be completed 
 | Item | Location | Selection Needed |
 |------|----------|------------------|
 | Cabinet Design | Cabinet Supplier | Complete kitchen/bath cabinet layout |
-| Cabinet Selection | Cabinet Supplier | Choose cabinet brand, style, finish |
+| Cabinet Selection | Cabinet Supplier | Shaker-style and species/finish by room specified (hickory/maple/cherry); choose brand and remaining finish details |
 | Cabinet Pulls | Cabinet Supplier | Choose pull style and finish |
 
 ---
@@ -43,8 +43,8 @@ All pending decisions, selections, and specifications that need to be completed 
 | Item | Notes |
 |------|-------|
 | Carpet brand/style/color | Locations defined, material not selected |
-| Hardwood brand/style/color | 8" engineered specified, no brand/color |
-| Slate tile source/color | Locations defined, no specific tile |
+| Hardwood brand/style/color | 8" engineered wire-brushed white oak (varied grain) specified; confirm brand/source |
+| Slate tile source/color | Montauk Black Slate (12 in. x 24 in., natural textured) specified; confirm source/supplier |
 | Porcelain tile brand/style/color | Locations defined, no specific tile |
 | Wood plank porcelain selection | Basement open area - no specific tile |
 | Rubber gym mat brand | Basement gym - no specific product |
@@ -53,12 +53,12 @@ All pending decisions, selections, and specifications that need to be completed 
 
 | Item | Notes |
 |------|-------|
-| Faucet brand and finish | Wide grip faucets specified, no brand |
-| Toilet brand/model | 1-piece specified, no brand |
+| Faucet brand and finish | SELECTED: Delta Stryke laminar-flow; bathroom sink faucets widespread (finish TBD) |
+| Toilet brand/model | SELECTED: Swiss Madison one-piece |
 | Sink brand/model | No specific sinks selected |
 | Bathtub brand/model | Drop-in bathtub specified, no brand |
-| Shower fixtures brand | No specific brand |
-| Kitchen faucet brand | Single piece faucet specified, no brand |
+| Shower fixtures brand | Delta Stryke laminar-flow (trim line/finish TBD) |
+| Kitchen faucet brand | SELECTED: Delta Stryke laminar-flow (single-hole) |
 
 ### Hardware
 
@@ -82,21 +82,21 @@ All pending decisions, selections, and specifications that need to be completed 
 | Item | Notes |
 |------|-------|
 | Kitchen countertop material/color | Locations defined, no material |
-| Bathroom vanity countertop material/color | Granite backsplash noted, no counter material |
+| Bathroom vanity countertop material/color | Grade-E Brazilian Exotic Granite backsplash noted, no counter material |
 | Basement bar countertop material/color | No material specified |
 
 ### Fireplaces
 
 | Item | Notes |
 |------|-------|
-| Great Room fireplace make/model | Venting options noted, no unit selected |
-| Basement fireplace make/model | Venting noted, no unit selected |
+| Great Room fireplace make/model | See-through/pass-through (great room + deck), vented via great-room chimney custom metal cap, smart/Google Nest controlled — no unit selected |
+| Basement fireplace make/model | Vented via primary limestone chimney (shared with kitchen range hood) custom metal cap, smart/Google Nest controlled — no unit selected |
 
 ### Other
 
 | Item | Notes |
 |------|-------|
-| Garage door style/color | Sizes specified, no style |
+| Garage door style/color | Sizes specified; color SELECTED: Black (painted per Paint schedule); style TBD |
 | Range Hood model | 400 CFM max specified, no model |
 | Dishwashers model | Kitchen and basement, no model |
 | Refrigerator model | Water line noted, no model |
