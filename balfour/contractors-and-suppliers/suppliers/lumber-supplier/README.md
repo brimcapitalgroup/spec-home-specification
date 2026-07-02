@@ -13,7 +13,7 @@
   - Waterproof Deck Gutter System with Downspouts (under-deck drainage system on the deck above the walkout; routes rainwater to gutters/downspouts so the patio below stays dry)
   - Deck Stain and Sealer (Estimator to Calculate Quantities) [CONFIRM: deck material changed to Trex composite; deck staining still in scope?]
   - Ceiling Above Deck: Hardie Board (Installed by Siding Contractor) [CONFIRM: siding changed to vinyl; deck ceiling still Hardie?]
-- Trim and Molding (Finish Trim Materials — see RFQ-26 Interior Trim, Molding & Stair Materials; framing lumber is RFQ-13)
+- Trim and Molding (Finish Trim Materials — see RFQ-26 Interior Trim, Molding & Stair Materials; framing lumber is RFQ-75)
   - Window Casing: All Windows Fully Cased — Full-Perimeter LF NOT in Rev-01 (Gap); Rev-01 carries window casing pieces 7 ea 12' + 11 ea 14' + 14 ea 16', jamb trim, and 1x6 #1 WP jamb extensions (7 ea 12' + 11 ea 14' + 14 ea 16')
   - Baseboard 66 ea 16' (≈1,056 LF) + Base Shoe 65 ea 16' (≈1,040 LF) [SELECTION: profile]
   - Door Casing: 108 ea 10' + 7 ea 12' + 44 ea 14' + 17 ea 16' [SELECTION: profile]

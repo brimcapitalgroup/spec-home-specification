@@ -1095,7 +1095,7 @@
   - Waterproof Deck Gutter System with Downspouts (Under-Deck Drainage: routes rainwater from the deck above the walkout to gutters/downspouts so the patio below stays dry)
   - Deck Stain and Sealer (Estimator to Calculate Quantities) [CONFIRM: deck now Trex composite — does deck stain/seal still apply?]
   - Ceiling Above Deck: Hardie Board (Installed by Siding Contractor) [CONFIRM: siding changed to vinyl; deck ceiling still Hardie?]
-- Trim and Molding (Finish Trim Materials — see RFQ-26 Interior Trim, Molding & Stair Materials; framing lumber is RFQ-13)
+- Trim and Molding (Finish Trim Materials — see RFQ-26 Interior Trim, Molding & Stair Materials; framing lumber is RFQ-75)
 - Large Crown Molding (Every Flat-Ceilinged Room, Excluding Closets) — 1,068 LF (Rev-01; itemized by room in the Material Takeoff Briefing) [SELECTION: profile]
 - Baseboard 66 ea 16' (≈1,056 LF) + Base Shoe 65 ea 16' (≈1,040 LF) [SELECTION: profile]
 - Door Casing: 108 ea 10' + 7 ea 12' + 44 ea 14' + 17 ea 16' [SELECTION: profile]
