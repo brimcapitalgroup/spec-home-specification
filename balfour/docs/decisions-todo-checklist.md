@@ -90,7 +90,7 @@ All pending decisions, selections, and specifications that need to be completed 
 | Item | Notes |
 |------|-------|
 | Great Room fireplace make/model | See-through/pass-through (great room + deck), vented via great-room chimney custom metal cap, smart/Google Nest controlled — no unit selected |
-| Basement fireplace make/model | Vented via primary limestone chimney (shared with kitchen range hood) custom metal cap, smart/Google Nest controlled — no unit selected |
+| Basement fireplace make/model | Vented via primary stone-clad chimney (shared with kitchen range hood) custom metal cap, smart/Google Nest controlled — no unit selected |
 
 ### Other
 

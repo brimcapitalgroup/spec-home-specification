@@ -38,7 +38,7 @@ Comprehensive tracking for all contractor and supplier quotes.
 | Contractor | Quote Received | Scope Notes |
 |------------|----------------|-------------|
 | [ ] Concrete Contractor | | Foundation, basement, garage, driveways, patios, porches |
-| [ ] Masonry Contractor | | Queen-size brick, split-face limestone veneer facade, chimney chase split-face limestone veneer |
+| [ ] Masonry Contractor | | Queen-size brick; exterior stone is Affinity Stone (Ridge Cut, Yukon) screw-on panel system quoted separately (material RFQ-72, install RFQ-74) |
 
 ### Phase 4: Framing
 

@@ -45,7 +45,7 @@
 - Basement Fireplace
   - Fireplace Installation by HVAC/Mechanical Contractor
     - 2-Wire Dry Contact Trigger Supplied
-  - Venting: Through Primary Limestone Chimney (Shared with Kitchen Range Hood); Framed Chimney Space with Custom Black Fabricated Chimney Cap
+  - Venting: Through Primary Stone-Clad Chimney (Shared with Kitchen Range Hood); Framed Chimney Space with Custom Black Fabricated Chimney Cap
   - Smart Control: Google Nest (Wiring by Low Voltage)
   - Auto On/Off Fans (As Applicable)
   - Gas Line Installed by Plumber; HVAC to Make Final Connection as Needed

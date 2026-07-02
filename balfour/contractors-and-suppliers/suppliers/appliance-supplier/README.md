@@ -7,7 +7,7 @@
   - Basement Dishwasher: ZLINE (Matching)
   - Range
   - Range Hood: 400 CFM Maximum (No Makeup Air Required)
-    - Venting: Through Primary Limestone Chimney (Shared with Basement Fireplace); Custom Metal Chimney Cap with Functional Vent
+    - Venting: Through Primary Stone-Clad Chimney (Shared with Basement Fireplace); Custom Metal Chimney Cap with Functional Vent
   - Refrigerator / Freezer Combo
     - Water Line from Reverse Osmosis
   - Kitchen Island Beverage Fridge: ZLINE

@@ -391,7 +391,7 @@
 - Basement Fireplace
   - Fireplace Installation by HVAC/Mechanical Contractor
     - 2-Wire Dry Contact Trigger Supplied
-  - Venting: Primary Limestone Chimney with Custom Metal Chimney Cap and Functional Vent (Shared with Kitchen Range Hood)
+  - Venting: Primary Stone-Clad Chimney with Custom Metal Chimney Cap and Functional Vent (Shared with Kitchen Range Hood)
   - Smart / Google Nest Controlled
   - Auto On/Off Fans (As Applicable)
   - Gas Line Installed by Plumber; HVAC to Make Final Connection as Needed
@@ -490,21 +490,22 @@
 - 1-Year Labor Warranty from Date Home Becomes Occupied
 - All Brick Pattern: 50/50 Brick Pattern (Running Bond)
 - Brick: Queen-Size, Factory Limewash Finish, Set in Light-Sand Mortar
-- Split-Face Limestone Veneer: Irregular-Shaped, Set in Light-Gray Mortar
+- Exterior Stone: Affinity Stone, Ridge Cut Series, Yukon (Engineered Concrete Stone Veneer)
+  - Screw-On Panel System per the Manufacturer's Spec (No Lath, No Mortar Bed, No Grout)
+  - Self-Sealing Waterproof Membrane Behind the Stone
+  - Finished Corners and Returns; Both Chimneys Fully Stone-Clad All Sides
+  - Quoted Separately: Material RFQ-72, Install RFQ-74
 - Brick: Gentle Clean per the Limewash Manufacturer, Then Sealed with a Breathable Masonry Sealer (No Acid Wash on Limewashed Brick)
-- Split-Face Limestone Veneer and Slate: Acid Cleaned and Sealed After Install
-- Framed Chimney Chase Split-Face Limestone Veneer
-  - Waterproof Outdoor-Rated Polymer-Modified Thinset for Scratch Coat
-  - Split-Face Limestone Veneer Applied with Same Thinset
-  - 1/2" Grout Spacing
-  - Outdoor-Rated Colored Sanded Grout to Match Exterior Brick Grout
+- Affinity Stone: Cleaned per the Manufacturer's Guidance; Manufacturer-Approved Sealer if Recommended (No Acid Wash Unless the Manufacturer Approves)
+- Slate: Acid Cleaned and Sealed After Install
+- Framed Chimney Chase: Affinity Stone (Ridge Cut, Yukon) Screw-On Panel System per the Manufacturer's Spec (Install RFQ-74)
 - Cleaning
 - Masonry
   - Exterior
     - Queen-Size Factory Limewash Brick Install
     - Queen-Size Factory Limewash Brick and Materials
-    - Split-Face Limestone Veneer Facade Install
-    - Split-Face Limestone Veneer Facade and Materials
+    - Affinity Stone (Ridge Cut, Yukon) Veneer Facade Install: Screw-On Panel System (Quoted Separately as RFQ-74)
+    - Affinity Stone (Ridge Cut, Yukon) Veneer Facade Materials (Quoted Separately as RFQ-72)
 
 ## Paint and Stain Contractor
 
@@ -803,7 +804,7 @@
   - Basement / Wet Bar Dishwasher: ZLINE (Matching)
   - Range
   - Range Hood: 400 CFM Maximum (No Makeup Air Required)
-    - Venting: Primary Limestone Chimney with Custom Metal Chimney Cap and Functional Vent (Shared with Basement Fireplace)
+    - Venting: Primary Stone-Clad Chimney with Custom Metal Chimney Cap and Functional Vent (Shared with Basement Fireplace)
   - Refrigerator / Freezer Combo
     - Water Line from Reverse Osmosis
   - Basement / Wet Bar Mini Fridge: ZLINE (Matching)

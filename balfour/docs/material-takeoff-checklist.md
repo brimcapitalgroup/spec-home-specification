@@ -108,11 +108,11 @@
 - [ ] Queen-size brick count (EA)
 - [ ] Weep holes (EA)
 - [ ] Wall ties (EA)
-- [ ] Mortar bags (EA): light-sand mortar (queen-size limewash brick) + light-gray mortar (split-face irregular limestone veneer)
+- [ ] Mortar bags (EA): light-sand mortar (queen-size limewash brick)
 - [ ] Foundation block 8x16 (EA) - on foundation/basement walls
 - [ ] Lintels (EA/LF)
-- [ ] Split-face limestone veneer - SF
-- [ ] Split-face limestone veneer facade materials
+- [ ] Affinity Stone veneer (Ridge Cut Series, Yukon) - SF (screw-on panel system; material RFQ-72, install RFQ-74)
+- [ ] Affinity Stone facade system materials (self-sealing waterproof membrane, fasteners, finished corners/returns; per manufacturer spec)
 
 **Notes:** _________________________________________________________________
 
