@@ -42,7 +42,7 @@
   - Gas Dryer
   - Gas Range
   - Both Fireplaces
-  - 2 High Efficiency 200K BTU Condensing Tankless Water Heaters
+  - High Efficiency 50 Gallon Gas Tank Water Heater
   - 100K BTU Gas Furnace
   - 80K BTU Garage Gas Heater
 
@@ -108,15 +108,11 @@
   - Activated Carbon Filter Cartridges
 - Reverse Osmosis
   - Fed by Softener Cold Water Line
-- 2 High Efficiency 200K BTU Condensing Tankless Water Heaters
-  - Installed in Parallel with Balance Connections
-  - 1" Supply with Tee to 2 3/4" Inputs
-  - 2 3/4" Outputs to 1" Output
+- High Efficiency 50 Gallon Gas Tank Water Heater
+  - Powered Titanium Anode Rod (Electrical Provides a Dedicated Circuit with Lug at the Water Heater)
   - Valved for Isolation (Zero Downtime Servicing)
   - Expansion Tank (Required Due to Check Valve After Well)
-  - Condensate Neutralizer Filters on Both Units (Prevents Acid Damage to Drains)
   - Hot Water Recirculation Pump
-    - Circulates Through Both Tankless Heaters Prior to Tee for Balanced Circulation
     - NPT Port on Feed Line of Loop for Digital Water Temperature Sensor
     - Controlled by Shelly WiFi Relay (Installed by Low Voltage)
     - Hot Water Recirculation on All Hot Water Fixtures

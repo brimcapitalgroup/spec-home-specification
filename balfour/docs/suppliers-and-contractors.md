@@ -164,41 +164,33 @@
   - Service Entrance: Conduit Required from Meter to Home Penetration; Interior Wiring Installed per Code
   - Cover for Drywall Wall Install
   - All Home Runs to be Run Through 2x6 Wall to Finish Basement Wall in Mechanical Room Where Home Runs Drop to Panel
-- 200 Amp Garage Subpanel: Square D QO Panel with Half the Spaces of Primary Panel
-  - Cover for Drywall Wall Install
-  - Connected to Main Panel with Feed-Through Lugs (Subfeed Lugs)
-- 150 AMP Electrical Panel for DTE Meter for Heat Pump and Furnace
+- 200 Amp Meter with Integrated Disconnect (Exterior Emergency Disconnect per 2025 Code)
   - Service Entrance: Conduit Required from Meter to Home Penetration; Interior Wiring Installed per Code
-  - Add Tankless Water Heaters if Permitted
-- Garage EV Charger Prep (2 Locations - One per Garage Door)
-  - 60 Amp Circuit per Location (48 Amp Continuous Draw)
-  - Appropriately Sized and Terminated in Blank Box
-  - Permit as Standard 220V Outlet to Reduce Permit Cost
-  - No EV Charger Installation
+- Dedicated Circuit with Lug at the Water Heater Location for the Powered Titanium Anode Rod
 - Garage Air Compressor Circuit
   - 1 30 Amp 220V 3-Wire Plug-In Outlet for 5HP Stage Air Compressor
   - 30 Amp Disconnect Switch Controlling the 220V Outlet
 - Generator Integration (Rough)
-  - Load Shed Devices Required on All Garage 240V Circuits
-    - EV Charger Prep Outlets (2)
+  - Load Shed Device Required on the Garage 240V Circuit
     - 30 Amp Switched Air Compressor Outlet
   - Gas Line: Outside at Meter — Galvanized Iron Pipe with Flex Line to Generator (Installed by Plumber)
   - Outdoor 20 Amp Outlet Near Generator Location
 - Garage Outlets
   - 1 Double Duplex 20 Amp Outlet at Each Garage Door
   - 1 Single Duplex 20 Amp Outlet every 12' along all walls
-- Outdoor 20 Amp Outlets (Wired to Garage Panel)
+- Outdoor 20 Amp Outlets
   - 1 at Front Door
   - 1 at Basement Sliding Door
   - 1 at Great Room to Deck Door
   - 1 at Front Mid Side of Home
   - 1 to Left of Leftmost Garage Door
 - GFCI Protection
-  - All Outlets Required to be Protected by GFCI Breakers
-  - No GFCI Plugs or Arc Fault Breakers to be Used Anywhere in the Home
+  - All GFCI Protection via GFCI Breakers in the Panel (All Outlets)
+  - No GFCI Receptacles or Arc Fault Breakers to be Used Anywhere in the Home
 - Dedicated 15 Amp Outlet in Attic at Radon Pipe for Future Radon Pump where vent pipe located
 - Garage Cold-Storage Attic: provide lighting and at least one 20A outlet in the garage attic storage area.
-- 2nd DTE 150 AMP Meter for entire HVAC System — DTE CoolCurrents Program (Rate D1.1) — separately-metered, interruptible heat-pump/AC rate (up to ~25% on heat-pump heating and ~29% on cooling; interruptible May–Sept, no interruptions Oct–April)
+- 150 AMP DTE CoolCurrents Meter for the Entire HVAC System: DTE CoolCurrents Program (Rate D1.1), separately-metered, interruptible heat-pump/AC rate (up to ~25% on heat-pump heating and ~29% on cooling; interruptible May through September, no interruptions October through April)
+  - Meter Has Its Own Disconnect (Exterior Emergency Disconnect per 2025 Code); Fed from the Line Side of the 200 Amp Meter via Dual Lugs
   - Separate HVAC Subpanel
   - Feeds Heat Pump, Air Handler, and Backup Gas Furnace
   - Equipment on Meter to be Verified with DTE Application; confirm CoolCurrents enrollment
@@ -218,10 +210,10 @@
   - Kitchen: 6 Recessed Lights (See Kitchen Above)
   - All Remaining Fixtures: Custom Metal
 - Remaining Custom-Metal Fixture and Ceiling-Fan Locations TBD
-- Standby Generator Install: Generac 26,000W Dual Fuel Air-Cooled Whole House Standby Generator with Smart Home Monitoring and 200-AMP Automated Transfer Switch
+- Standby Generator Install: Generac 26,000W Dual Fuel Air-Cooled Whole House Standby Generator with Smart Home Monitoring, Brownout Protection, and 200-AMP Automated Transfer Switch
+  - Whole-House Surge Protector Integrated in the Transfer Switch
   - Provides Whole House Brownout and Power Outage Protection
-  - Generator Load Shed Devices on All Garage 240V Circuits
-    - EV Charger Prep Outlets (2)
+  - Generator Load Shed Device on the Garage 240V Circuit
     - 30 Amp Switched Air Compressor Outlet
 
 ### Finish
@@ -381,9 +373,9 @@
     - Room Sensor Locations: TBD
   - Outdoor Sensor: AprilAire 8052
   - Zones (3 Total)
-    - Zone 1: Master Bedroom (Excluding Closets)
-    - Zone 2: Basement
-    - Zone 3: Master Bathroom, Master Closets, and Rest of Main Floor
+    - Zone 1: Basement
+    - Zone 2: All Bedrooms Only (Excluding Bedroom Closets and Bedroom Bathrooms)
+    - Zone 3: Rest of First Floor (Including Bedroom Closets and Bedroom Bathrooms)
   - Single Large Air Handler with Motorized Dampers
 - Garage Gas Heater: 80K BTU
   - Heater
@@ -496,10 +488,11 @@
 **Related Suppliers:** [Stone Supplier](#stone-supplier)
 
 - 1-Year Labor Warranty from Date Home Becomes Occupied
-- All King-Size Brick Pattern: 50/50 Brick Pattern (Running Bond)
-- King-Size Brick: Smooth Sand/Buff Brick with a Sandy Face, Set in Light-Sand Mortar
+- All Brick Pattern: 50/50 Brick Pattern (Running Bond)
+- Brick: Queen-Size, Factory Limewash Finish, Set in Light-Sand Mortar
 - Split-Face Limestone Veneer: Irregular-Shaped, Set in Light-Gray Mortar
-- All Brick, Split-Face Limestone Veneer, and Slate: Acid Cleaned and Sealed After Install
+- Brick: Gentle Clean per the Limewash Manufacturer, Then Sealed with a Breathable Masonry Sealer (No Acid Wash on Limewashed Brick)
+- Split-Face Limestone Veneer and Slate: Acid Cleaned and Sealed After Install
 - Framed Chimney Chase Split-Face Limestone Veneer
   - Waterproof Outdoor-Rated Polymer-Modified Thinset for Scratch Coat
   - Split-Face Limestone Veneer Applied with Same Thinset
@@ -508,8 +501,8 @@
 - Cleaning
 - Masonry
   - Exterior
-    - King-Size Brick Install
-    - King-Size Brick and Materials
+    - Queen-Size Factory Limewash Brick Install
+    - Queen-Size Factory Limewash Brick and Materials
     - Split-Face Limestone Veneer Facade Install
     - Split-Face Limestone Veneer Facade and Materials
 
@@ -586,7 +579,7 @@
   - Gas Dryer
   - Gas Range
   - Both Fireplaces
-  - 2 High Efficiency 200K BTU Condensing Tankless Water Heaters
+  - High Efficiency 50 Gallon Gas Tank Water Heater
   - 100K BTU Gas Furnace
   - 80K BTU Garage Gas Heater
 
@@ -652,15 +645,11 @@
   - Activated Carbon Filter Cartridges
 - Reverse Osmosis
   - Fed by Softener Cold Water Line
-- 2 High Efficiency 200K BTU Condensing Tankless Water Heaters
-  - Installed in Parallel with Balance Connections
-  - 1" Supply with Tee to 2 3/4" Inputs
-  - 2 3/4" Outputs to 1" Output
+- High Efficiency 50 Gallon Gas Tank Water Heater
+  - Powered Titanium Anode Rod (Electrical Provides a Dedicated Circuit with Lug at the Water Heater)
   - Valved for Isolation (Zero Downtime Servicing)
   - Expansion Tank (Required Due to Check Valve After Well)
-  - Condensate Neutralizer Filters on Both Units (Prevents Acid Damage to Drains)
   - Hot Water Recirculation Pump
-    - Circulates Through Both Tankless Heaters Prior to Tee for Balanced Circulation
     - NPT Port on Feed Line of Loop for Digital Water Temperature Sensor
     - Controlled by Shelly WiFi Relay (Installed by Low Voltage)
     - Hot Water Recirculation on All Hot Water Fixtures
@@ -946,16 +935,16 @@
 **Related Contractors:** [Electrical Contractor](#electrical-contractor)
 
 - Primary Electrical Panel: Square D QO Panel with Maximum Space Available
-- 200 Amp Garage Subpanel: Square D QO Panel with Half the Spaces of Primary Panel
-- 150 AMP Electrical Panel for DTE Meter for Heat Pump and Furnace
-- GFCI Breakers (All Outlets)
+- 200 Amp Meter with Integrated Disconnect (Exterior Emergency Disconnect per 2025 Code)
+- 150 AMP DTE CoolCurrents Meter with Its Own Disconnect (Fed from the Line Side of the 200 Amp Meter via Dual Lugs)
+- GFCI Breakers (All GFCI Protection via Breakers in the Panel; No GFCI Receptacles)
 - Wall Plates: Mulberry Brand, Decora Style, Metal, Smooth White — All Locations Including Low Voltage and 240V
 - Outlets and Switches: Leviton White Decora Style Throughout
 - Wire Nuts (No Wago or Push-In Connectors)
 - Ceiling Fan Rated Boxes
-- Load Shed Devices for Garage 240V Circuits
+- Load Shed Device for the Garage 240V Compressor Circuit
 - 30 Amp Disconnect Switch
-- 60 Amp EV Charger Circuits (2)
+- Dedicated Circuit with Lug at the Water Heater Location (Powered Titanium Anode Rod)
 - Kitchen Under-Cabinet Track Plug System
 - Kitchen Under-Cabinet Lighting
 - Kitchen 6 Recessed Lights
@@ -984,9 +973,9 @@
 
 **Related Contractors:** [Electrical Contractor](#electrical-contractor)
 
-- Generac 26,000W Dual Fuel Air-Cooled Whole House Standby Generator with Smart Home Monitoring
-- 200-AMP Automated Transfer Switch
-- Load Shed Devices for Garage 240V Circuits
+- Generac 26,000W Dual Fuel Air-Cooled Whole House Standby Generator with Smart Home Monitoring and Brownout Protection
+- 200-AMP Automated Transfer Switch with Integrated Whole-House Surge Protector
+- Load Shed Device for the Garage 240V Compressor Circuit
 
 ## Glass Supplier
 
@@ -1193,9 +1182,9 @@
 - 1.5" Big Blue Water Filter
   - Activated Carbon Filter Cartridges
 - Reverse Osmosis System
-- 2 High Efficiency 200K BTU Condensing Tankless Water Heaters
+- High Efficiency 50 Gallon Gas Tank Water Heater
+- Powered Titanium Anode Rod
 - Expansion Tank
-- Condensate Neutralizer Filters (2)
 - Hot Water Recirculation Pump
 
 ## Port-a-John Rental

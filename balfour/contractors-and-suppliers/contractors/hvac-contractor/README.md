@@ -27,9 +27,9 @@
     - Room Sensor Locations: TBD
   - Outdoor Sensor: AprilAire 8052
   - Zones (3 Total)
-    - Zone 1: Master Bedroom (Excluding Closets)
-    - Zone 2: Basement
-    - Zone 3: Master Bathroom, Master Closets, and Rest of Main Floor
+    - Zone 1: Basement
+    - Zone 2: All Bedrooms Only (Excluding Bedroom Closets and Bedroom Bathrooms)
+    - Zone 3: Rest of First Floor (Including Bedroom Closets and Bedroom Bathrooms)
   - Single Large Air Handler with Motorized Dampers
 - Garage Gas Heater: 80K BTU
   - Heater

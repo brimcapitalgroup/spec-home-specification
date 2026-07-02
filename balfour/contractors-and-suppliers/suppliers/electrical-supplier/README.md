@@ -3,16 +3,16 @@
 **Related Contractors:** [Electrical Contractor](../../contractors/electrical-contractor/README.md)
 
 - Primary Electrical Panel: Square D QO Panel with Maximum Space Available
-- 200 Amp Garage Subpanel: Square D QO Panel with Half the Spaces of Primary Panel
-- 150 AMP Electrical Panel for DTE Meter for Heat Pump and Furnace
-- GFCI Breakers (All Outlets)
+- 200 Amp Meter with Integrated Disconnect (Exterior Emergency Disconnect per 2025 Code)
+- 150 AMP DTE CoolCurrents Meter with Its Own Disconnect (Fed from the Line Side of the 200 Amp Meter via Dual Lugs)
+- GFCI Breakers (All GFCI Protection via Breakers in the Panel; No GFCI Receptacles)
 - Wall Plates: Mulberry Brand, Decora Style, Metal, Smooth White — All Locations Including Low Voltage and 240V
 - Outlets and Switches: Leviton White Decora Style Throughout
 - Wire Nuts (No Wago or Push-In Connectors)
 - Ceiling Fan Rated Boxes
-- Load Shed Devices for Garage 240V Circuits
+- Load Shed Device for the Garage 240V Compressor Circuit
 - 30 Amp Disconnect Switch
-- 60 Amp EV Charger Circuits (2)
+- Dedicated Circuit with Lug at the Water Heater Location (Powered Titanium Anode Rod)
 - Kitchen Under-Cabinet Track Plug System
 - Kitchen Under-Cabinet Lighting
 - Kitchen 6 Recessed Lights

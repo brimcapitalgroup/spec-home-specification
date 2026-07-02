@@ -125,13 +125,13 @@ Apply and document waste percentages. Suggested factors (or propose your standar
 
 | Category | Line Items Required |
 |----------|---------------------|
-| Masonry | King-Size brick count, weep holes, wall ties, mortar bags, 8x16 foundation block count (on foundation/basement walls), lintels, split-face limestone veneer SF |
+| Masonry | Queen-size brick count, weep holes, wall ties, mortar bags, 8x16 foundation block count (on foundation/basement walls), lintels, split-face limestone veneer SF |
 | Framing | Board feet by dimension (2x4, 2x6, 2x10, etc.), sheet count (OSB/plywood), joist hangers, hurricane ties, LVL beams, rim board, SF of Tyvek/house wrap |
 | Deck | Trex composite decking SF/LF, joists, ledger board, posts, post bases, lag bolts, joist hangers, deck screws, under-deck waterproof gutter/drainage system components |
 | Steel | I-beam LF by size, stanchion posts count, base plates, brick headers LF |
 | Concrete | Cubic yards by pour location, SF of wire mesh, LF of rebar by size (#4), SF of vapor barrier, SF of foam insulation, gallons of stain/sealer |
 | Stone/Aggregate | Cubic yards by type (1x3, 21AA, pea stone, 6A) by location |
-| Roofing | Squares of shingles, LF of drip edge, rolls of underlayment, rolls of ice/water shield, ridge vent LF, flashing pieces, roof vents |
+| Roofing | Squares of shingles, LF of drip edge, rolls of underlayment, rolls of ice/water shield, flashing pieces, roof vents (black louvers; no ridge vent) |
 | Siding | SF of board-and-batten vinyl siding, LF of batten, LF of trim by profile, SF of soffit, LF of fascia, corner pieces, J-channel LF, post wraps count, metal vents |
 | Windows | Window schedule with: size (W x H), type, operation style, location, count - plus flashing tape, shims |
 | Doors | Door schedule with: size (W x H), swing (in/out), handing (LH/RH/LHR/RHR), type, location, count - plus weatherstripping, thresholds |
@@ -273,7 +273,7 @@ Apply and document waste percentages. Suggested factors (or propose your standar
 ### Masonry
 
 **Expected Line Items:**
-- [ ] King-Size brick count (EA)
+- [ ] Queen-size brick count (EA)
 - [ ] Weep holes (EA)
 - [ ] Wall ties (EA)
 - [ ] Mortar bags (EA) — light-sand mortar (brick) + light-gray mortar (limestone veneer)
@@ -283,12 +283,12 @@ Apply and document waste percentages. Suggested factors (or propose your standar
 - [ ] Split-face limestone veneer facade materials
 
 **Specifications:**
-- King-Size brick install per design spec — smooth sand/buff brick with a sandy face, set in light-sand mortar
+- Queen-size brick install per design spec: factory limewash finish, set in light-sand mortar
 - Split-face limestone veneer facade install per design spec — irregular-shaped, set in light-gray mortar
-- King-Size brick and split-face limestone veneer materials included
+- Queen-size brick and split-face limestone veneer materials included
 - 8x16 standard block on foundation/basement walls per plans
-- All King-Size brick pattern: 50/50 brick pattern (running bond)
-- All brick, split-face limestone veneer, and slate: Acid cleaned and sealed after install
+- All brick pattern: 50/50 brick pattern (running bond)
+- Brick: gentle clean per the limewash manufacturer, then sealed with a breathable masonry sealer; split-face limestone veneer and slate: acid cleaned and sealed after install
 - Framed chimney chase split-face limestone veneer:
   - Waterproof outdoor-rated polymer-modified thinset for scratch coat
   - Split-face limestone veneer applied with same thinset
@@ -377,7 +377,6 @@ Apply and document waste percentages. Suggested factors (or propose your standar
 - [ ] Drip edge - LF (Black)
 - [ ] Underlayment - rolls
 - [ ] Ice and water shield - rolls (chimney chases)
-- [ ] Ridge vent - LF
 - [ ] Flashing pieces - count by type
 - [ ] Roof vents - count
 - [ ] Plywood sheathing for chimney chases - sheets

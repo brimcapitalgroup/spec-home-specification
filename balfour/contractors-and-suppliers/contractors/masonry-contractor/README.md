@@ -3,10 +3,11 @@
 **Related Suppliers:** [Stone Supplier](../../suppliers/stone-supplier/README.md)
 
 - 1-Year Labor Warranty from Date Home Becomes Occupied
-- Brick: King-Size, Smooth Sand/Buff Brick with Sandy Face, Light-Sand Mortar
-- All King-Size Brick Pattern: 50/50 Brick Pattern (Running Bond)
+- Brick: Queen-Size, Factory Limewash Finish, Light-Sand Mortar
+- All Brick Pattern: 50/50 Brick Pattern (Running Bond)
 - Limestone: Split-Face, Irregular-Shaped, Light-Gray Mortar
-- All Brick, Split-Face Limestone Veneer, and Montauk Black Slate: Acid Cleaned and Sealed After Install
+- Brick: Gentle Clean per the Limewash Manufacturer, Then Sealed with a Breathable Masonry Sealer (No Acid Wash on Limewashed Brick)
+- Split-Face Limestone Veneer and Montauk Black Slate: Acid Cleaned and Sealed After Install
 - Framed Chimney Chase Split-Face Limestone Veneer
   - Waterproof Outdoor-Rated Polymer-Modified Thinset for Scratch Coat
   - Split-Face, Irregular-Shaped Limestone Veneer Applied with Same Thinset
@@ -22,7 +23,7 @@
 - Cleaning
 - Masonry
   - Exterior
-    - King-Size Smooth Sand/Buff Brick Install (Sandy Face, Light-Sand Mortar)
-    - King-Size Smooth Sand/Buff Brick and Materials
+    - Queen-Size Factory Limewash Brick Install (Light-Sand Mortar)
+    - Queen-Size Factory Limewash Brick and Materials
     - Split-Face, Irregular-Shaped Limestone Veneer Facade Install (Light-Gray Mortar)
     - Split-Face, Irregular-Shaped Limestone Veneer Facade and Materials

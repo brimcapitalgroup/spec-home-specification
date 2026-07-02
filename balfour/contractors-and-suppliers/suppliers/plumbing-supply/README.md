@@ -25,7 +25,7 @@
 - 1.5" Big Blue Water Filter
   - Activated Carbon Filter Cartridges
 - Reverse Osmosis System
-- 2 High Efficiency 200K BTU Condensing Tankless Water Heaters
+- High Efficiency 50 Gallon Gas Tank Water Heater
+- Powered Titanium Anode Rod
 - Expansion Tank
-- Condensate Neutralizer Filters (2)
 - Hot Water Recirculation Pump

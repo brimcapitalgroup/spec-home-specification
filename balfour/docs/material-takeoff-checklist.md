@@ -105,10 +105,10 @@
 
 ### Masonry
 
-- [ ] King-Size brick count (EA)
+- [ ] Queen-size brick count (EA)
 - [ ] Weep holes (EA)
 - [ ] Wall ties (EA)
-- [ ] Mortar bags (EA) — light-sand mortar (smooth sand/buff brick) + light-gray mortar (split-face irregular limestone veneer)
+- [ ] Mortar bags (EA): light-sand mortar (queen-size limewash brick) + light-gray mortar (split-face irregular limestone veneer)
 - [ ] Foundation block 8x16 (EA) - on foundation/basement walls
 - [ ] Lintels (EA/LF)
 - [ ] Split-face limestone veneer - SF
@@ -177,9 +177,8 @@
 - [ ] Drip edge - LF (Black)
 - [ ] Underlayment - rolls
 - [ ] Ice and water shield - rolls
-- [ ] Ridge vent - LF
 - [ ] Flashing pieces - count by type
-- [ ] Roof vents - count
+- [ ] Roof vents (black louvers) - count
 - [ ] Plywood sheathing (chimney chases) - sheets
 
 **Notes:** _________________________________________________________________
