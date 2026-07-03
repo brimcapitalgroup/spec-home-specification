@@ -53,7 +53,7 @@ Comprehensive tracking for all contractor and supplier quotes.
 | [ ] Roofing Contractor | | Shingles (all roof areas), chimney chases |
 | [ ] Siding Contractor | | CELECT board-and-batten siding (rear elevation horizontal vinyl lap), aluminum fascia/trim, vinyl soffit |
 | [ ] Gutter and Downspout Contractor | | Seamless aluminum gutters |
-| [ ] Garage Door Contractor | | 18x8 and 9x8 doors with openers |
+| [ ] Garage Door Contractor | | 18x8 and 8x8 doors with openers |
 
 ### Phase 6: Rough-In
 
@@ -125,7 +125,7 @@ Comprehensive tracking for all contractor and supplier quotes.
 | [ ] Roofing Supplier | | Shingles (all roof areas), ice shield |
 | [ ] Siding Supplier | | CELECT board-and-batten siding (rear elevation horizontal vinyl lap), aluminum |
 | [ ] Window and Door Supplier | | Andersen 100 windows, all doors |
-| [ ] Garage Door Supplier | | 18x8, 9x8 doors + openers |
+| [ ] Garage Door Supplier | | 18x8, 8x8 doors + openers |
 | [ ] Gutter and Downspout Supplier | | Seamless aluminum, corrugated pipe |
 
 ### MEP (Mechanical/Electrical/Plumbing)

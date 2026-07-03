@@ -263,7 +263,7 @@
 ### Garage Doors
 
 - [ ] 18' x 8' garage door - 1 EA
-- [ ] 9' x 8' garage door - 1 EA
+- [ ] 8' x 8' garage door - 1 EA
 - [ ] Direct drive electric openers - 2 EA
 - [ ] Weather seal - LF
 

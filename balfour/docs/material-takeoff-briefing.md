@@ -547,13 +547,13 @@ Rev-01 now carries **handing (LH/RH)**; **in/out swing direction is still NOT sp
 
 **Expected Line Items:**
 - [ ] 18' x 8' garage door - 1 EA
-- [ ] 9' x 8' garage door - 1 EA
+- [ ] 8' x 8' garage door - 1 EA
 - [ ] Direct drive electric openers - 2 EA
 - [ ] Weather seal - LF
 
 **Specifications:**
 - 1 - 18' x 8' garage door with direct drive electric opener
-- 1 - 9' x 8' garage door with direct drive electric opener
+- 1 - 8' x 8' garage door with direct drive electric opener
 
 ---
 
