@@ -222,10 +222,11 @@
 
 ### Siding
 
-**Board-and-Batten Vinyl Siding (cool bluish-toned black, wood-grain):**
-- [ ] Vinyl board (10") - SF
-- [ ] Vinyl batten (2") - LF
-- [ ] Vinyl trim by profile - LF
+**CELECT Board-and-Batten Siding (Westlake Royal, Wrought Iron, wood-grain; rear elevation horizontal vinyl lap, color-matched to Wrought Iron):**
+- [ ] CELECT board (9") - SF
+- [ ] CELECT batten (2") - LF
+- [ ] Horizontal vinyl lap siding, color-matched to Wrought Iron (rear elevation) - SF
+- [ ] CELECT trim by profile - LF
 - [ ] Vinyl post wraps (12") - count [CONFIRM: owner now wants EXPOSED American Walnut hardwood porch posts instead of 12" vinyl post wraps — post-wrap vs exposed-post conflict]
 - [ ] Hardie board (deck ceiling) - SF [CONFIRM: siding changed to vinyl; deck ceiling still Hardie?]
 

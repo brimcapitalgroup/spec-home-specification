@@ -132,7 +132,7 @@ Apply and document waste percentages. Suggested factors (or propose your standar
 | Concrete | Cubic yards by pour location, SF of wire mesh, LF of rebar by size (#4), SF of vapor barrier, SF of foam insulation, gallons of stain/sealer |
 | Stone/Aggregate | Cubic yards by type (1x3, 21AA, pea stone, 6A) by location |
 | Roofing | Squares of shingles, LF of drip edge, rolls of underlayment, rolls of ice/water shield, flashing pieces, roof vents (black louvers; no ridge vent) |
-| Siding | SF of board-and-batten vinyl siding, LF of batten, LF of trim by profile, SF of soffit, LF of fascia, corner pieces, J-channel LF, post wraps count, metal vents |
+| Siding | SF of CELECT board-and-batten siding, SF of horizontal vinyl lap siding (rear elevation), LF of batten, LF of trim by profile, SF of soffit, LF of fascia, corner pieces, J-channel LF, post wraps count, metal vents |
 | Windows | Window schedule with: size (W x H), type, operation style, location, count - plus flashing tape, shims |
 | Doors | Door schedule with: size (W x H), swing (in/out), handing (LH/RH/LHR/RHR), type, location, count - plus weatherstripping, thresholds |
 | Drywall | Sheet count by thickness/type (regular, moisture-resistant), rolls of tape, buckets of compound by type, corner bead LF, screws |
@@ -486,9 +486,10 @@ Rev-01 now carries **handing (LH/RH)**; **in/out swing direction is still NOT sp
 ### Siding
 
 **Expected Line Items:**
-- [ ] Vinyl board (10" board) - SF
-- [ ] Vinyl batten (2") - LF
-- [ ] Vinyl trim by profile - LF
+- [ ] CELECT board (9") - SF
+- [ ] CELECT batten (2") - LF
+- [ ] Horizontal vinyl lap siding, color-matched to Wrought Iron (rear elevation) - SF
+- [ ] CELECT trim by profile - LF
 - [ ] Vinyl post wraps (12") - count [CONFIRM: owner now wants EXPOSED American Walnut hardwood porch posts instead of 12" vinyl post wraps — post-wrap vs exposed-post conflict]
 - [ ] Hardie board for deck ceiling - SF [CONFIRM: siding changed to vinyl; deck ceiling still Hardie?]
 - [ ] Aluminum soffit - SF
@@ -501,11 +502,12 @@ Rev-01 now carries **handing (LH/RH)**; **in/out swing direction is still NOT sp
 
 **Specifications:**
 
-**Board-and-Batten Vinyl Siding (10" board / 2" batten, wood-grain, cool bluish-toned black):**
-- Siding: 10" board and 2" batten
+**CELECT Cellular Composite Board-and-Batten Siding (Westlake Royal, 9" board / 2" batten, wood-grain, Wrought Iron):**
+- Siding: 9" board and 2" batten (11" profile)
+- Rear elevation: horizontal vinyl lap siding, top to bottom, color-matched to Wrought Iron (all other elevations CELECT)
 - Porch and deck post wraps: 12" [CONFIRM: owner now wants EXPOSED American Walnut hardwood porch posts (stained to match the front door) instead of 12" vinyl post wraps — post-wrap vs exposed-post conflict]
 - All other trim per design spec
-- Finish: Cool Bluish-Toned Black with Wood Grain
+- Finish: Wrought Iron with Wood Grain
 - Deck ceiling: Hardie Board [CONFIRM: siding changed to vinyl; deck ceiling still Hardie?]
 
 **Aluminum:**

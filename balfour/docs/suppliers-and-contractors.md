@@ -705,11 +705,12 @@
 
 - 1-Year Labor Warranty from Date Home Becomes Occupied
 - Install All Materials Where Specified by Design
-- Board-and-Batten Vinyl Siding (10" board / 2" batten, wood-grain, cool bluish-toned black)
-  - Siding: 10" Board and 2" Batten
+- CELECT Cellular Composite Board-and-Batten Siding (Westlake Royal), Wrought Iron, Wood-Grain
+  - Siding: 9" Board and 2" Batten (11" Profile)
+  - Rear Elevation: Horizontal Vinyl Lap Siding, Top to Bottom, Color-Matched to Wrought Iron (All Other Elevations CELECT)
   - Porch and Deck Post Wraps: 12" [CONFIRM: owner now wants EXPOSED American Walnut hardwood porch posts (stained to match the front door) instead of 12" vinyl post wraps — post-wrap vs exposed-post conflict]
   - All Other Trim per Design Spec
-  - Cool Bluish-Toned Black with Wood Grain
+  - Wrought Iron with Wood Grain
 - Aluminum
   - All Aluminum: Satin White Smooth Finish
   - Roof Fascia: Satin White Smooth
@@ -1217,11 +1218,12 @@
 
 **Related Contractors:** [Siding Contractor](#siding-contractor)
 
-- Board-and-Batten Vinyl Siding (10" board / 2" batten, wood-grain, cool bluish-toned black)
-  - 10" Board and 2" Batten
+- CELECT Cellular Composite Board-and-Batten Siding (Westlake Royal), Wrought Iron, Wood-Grain
+  - 9" Board and 2" Batten (11" Profile)
+  - Rear Elevation: Horizontal Vinyl Lap Siding, Top to Bottom, Color-Matched to Wrought Iron (All Other Elevations CELECT)
   - Porch and Deck Post Wraps: 12" [CONFIRM: owner now wants EXPOSED American Walnut hardwood porch posts (stained to match the front door) instead of 12" vinyl post wraps — post-wrap vs exposed-post conflict]
   - All Other Trim per Design Spec
-  - Cool Bluish-Toned Black with Wood Grain
+  - Wrought Iron with Wood Grain
 - Aluminum
   - All Aluminum: Satin White Smooth Finish
   - Roof Fascia: Satin White Smooth

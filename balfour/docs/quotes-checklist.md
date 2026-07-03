@@ -51,7 +51,7 @@ Comprehensive tracking for all contractor and supplier quotes.
 | Contractor | Quote Received | Scope Notes |
 |------------|----------------|-------------|
 | [ ] Roofing Contractor | | Shingles (all roof areas), chimney chases |
-| [ ] Siding Contractor | | Board-and-batten vinyl siding, aluminum fascia/trim, vinyl soffit |
+| [ ] Siding Contractor | | CELECT board-and-batten siding (rear elevation horizontal vinyl lap), aluminum fascia/trim, vinyl soffit |
 | [ ] Gutter and Downspout Contractor | | Seamless aluminum gutters |
 | [ ] Garage Door Contractor | | 18x8 and 9x8 doors with openers |
 
@@ -123,7 +123,7 @@ Comprehensive tracking for all contractor and supplier quotes.
 | Supplier | Quote Received | Scope Notes |
 |----------|----------------|-------------|
 | [ ] Roofing Supplier | | Shingles (all roof areas), ice shield |
-| [ ] Siding Supplier | | Board-and-batten vinyl siding, aluminum |
+| [ ] Siding Supplier | | CELECT board-and-batten siding (rear elevation horizontal vinyl lap), aluminum |
 | [ ] Window and Door Supplier | | Andersen 100 windows, all doors |
 | [ ] Garage Door Supplier | | 18x8, 9x8 doors + openers |
 | [ ] Gutter and Downspout Supplier | | Seamless aluminum, corrugated pipe |
