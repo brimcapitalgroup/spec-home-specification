@@ -42,7 +42,7 @@
   - Gas Dryer
   - Gas Range
   - Both Fireplaces
-  - High Efficiency 50 Gallon Gas Tank Water Heater
+  - A.O. Smith Signature 500 75 Gallon Tall Power-Vent Natural Gas Water Heater, 76,000 BTU (Model G6-PVT7576NV)
   - 100K BTU Gas Furnace
   - 80K BTU Garage Gas Heater
 
@@ -108,8 +108,9 @@
   - Activated Carbon Filter Cartridges
 - Reverse Osmosis
   - Fed by Softener Cold Water Line
-- High Efficiency 50 Gallon Gas Tank Water Heater
-  - Powered Titanium Anode Rod (Electrical Provides a Dedicated Circuit with Lug at the Water Heater)
+- A.O. Smith Signature 500 75 Gallon Tall Power-Vent Natural Gas Water Heater, 76,000 BTU, 6-Year Warranty (Model G6-PVT7576NV)
+  - PVC Power Venting
+  - Powered Titanium Anode Rod (Electrical Provides a Dedicated 120V Circuit with Lug at the Water Heater, Serving the Power-Vent Blower and the Powered Anode)
   - Valved for Isolation (Zero Downtime Servicing)
   - Expansion Tank (Required Due to Check Valve After Well)
   - Hot Water Recirculation Pump

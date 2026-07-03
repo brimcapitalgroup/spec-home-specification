@@ -12,7 +12,7 @@
 - Ceiling Fan Rated Boxes
 - Load Shed Device for the Garage 240V Compressor Circuit
 - 30 Amp Disconnect Switch
-- Dedicated Circuit with Lug at the Water Heater Location (Powered Titanium Anode Rod)
+- Dedicated Circuit with Lug at the Water Heater Location (Power-Vent Blower and Powered Titanium Anode Rod)
 - Kitchen Under-Cabinet Track Plug System
 - Kitchen Under-Cabinet Lighting
 - Kitchen 6 Recessed Lights

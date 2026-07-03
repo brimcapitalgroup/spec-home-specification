@@ -166,7 +166,7 @@
   - All Home Runs to be Run Through 2x6 Wall to Finish Basement Wall in Mechanical Room Where Home Runs Drop to Panel
 - 200 Amp Meter with Integrated Disconnect (Exterior Emergency Disconnect per 2025 Code)
   - Service Entrance: Conduit Required from Meter to Home Penetration; Interior Wiring Installed per Code
-- Dedicated Circuit with Lug at the Water Heater Location for the Powered Titanium Anode Rod
+- Dedicated 120V Circuit with Lug at the Water Heater Location Serving the Power-Vent Blower and the Powered Titanium Anode Rod
 - Garage Air Compressor Circuit
   - 1 30 Amp 220V 3-Wire Plug-In Outlet for 5HP Stage Air Compressor
   - 30 Amp Disconnect Switch Controlling the 220V Outlet
@@ -580,7 +580,7 @@
   - Gas Dryer
   - Gas Range
   - Both Fireplaces
-  - High Efficiency 50 Gallon Gas Tank Water Heater
+  - A.O. Smith Signature 500 75 Gallon Tall Power-Vent Natural Gas Water Heater, 76,000 BTU (Model G6-PVT7576NV)
   - 100K BTU Gas Furnace
   - 80K BTU Garage Gas Heater
 
@@ -646,8 +646,9 @@
   - Activated Carbon Filter Cartridges
 - Reverse Osmosis
   - Fed by Softener Cold Water Line
-- High Efficiency 50 Gallon Gas Tank Water Heater
-  - Powered Titanium Anode Rod (Electrical Provides a Dedicated Circuit with Lug at the Water Heater)
+- A.O. Smith Signature 500 75 Gallon Tall Power-Vent Natural Gas Water Heater, 76,000 BTU, 6-Year Warranty (Model G6-PVT7576NV)
+  - PVC Power Venting
+  - Powered Titanium Anode Rod (Electrical Provides a Dedicated 120V Circuit with Lug at the Water Heater, Serving the Power-Vent Blower and the Powered Anode)
   - Valved for Isolation (Zero Downtime Servicing)
   - Expansion Tank (Required Due to Check Valve After Well)
   - Hot Water Recirculation Pump
@@ -945,7 +946,7 @@
 - Ceiling Fan Rated Boxes
 - Load Shed Device for the Garage 240V Compressor Circuit
 - 30 Amp Disconnect Switch
-- Dedicated Circuit with Lug at the Water Heater Location (Powered Titanium Anode Rod)
+- Dedicated Circuit with Lug at the Water Heater Location (Power-Vent Blower and Powered Titanium Anode Rod)
 - Kitchen Under-Cabinet Track Plug System
 - Kitchen Under-Cabinet Lighting
 - Kitchen 6 Recessed Lights
@@ -1183,7 +1184,8 @@
 - 1.5" Big Blue Water Filter
   - Activated Carbon Filter Cartridges
 - Reverse Osmosis System
-- High Efficiency 50 Gallon Gas Tank Water Heater
+- A.O. Smith Signature 500 75 Gallon Tall Power-Vent Natural Gas Water Heater, 76,000 BTU, 6-Year Warranty (Model G6-PVT7576NV)
+- PVC Power Venting Materials
 - Powered Titanium Anode Rod
 - Expansion Tank
 - Hot Water Recirculation Pump

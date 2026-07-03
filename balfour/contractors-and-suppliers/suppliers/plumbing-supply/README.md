@@ -25,7 +25,8 @@
 - 1.5" Big Blue Water Filter
   - Activated Carbon Filter Cartridges
 - Reverse Osmosis System
-- High Efficiency 50 Gallon Gas Tank Water Heater
+- A.O. Smith Signature 500 75 Gallon Tall Power-Vent Natural Gas Water Heater, 76,000 BTU, 6-Year Warranty (Model G6-PVT7576NV)
+- PVC Power Venting Materials
 - Powered Titanium Anode Rod
 - Expansion Tank
 - Hot Water Recirculation Pump
