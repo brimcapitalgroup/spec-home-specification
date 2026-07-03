@@ -71,3 +71,10 @@
     - Keyless Lights
   - After Paint
     - Custom (to be quoted)
+
+## Rough Mobilizations
+
+- Two trips during the rough
+  - The basement is finished space, and its walls are framed only after the basement slab is poured
+  - Trip 1 covers the house; trip 2 comes back for the finished basement
+  - Quotes must price both mobilizations

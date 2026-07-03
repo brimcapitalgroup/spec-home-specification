@@ -20,3 +20,10 @@
 - Red Tag Corrections Included (RFQ-89)
 - Kitchen/Dining Studio Ceiling: Frame the 12-ft Flat Coffered "Studio Ceiling" with an 8"x12" Beam Where the Vaulted Ceiling Steps Down (Per Plan)
 - Garage Cold-Storage Attic: truss the attic over the full length of the garage as load-bearing; OSB the attic floor and walls (not the ceiling) for cold storage; provide a 9-ft pull-down attic access ladder at the mudroom-door landing (RFQ-89).
+
+## Rough Mobilizations
+
+- Two trips during the rough
+  - The basement is finished space, and its walls are framed only after the basement slab is poured
+  - Trip 1 covers the house; trip 2 comes back for the finished basement
+  - Quotes must price both mobilizations

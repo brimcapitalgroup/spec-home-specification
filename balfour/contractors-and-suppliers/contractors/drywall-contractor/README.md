@@ -17,3 +17,7 @@
   - Great Room Fireplace Wall: Floor-to-Ceiling (Montauk Black Slate)
   - Open Doorways Without Doors
   - Basement Mechanical Room Ceiling
+
+## Mobilization
+
+- Single trip: the basement is framed and drywall ready before drywall starts; one mobilization covers the whole house including the finished basement

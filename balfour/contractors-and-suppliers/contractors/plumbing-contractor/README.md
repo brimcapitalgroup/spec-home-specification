@@ -117,3 +117,10 @@
     - NPT Port on Feed Line of Loop for Digital Water Temperature Sensor
     - Controlled by Shelly WiFi Relay (Installed by Low Voltage)
     - Hot Water Recirculation on All Hot Water Fixtures
+
+## Rough Mobilizations
+
+- Two trips during the rough
+  - The basement is finished space, and its walls are framed only after the basement slab is poured
+  - Trip 1 covers the house; trip 2 comes back for the finished basement
+  - Quotes must price both mobilizations
