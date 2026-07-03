@@ -16,7 +16,7 @@
     - All Swing and French Style Doors: Factory Back-Beveled Latch Edge
   - Exterior
     - Front Door: Therma-Tru Wood-Grain French Entry Door
-      - Full-Height Custom Decorative Glass (Privacy + Clear Zones) with Integrated Metalwork
+      - Full-Length Lucerna Decorative Glass in Black Nickel, with Black Nickel Hardware (RFQ-84)
       - Astragal Between Panels
       - Wood Grain Texture, Unfinished (To Be Stained American Walnut — Under Paint and Stain)
     - Garage to Mudroom: Fiberglass, Fireproof, 2-Panel Shaker Style

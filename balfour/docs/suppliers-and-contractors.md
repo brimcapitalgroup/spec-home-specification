@@ -105,6 +105,11 @@
   - #4 Rebar Vertical with Horizontal Hoop Ties
 - Foundation
   - Reinforcement per Engineering Spec
+  - RFQ-88 All-In-One Installed Quote: Poured Walls with Beam Pockets, Ledges, and Egress Window Well
+  - All Footings Included: Wall, Trench, Pad, Deck, and Porch
+  - Garage Foundation and Foundation Block per Plans
+  - Weeping Tile, Damp-Proofing, and Backfill with Original Soil
+  - Slabs and Excavation Excluded from RFQ-88 (Remain in the Flatwork/Excavation Scopes)
 - Front Porch and Steps
   - #4 Rebar Reinforcement
   - Control Joints at 8' Max Spacing, 1" Deep, Saw-Cut Within 12 Hours of Pour, Square Panels
@@ -407,11 +412,18 @@
 **Related Suppliers:** [Insulation Supplier](#insulation-supplier)
 
 - 1-Year Labor Warranty from Date Home Becomes Occupied
+- RFQ-87 Installed-Cost Quote (Material and Labor Combined; No Material Breakout)
+  - Whole House to Code Minimum, Including the Garage and the Fully Finished Basement
+  - Basement Walls and Band Joists: Batt Insulation
+  - Ceilings: Blown Cellulose
+  - Garage Attic Storage Area: Treatment at Installer Discretion
+  - Foam-Sealing of Boxes and Seams: Standard
+  - No Spray Foam Insulation
 - Walls: Batt Insulation (First Floor, Basement, and Garage — All Exterior Walls) — R-21 Batts (5-1/2"), 5,657 SF (10% waste)
 - Ceilings: Batt Insulation with Cellulose Blown-In Over Batts (All Ceilings, Including the Garage Ceiling Under the Cold-Storage Attic — Garage Fully Insulated: Exterior Walls and Ceiling) — R-38 Batts (5-1/2"), 1,882 SF + 93 Bags 25# Cellulose R-38 (1.3 lb/SF; 10% waste)
 - Garage: Interior ~981 sq ft (26'11" x 36'5.5"); Fully Insulated Walls and Ceiling
 - Foundation/Slab (Basement + Garage): 76 Sheets 4'x8'x2" Foam Plank + 908 LF Seam/Vapor-Barrier Tape (Rev-01 slab-insulation; also Concrete scope)
-- Band Joist / Rim Joist: Spray Foam (Not Carried as a Rev-01 Take-Off Line — Field-Measure)
+- Band Joist / Rim Joist: Batt Insulation per RFQ-87, No Spray Foam (Not Carried as a Rev-01 Take-Off Line; Field-Measure)
 - Rev-01 Take-Off source: Dan McJunkin, Est. 26-0518-5544-R01
 - Air Sealing: All Electrical Boxes, Window Rough Opening Gaps, Penetrations, Cracks, and Gaps Sealed with Spray Foam Prior to Insulation
 
@@ -666,6 +678,7 @@
 - Drip Edge: Black
 - Exterior Chimney Chases
   - Plywood Sheathing Fully Wrapped in Ice and Water Shield Membrane (All Sides, Top to Bottom)
+  - Wrap Completed Before the Stone Trade Starts on the Chases (RFQ-85)
   - Stainless Steel Screws with Silicone Caulk on Heads
 
 ## Rough Carpenter (Framing)
@@ -676,15 +689,20 @@
 - Rough Framing Requirements for Take-Off Estimator
   - Roof Trusses: Engineered by Truss Supply Company
   - Floor Trusses: Engineered by Truss Supply Company
+  - Framer Sets the Engineered Roof and Floor Trusses (RFQ-89)
+  - Rear Deck Roof: Stick Framed
   - All Dimensional Lumber: Douglas Fir
   - No Dimensional Lumber Longer Than 16'
   - LVL Requirements: Estimator to Identify Where Needed and Specify if Engineering Required
 - Screw Down Flooring
 - No Drop Flooring
 - Install Blocking for All Handrails, Towel Holders, and Bathroom Toilet Paper Holders
-- Deck Install (Trex Composite Decking; Includes Under-Deck Drainage System Routing Rainwater to Gutters/Downspouts So the Walkout Patio Below Stays Dry)
+- Deck Install: Deck Built and Trex-Clad (RFQ-89) (Trex Composite Decking; Includes Under-Deck Drainage System Routing Rainwater to Gutters/Downspouts So the Walkout Patio Below Stays Dry)
+- Chimney Chases: Framed and Sheathed, Ready for Stone (RFQ-89)
+- Mudroom and Walkout Step-Out Landings (RFQ-89)
+- Red Tag Corrections Included (RFQ-89)
 - Kitchen/Dining Studio Ceiling: Frame the 12-ft Flat Coffered "Studio Ceiling" Over the Kitchen and Dining Area, with an 8"x12" Beam Where the Vaulted Ceiling Steps Down to the Studio Ceiling (Per Plan)
-- Garage Cold-Storage Attic: truss the attic over the full length of the garage as load-bearing; frame and plywood-sheathe the attic floor for cold storage; provide a pull-down attic access stair at the mudroom-door landing.
+- Garage Cold-Storage Attic: truss the attic over the full length of the garage as load-bearing; OSB the attic floor and walls (not the ceiling) for cold storage; provide a 9-ft pull-down attic access ladder at the mudroom-door landing (RFQ-89).
 
 ## Septic Contractor
 
@@ -1327,7 +1345,7 @@
     - All Swing and French Style Doors: Factory Back-Beveled Latch Edge
   - Exterior
     - Front Door: Therma-Tru Wood-Grain French Entry Door
-      - Full-Height Custom Decorative Glass (Mix of Privacy and Clear) with Integrated Metalwork
+      - Full-Length Lucerna Decorative Glass in Black Nickel, with Black Nickel Hardware (RFQ-84)
       - Astragal Between Panels
       - Wood Grain Texture, Unfinished (To Be Stained American Walnut — See Paint and Stain)
     - Garage to Mudroom: Fiberglass, Fireproof, 2-Panel Shaker Style

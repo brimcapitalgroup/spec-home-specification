@@ -13,6 +13,11 @@
   - #4 Rebar Vertical with Horizontal Hoop Ties
 - Foundation
   - Reinforcement per Engineering Spec
+  - RFQ-88 All-In-One Installed Quote: Poured Walls with Beam Pockets, Ledges, and Egress Window Well
+  - All Footings Included: Wall, Trench, Pad, Deck, and Porch
+  - Garage Foundation and Foundation Block per Plans
+  - Weeping Tile, Damp-Proofing, and Backfill with Original Soil
+  - Slabs and Excavation Excluded from RFQ-88 (Remain in the Flatwork/Excavation Scopes)
 - Front Porch and Steps
   - #4 Rebar Reinforcement
   - Control Joints at 8' Max Spacing, 1" Deep, Saw-Cut Within 12 Hours of Pour, Square Panels
