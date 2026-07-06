@@ -6,7 +6,7 @@
 - All Tile Grout Joints: 1/8" Everywhere
 - Owner Supplies All Materials (Tile, Slate, Membranes, Backer, Mud, Thinset, Grout, Sealers, 2cm Quartz Pieces, Leveling System, Floor Protection Paper); Contractor Supplies Only Labor and Their Own Spacers
 - Contractor Supplies a Material List with Quantities One Month Ahead for Everything Other Than the Tile and Stone (Tile and Slate Already Selected and On Hand)
-- All Tile Set with a Leveling System (Spin-Top or Wedge Style); Contractor Picks the System and Tells the Owner What to Order
+- Leveling System Required on Every Tile Everywhere (Spin-Top or Wedge Style); Contractor Picks the System and the Owner Buys Exactly What Is Requested
 - All Tile Pattern: 50/50 Brick Pattern (Running Bond)
   - Slate Long Side Runs Left to Right as Seen from the Most Common Entry into Each Room; Short Side Stacks in the 50/50 Offset
   - Fireplace Vertical Slate: Same 50/50 Brick, Long Side Left to Right
@@ -14,7 +14,7 @@
 - No Floor Heat Anywhere in the House
 - Shower Drains: Owner-Supplied Round Grated Drains, Satin Black, Matching the Delta Shower Trim Finish
 - Master and Basement Showers: Framed Entry Curbs, Each with a 2cm Quartz Top Set by the Tile Contractor
-- Substrate Patch / Self-Leveler If Needed: Owner Supplies the Material (Goes on the Material List); Application Labor Included in the Rates
+- Substrate Flatness: Minor Issues Corrected with Thinset or Mud Within the Rates; Self-Leveling Cement (Not Expected) Would Be Quoted Separately at That Time; No Tile Floor Sits Over a Garage Ceiling
 - All Montauk Black Slate: Fully Cleaned with Phosphoric Acid After Install (100% Thinset and Grout Haze Removal), Then Sealed with Custom Building Products TileLab Gloss Sealer and Finish (TLGLSSHG)
 - All Porcelain Grout: Sealed with Miracle Sealants 511 Impregnator
 - All Tile Floors: Set Over Schluter DITRA Uncoupling Membrane (No Floor Cement Board); Slate Buildup ~5/8" (1/2" Slate over 1/8" DITRA)
