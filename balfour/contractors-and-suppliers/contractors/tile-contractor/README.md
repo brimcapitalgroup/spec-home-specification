@@ -19,7 +19,7 @@
 - These Patterns, Configurations, and Sizes Are the Standard for All Upcoming Houses
 - All Montauk Black Slate: Fully Cleaned with Phosphoric Acid After Install (100% Thinset and Grout Haze Removal), Then Sealed with Custom Building Products TileLab Gloss Sealer and Finish (TLGLSSHG)
 - All Porcelain Grout: Sealed with Miracle Sealants 511 Impregnator
-- All Tile Floors: Set Over Schluter DITRA Uncoupling Membrane (No Floor Cement Board); Slate Buildup ~5/8" to 3/4" (1/2" Cleft Slate over 1/8" DITRA plus Thinset Beds); Keep the Stack as Thin as Possible While Durable
+- All Tile Floors: Set Over Schluter DITRA Uncoupling Membrane (No Floor Cement Board); Slate Buildup ~5/8" to 3/4" (1/2" Gauged Slate over 1/8" DITRA plus Thinset Beds); Keep the Stack as Thin as Possible While Durable
 - Showers: 1/2" Durock Walls and Ceilings; Schluter KERDI Membrane with KERDI-BAND Taped Seams Over the Durock and Floors; Cement Mud Bases
 - Shower Ceilings: 1 to 2 4" Wet-Rated Recessed Lights Each; Tile Holes Precision Cut with a Masonry Hole Saw So the Trim Fully Covers Them
 - Euro-Glass Hinge Walls: Finished Dead Flat and Plumb (Small Shim Tolerance Only)
