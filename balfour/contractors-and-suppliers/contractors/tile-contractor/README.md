@@ -3,7 +3,9 @@
 **Related Suppliers:** [Tile Supplier](../../suppliers/tile-supplier/README.md), [Countertop Fabricator](../../suppliers/countertop-fabricator/README.md)
 
 - 1-Year Labor Warranty from Date Home Becomes Occupied
-- All Tile Grout Joints: 1/16" Where Applicable
+- All Tile Grout Joints: 1/8" Everywhere
+- Owner Supplies All Materials (Tile, Slate, Membranes, Backer, Mud, Thinset, Grout, Sealers, Granite, Leveling System); Contractor Supplies Labor and Their Own Spacers
+- All Tile Set with a Leveling System (Spin-Top or Wedge Style); Contractor Picks the System and Tells the Owner What to Order
 - All Tile Pattern: 50/50 Brick Pattern (Running Bond)
 - All Montauk Black Slate: Fully Cleaned with Phosphoric Acid After Install (100% Thinset and Grout Haze Removal), Then Sealed with Custom Building Products TileLab Gloss Sealer and Finish (TLGLSSHG)
 - All Porcelain Grout: Sealed with Miracle Sealants 511 Impregnator
