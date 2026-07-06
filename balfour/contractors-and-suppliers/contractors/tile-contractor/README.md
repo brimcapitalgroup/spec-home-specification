@@ -43,7 +43,7 @@
     - Exclusions from tile: the 2cm Quartz Sills, Bench Tops, Niche Base and Shelves, and Tub Seat (Quartz Supplied Cut Long; Tile Contractor Fits and Sets)
 - Rubber Athletic Flooring
   - Basement Gym
-- 2cm Quartz in Every Shower or Bath Area: Installed by Tile Contractor
+- 2cm Quartz in Every Shower or Bath Area: Installed by Tile Contractor (Bathroom Counters Are 3cm Quartz, by the Countertop Trade)
   - Shower Sills / Curb Tops
   - Shower Bench Tops
   - Master Shower Niche Base and Mid Shelves
