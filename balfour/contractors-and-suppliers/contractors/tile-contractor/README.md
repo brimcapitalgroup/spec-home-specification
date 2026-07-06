@@ -28,7 +28,9 @@
   - Great Room Fireplace Chimney Box
   - Basement Fireplace Chimney Box
 - Porcelain Tile
-  - Bath Floors: 12 in. x 24 in. Matte
+  - Bath Floors: 12 in. x 24 in. Matte; Long Side Runs the Direction of the Longest Wall; Rows Repeat a 30% Offset to the Right
+  - Wall Tile Matches the Floor Direction and Configuration Where Both Are Viewed Together
+  - Every Exposed Tile Edge: Satin Black Metal Edging
   - Shower Walls and Ceilings: 12 in. x 24 in. Gloss
   - Shower Floors: Matching Small Hex Mosaic
   - Master Niche Back Wall: Matching Hex Mosaic
@@ -36,12 +38,14 @@
   - Closet by Mudroom
   - Basement Open Area and Bar
     - Wood Plank Look Porcelain Tile
-  - All Showers: Full Porcelain Tile on Floor, Walls, and Ceiling; All Three Showers Have Benches; the Master Shower Wall Niche Is the Only Niche
-    - Exclusions: Grade-E Brazilian Exotic Granite Shower Door Thresholds, Shower Benches, Niche Base, and Niche Mid Shelves
+  - Master and Basement Showers: Full Porcelain on Floor, Walls, and Ceiling, with Benches; the Master Wall Niche Is the Only Niche
+  - Jack and Jill: Framed Drop-In Tub Box Tiled in 12x24 Gloss; Surround Walls and Ceiling Tiled; Quartz Seat
+    - Exclusions from tile: the 2cm Quartz Sills, Bench Tops, Niche Base and Shelves, and Tub Seat (Quartz Supplied Cut Long; Tile Contractor Fits and Sets)
 - Rubber Athletic Flooring
   - Basement Gym
-- Grade-E Brazilian Exotic Granite Shower Components: Installed by Tile Contractor
-  - Shower Door Thresholds
-  - Shower Benches
+- 2cm Quartz in Every Shower or Bath Area: Installed by Tile Contractor
+  - Shower Sills / Curb Tops
+  - Shower Bench Tops
   - Master Shower Niche Base and Mid Shelves
+  - Jack and Jill Tub Seat Top
   - Granite Pieces Supplied ~1" Long; Tile Contractor Cuts to Size and Sets; Sills and Steps Sloped Back into the Shower
