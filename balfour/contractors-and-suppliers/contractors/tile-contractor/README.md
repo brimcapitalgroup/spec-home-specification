@@ -3,7 +3,7 @@
 **Related Suppliers:** [Tile Supplier](../../suppliers/tile-supplier/README.md), [Countertop Fabricator](../../suppliers/countertop-fabricator/README.md)
 
 - 1-Year Labor Warranty from Date Home Becomes Occupied
-- All Tile Grout Joints: 1/8" Everywhere
+- All Tile Grout Joints: 1/8" Everywhere; One Grout for the Whole House: MAPEI Ultracolor Plus FA, 00 White, 25 lb (Lowe's Item 1000127899)
 - Owner Supplies All Materials (Tile, Slate, Membranes, Backer, Mud, Thinset, Grout, Sealers, 2cm Quartz Pieces, Leveling System, Floor Protection Paper); Contractor Supplies Only Labor and Their Own Spacers
 - Contractor Supplies a Material List with Quantities One Month Ahead for Everything Other Than the Tile and Stone (Tile and Slate Already Selected): Best Polymer Modified Thinset, Sand Mortar for Mud Bases, DITRA/KERDI/KERDI-BAND, Durock and Durock Screws, Grout, Sealers, All Metal Edging, Leveling System Order; Sent After the Owner Delivers Marked-Up Plans Showing Where the Tile Goes
 - Leveling System Required on Every Tile Everywhere (Spin-Top or Wedge Style); Contractor Picks the System and the Owner Buys Exactly What Is Requested
@@ -28,7 +28,7 @@
 - Completed Floors: Covered with the Owner-Supplied Taped Heavy Protection Paper (Lighter Than Ram Board); Floors Only
 - No Wall Tile in the Kitchen or Mudroom (Kitchen Backsplash Is Granite, by Others)
 - Montauk Black Slate (12 in. x 24 in., natural textured)
-  - White Sanded Grout on All Slate
+  - Grout on All Slate: MAPEI Ultracolor Plus FA, 00 White
   - Foyer (Main Floor)
   - Powder Room (Main Floor)
   - Mudroom (Main Floor)
