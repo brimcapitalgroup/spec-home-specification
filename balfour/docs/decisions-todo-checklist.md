@@ -89,8 +89,8 @@ All pending decisions, selections, and specifications that need to be completed 
 
 | Item | Notes |
 |------|-------|
-| Great Room fireplace make/model | See-through/pass-through (great room + deck), vented via great-room chimney custom metal cap, smart/Google Nest controlled — no unit selected |
-| Basement fireplace make/model | Vented via primary stone-clad chimney (shared with kitchen range hood) custom metal cap, smart/Google Nest controlled — no unit selected |
+| Great Room fireplace make/model | DECIDED 07/06/2026: Empire White Mountain Hearth Boulevard 48" linear vent-free see-through, VFLB48SP (NG, IP ignition, black crushed glass, LED light kit), Woodland Direct item M35130872, $4,459.42 delivered. Vent free, so the great-room chimney is a decorative chase (no flue); custom metal cap stays; smart/Google Nest controlled |
+| Basement fireplace make/model | DECIDED 07/06/2026: Empire Deluxe Tahoe 36" clean-faced direct-vent, DVCD36FP (NG, IP ignition, blower, reed switch thermostat, black porcelain liner, ember kit), Woodland Direct item M35130846, $3,182.00 + est MI tax. Direct vent up the primary stone-clad chimney (shared with kitchen range hood), custom metal cap, smart/Google Nest controlled |
 
 ### Other
 
@@ -117,6 +117,6 @@ All pending decisions, selections, and specifications that need to be completed 
 | Hardware Selections | 2 |
 | Trim/Molding Selections | 5 |
 | Countertop Selections | 3 |
-| Fireplace Selections | 2 |
+| Fireplace Selections | 0 (both decided 07/06/2026) |
 | Other Selections | 7 |
-| **Total** | **47** |
+| **Total** | **45** |

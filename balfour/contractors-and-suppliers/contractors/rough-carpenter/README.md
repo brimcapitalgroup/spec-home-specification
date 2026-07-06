@@ -21,6 +21,18 @@
 - Kitchen/Dining Studio Ceiling: Frame the 12-ft Flat Coffered "Studio Ceiling" with an 8"x12" Beam Where the Vaulted Ceiling Steps Down (Per Plan)
 - Garage Cold-Storage Attic: truss the attic over the full length of the garage as load-bearing; OSB the attic floor and walls (not the ceiling) for cold storage; provide a 9-ft pull-down attic access ladder at the mudroom-door landing (RFQ-89).
 
+## Fireplace Framing (both units owner supplied; size charts in balfour project specifications/fireplaces/)
+
+- Great room pass-through: Empire White Mountain Hearth Boulevard 48" vent-free see-through, VFLB48SP
+  - Rough opening 41-5/8" H x 54-1/2" W x 12" D (depth varies per install; confirm in the manual)
+  - Elevated install: bottom of the unit sits 18" off the floor (plan note)
+  - Header with standoffs over the opening; no combustibles in the marked zone above the opening; non-combustible material may run to the edge of the opening
+  - Combustible projection clearances above the opening: 2" projection needs 18", 4" needs 20", 6" needs 22", 8" needs 24", 10" needs 26", 12" needs 28"
+  - Vent free: no flue or vent framing; the great-room chimney chase is decorative (framed and sheathed for stone per the plans)
+- Basement: Empire Deluxe Tahoe 36" clean-faced direct vent, DVCD36FP
+  - Unit envelope 37-3/16" W x 38-5/8" H x 17-3/4" D; exact rough opening and clearances per the install manual
+  - Direct vent exits the top of the unit and runs up the primary stone-clad chimney chase (shared with the kitchen range hood exhaust); confirm vent routing before closing the chase
+
 ## Rough Mobilizations
 
 - Two trips during the rough
