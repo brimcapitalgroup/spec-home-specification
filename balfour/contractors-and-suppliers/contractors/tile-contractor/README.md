@@ -5,7 +5,14 @@
 - 1-Year Labor Warranty from Date Home Becomes Occupied
 - All Tile Grout Joints: 1/16" Where Applicable
 - All Tile Pattern: 50/50 Brick Pattern (Running Bond)
-- All Montauk Black Slate: Acid Cleaned and Sealed After Install
+- All Montauk Black Slate: Fully Cleaned with Phosphoric Acid After Install (100% Thinset and Grout Haze Removal), Then Sealed with Custom Building Products TileLab Gloss Sealer and Finish (TLGLSSHG)
+- All Porcelain Grout: Sealed with Miracle Sealants 511 Impregnator
+- All Tile Floors: Set Over Schluter DITRA Uncoupling Membrane (No Floor Cement Board); Slate Buildup ~5/8" (1/2" Slate over 1/8" DITRA)
+- Showers: 1/2" Durock Walls and Ceilings; Schluter KERDI Membrane with KERDI-BAND Taped Seams Over the Durock and Floors; Cement Mud Bases
+- Shower Ceilings: 1 to 2 4" Wet-Rated Recessed Lights Each; Tile Holes Precision Cut with a Masonry Hole Saw So the Trim Fully Covers Them
+- Euro-Glass Hinge Walls: Finished Dead Flat and Plumb (Small Shim Tolerance Only)
+- Completed Floors: Covered with Taped Heavy Protection Paper Supplied by the Tile Contractor (Lighter Than Ram Board); Floors Only
+- No Wall Tile in the Kitchen or Mudroom (Kitchen Backsplash Is Granite, by Others)
 - Montauk Black Slate (12 in. x 24 in., natural textured)
   - Foyer (Main Floor)
   - Powder Room (Main Floor)
@@ -20,11 +27,12 @@
   - Closet by Mudroom
   - Basement Open Area and Bar
     - Wood Plank Look Porcelain Tile
-  - All Showers: Full Porcelain Tile on Floor, Walls, Niche, and Ceiling
+  - All Showers: Full Porcelain Tile on Floor, Walls, and Ceiling; All Three Showers Have Benches; the Master Shower Wall Niche Is the Only Niche
     - Exclusions: Grade-E Brazilian Exotic Granite Shower Door Thresholds, Shower Benches, Niche Base, and Niche Mid Shelves
 - Rubber Athletic Flooring
   - Basement Gym
 - Grade-E Brazilian Exotic Granite Shower Components: Installed by Tile Contractor
   - Shower Door Thresholds
   - Shower Benches
-  - Shower Niche Base and Mid Shelves
+  - Master Shower Niche Base and Mid Shelves
+  - Granite Pieces Supplied ~1" Long; Tile Contractor Cuts to Size and Sets; Sills and Steps Sloped Back into the Shower
