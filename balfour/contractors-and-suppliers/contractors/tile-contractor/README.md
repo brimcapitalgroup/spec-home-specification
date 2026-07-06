@@ -4,7 +4,8 @@
 
 - 1-Year Labor Warranty from Date Home Becomes Occupied
 - All Tile Grout Joints: 1/8" Everywhere
-- Owner Supplies All Materials (Tile, Slate, Membranes, Backer, Mud, Thinset, Grout, Sealers, Granite, Leveling System, Floor Protection Paper); Contractor Supplies Only Labor and Their Own Spacers
+- Owner Supplies All Materials (Tile, Slate, Membranes, Backer, Mud, Thinset, Grout, Sealers, 2cm Quartz Pieces, Leveling System, Floor Protection Paper); Contractor Supplies Only Labor and Their Own Spacers
+- Contractor Supplies a Material List with Quantities One Month Ahead for Everything Other Than the Tile and Stone (Tile and Slate Already Selected and On Hand)
 - All Tile Set with a Leveling System (Spin-Top or Wedge Style); Contractor Picks the System and Tells the Owner What to Order
 - All Tile Pattern: 50/50 Brick Pattern (Running Bond)
   - Slate Long Side Runs Left to Right as Seen from the Most Common Entry into Each Room; Short Side Stacks in the 50/50 Offset
@@ -23,7 +24,10 @@
   - Powder Room (Main Floor)
   - Mudroom (Main Floor)
   - Laundry Room (Main Floor)
-  - Basement Walkout Landing (Interior, Single Step Up from Open Area; Basement ~4 ft Below Grade)
+  - Closet by Mudroom (Main Floor)
+  - Basement Stair Landing Area (106 SF, Owner Measured)
+  - Basement Walkout Landing (Interior, Single Step Up from Open Area; Basement ~4 ft Below Grade; 33 SF, Owner Measured)
+  - Basement Kitchenette (Bar) Floor (59.62 SF, Owner Measured)
   - Great Room Fireplace Surround: Full Wall to Ceiling in Montauk Black Slate; the Firebox Sits in the Slate Like a Picture, Framed on All Sides; No Hearth, No Slate on the Floor; 181 SF (Owner Measured)
   - Basement Fireplace Surround: Same Treatment, Firebox Framed in Slate on All Sides; No Hearth, No Floor Slate; 9' x 8' Wall, 72 SF (Owner Measured)
   - Great Room Fireplace Chimney Box
@@ -36,9 +40,7 @@
   - Shower Floors: Matching Small Hex Mosaic
   - Master Niche Back Wall: Matching Hex Mosaic
   - All Bathrooms (Excluding Powder Room)
-  - Closet by Mudroom
-  - Basement Open Area and Bar
-    - Wood Plank Look Porcelain Tile
+  - Basement Open Area: Not Tile; the Kitchenette (Bar) Floor Is Slate
   - Master and Basement Showers: Full Porcelain on Floor, Walls, and Ceiling, with Benches; the Master Wall Niche Is the Only Niche
   - Jack and Jill: Framed Drop-In Tub Box Tiled in 12x24 Gloss; the Shower Is in the Tub (Tub/Shower Combo); Surround Walls and Ceiling Tiled; Quartz Seat
     - Exclusions from tile: the 2cm Quartz Sills, Bench Tops, Niche Base and Shelves, and Tub Seat (Quartz Supplied Cut Long; Tile Contractor Fits and Sets)
