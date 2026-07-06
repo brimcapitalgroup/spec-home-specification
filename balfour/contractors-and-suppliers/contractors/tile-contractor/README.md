@@ -15,6 +15,8 @@
 - Shower Drains: Owner-Supplied Round Grated Drains, Satin Black, Matching the Delta Shower Trim Finish
 - Master and Basement Showers: Framed Entry Curbs, Each with a 2cm Quartz Top Set by the Tile Contractor
 - Substrate Flatness: Minor Issues Corrected with Thinset or Mud Within the Rates; Self-Leveling Cement (Not Expected) Would Be Quoted Separately at That Time; No Tile Floor Sits Over a Garage Ceiling
+- Slate Alternate Under Consideration (Not Decided): 12x24 Gloss Porcelain Slate Look (Bluish Black, Cool Tone, White Grout), Same Patterns and Layouts; Quoted as Alternate Lines 1A/2A/3A Against the Slate Base
+- These Patterns, Configurations, and Sizes Are the Standard for All Upcoming Houses
 - All Montauk Black Slate: Fully Cleaned with Phosphoric Acid After Install (100% Thinset and Grout Haze Removal), Then Sealed with Custom Building Products TileLab Gloss Sealer and Finish (TLGLSSHG)
 - All Porcelain Grout: Sealed with Miracle Sealants 511 Impregnator
 - All Tile Floors: Set Over Schluter DITRA Uncoupling Membrane (No Floor Cement Board); Slate Buildup ~5/8" to 3/4" (1/2" Cleft Slate over 1/8" DITRA plus Thinset Beds); Keep the Stack as Thin as Possible While Durable
