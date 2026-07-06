@@ -4,7 +4,7 @@
 
 - 1-Year Labor Warranty from Date Home Becomes Occupied
 - All Tile Grout Joints: 1/8" Everywhere
-- Owner Supplies All Materials (Tile, Slate, Membranes, Backer, Mud, Thinset, Grout, Sealers, Granite, Leveling System); Contractor Supplies Labor and Their Own Spacers
+- Owner Supplies All Materials (Tile, Slate, Membranes, Backer, Mud, Thinset, Grout, Sealers, Granite, Leveling System, Floor Protection Paper); Contractor Supplies Only Labor and Their Own Spacers
 - All Tile Set with a Leveling System (Spin-Top or Wedge Style); Contractor Picks the System and Tells the Owner What to Order
 - All Tile Pattern: 50/50 Brick Pattern (Running Bond)
 - All Montauk Black Slate: Fully Cleaned with Phosphoric Acid After Install (100% Thinset and Grout Haze Removal), Then Sealed with Custom Building Products TileLab Gloss Sealer and Finish (TLGLSSHG)
@@ -13,7 +13,7 @@
 - Showers: 1/2" Durock Walls and Ceilings; Schluter KERDI Membrane with KERDI-BAND Taped Seams Over the Durock and Floors; Cement Mud Bases
 - Shower Ceilings: 1 to 2 4" Wet-Rated Recessed Lights Each; Tile Holes Precision Cut with a Masonry Hole Saw So the Trim Fully Covers Them
 - Euro-Glass Hinge Walls: Finished Dead Flat and Plumb (Small Shim Tolerance Only)
-- Completed Floors: Covered with Taped Heavy Protection Paper Supplied by the Tile Contractor (Lighter Than Ram Board); Floors Only
+- Completed Floors: Covered with the Owner-Supplied Taped Heavy Protection Paper (Lighter Than Ram Board); Floors Only
 - No Wall Tile in the Kitchen or Mudroom (Kitchen Backsplash Is Granite, by Others)
 - Montauk Black Slate (12 in. x 24 in., natural textured)
   - White Sanded Grout on All Slate
