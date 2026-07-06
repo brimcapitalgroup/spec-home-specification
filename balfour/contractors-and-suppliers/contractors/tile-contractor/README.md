@@ -10,6 +10,11 @@
 - All Tile Pattern: 50/50 Brick Pattern (Running Bond)
   - Slate Long Side Runs Left to Right as Seen from the Most Common Entry into Each Room; Short Side Stacks in the 50/50 Offset
   - Fireplace Vertical Slate: Same 50/50 Brick, Long Side Left to Right
+- Every Exposed Slate Edge: Satin Black Metal Edging; Every Exposed Porcelain Edge: Nickel Metal Edging
+- No Floor Heat Anywhere in the House
+- Shower Drains: Owner-Supplied Round Grated Drains, Satin Black, Matching the Delta Shower Trim Finish
+- Master and Basement Showers: Framed Entry Curbs, Each with a 2cm Quartz Top Set by the Tile Contractor
+- Substrate Patch / Self-Leveler If Needed: Owner Supplies the Material (Goes on the Material List); Application Labor Included in the Rates
 - All Montauk Black Slate: Fully Cleaned with Phosphoric Acid After Install (100% Thinset and Grout Haze Removal), Then Sealed with Custom Building Products TileLab Gloss Sealer and Finish (TLGLSSHG)
 - All Porcelain Grout: Sealed with Miracle Sealants 511 Impregnator
 - All Tile Floors: Set Over Schluter DITRA Uncoupling Membrane (No Floor Cement Board); Slate Buildup ~5/8" (1/2" Slate over 1/8" DITRA)
@@ -26,7 +31,7 @@
   - Laundry Room (Main Floor)
   - Closet by Mudroom (Main Floor)
   - Basement Stair Landing Area (106 SF, Owner Measured)
-  - Basement Walkout Landing (Interior, Single Step Up from Open Area; Basement ~4 ft Below Grade; 33 SF, Owner Measured)
+  - Basement Walkout Landing (Interior, Single Step Up from Open Area; Basement ~4 ft Below Grade; 33 SF, Owner Measured, Including the Step Riser Face and Step Top in Slate)
   - Basement Kitchenette (Bar) Floor (59.62 SF, Owner Measured)
   - Great Room Fireplace Surround: Full Wall to Ceiling in Montauk Black Slate; the Firebox Sits in the Slate Like a Picture, Framed on All Sides; No Hearth, No Slate on the Floor; 181 SF (Owner Measured)
   - Basement Fireplace Surround: Same Treatment, Firebox Framed in Slate on All Sides; No Hearth, No Floor Slate; 9' x 8' Wall, 72 SF (Owner Measured)
@@ -35,7 +40,6 @@
 - Porcelain Tile
   - Bath Floors: 12 in. x 24 in. Matte; Long Side Runs the Direction of the Longest Wall; Rows Repeat a 30% Offset to the Right
   - Wall Tile Matches the Floor Direction and Configuration Where Both Are Viewed Together
-  - Every Exposed Tile Edge: Satin Black Metal Edging
   - Shower Walls and Ceilings: 12 in. x 24 in. Gloss
   - Shower Floors: Matching Small Hex Mosaic
   - Master Niche Back Wall: Matching Hex Mosaic
