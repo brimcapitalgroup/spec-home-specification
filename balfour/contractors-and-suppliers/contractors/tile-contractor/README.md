@@ -25,7 +25,7 @@
   - Laundry Room (Main Floor)
   - Basement Walkout Landing (Interior, Single Step Up from Open Area; Basement ~4 ft Below Grade)
   - Great Room Fireplace Surround: Full Wall to Ceiling in Montauk Black Slate; the Firebox Sits in the Slate Like a Picture, Framed on All Sides; No Hearth, No Slate on the Floor; 181 SF (Owner Measured)
-  - Basement Fireplace Surround: Same Treatment, Firebox Framed in Slate on All Sides; No Hearth, No Floor Slate
+  - Basement Fireplace Surround: Same Treatment, Firebox Framed in Slate on All Sides; No Hearth, No Floor Slate; 9' x 8' Wall, 72 SF (Owner Measured)
   - Great Room Fireplace Chimney Box
   - Basement Fireplace Chimney Box
 - Porcelain Tile
