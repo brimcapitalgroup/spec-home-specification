@@ -7,6 +7,8 @@
 - Owner Supplies All Materials (Tile, Slate, Membranes, Backer, Mud, Thinset, Grout, Sealers, Granite, Leveling System, Floor Protection Paper); Contractor Supplies Only Labor and Their Own Spacers
 - All Tile Set with a Leveling System (Spin-Top or Wedge Style); Contractor Picks the System and Tells the Owner What to Order
 - All Tile Pattern: 50/50 Brick Pattern (Running Bond)
+  - Slate Long Side Runs Left to Right as Seen from the Most Common Entry into Each Room; Short Side Stacks in the 50/50 Offset
+  - Fireplace Vertical Slate: Same 50/50 Brick, Long Side Left to Right
 - All Montauk Black Slate: Fully Cleaned with Phosphoric Acid After Install (100% Thinset and Grout Haze Removal), Then Sealed with Custom Building Products TileLab Gloss Sealer and Finish (TLGLSSHG)
 - All Porcelain Grout: Sealed with Miracle Sealants 511 Impregnator
 - All Tile Floors: Set Over Schluter DITRA Uncoupling Membrane (No Floor Cement Board); Slate Buildup ~5/8" (1/2" Slate over 1/8" DITRA)
