@@ -26,6 +26,10 @@
   - Great Room Fireplace Chimney Box
   - Basement Fireplace Chimney Box
 - Porcelain Tile
+  - Bath Floors: 12 in. x 24 in. Matte
+  - Shower Walls and Ceilings: 12 in. x 24 in. Gloss
+  - Shower Floors: Matching Small Hex Mosaic
+  - Master Niche Back Wall: Matching Hex Mosaic
   - All Bathrooms (Excluding Powder Room)
   - Closet by Mudroom
   - Basement Open Area and Bar
