@@ -18,6 +18,7 @@
 - Substrate Flatness: Minor Issues Corrected with Thinset or Mud Within the Rates; Self-Leveling Cement (Not Expected) Quoted Separately by the Contractor at That Time; No Tile Floor Sits Over a Garage Ceiling
 - Slate Alternate Under Consideration (Not Decided): 12x24 Gloss Porcelain Slate Look (Bluish Black, Cool Tone, White Grout), Same Patterns and Layouts; Quoted as Alternate Lines 1A/2A/3A Against the Slate Base
 - These Patterns, Configurations, and Sizes Are the Standard for All Upcoming Houses
+- Thinset: MAPEI Keraflex Plus 44 lb; Gray for Slate (Model 1194736USA, Lowe's 4903354), White for Porcelain (Model 1194836USA, Lowe's 4903353)
 - All Montauk Black Slate: Fully Cleaned with Phosphoric Acid After Install (100% Thinset and Grout Haze Removal), Then Sealed with Custom Building Products TileLab Gloss Sealer and Finish (TLGLSSHG)
 - All Porcelain Grout: Sealed with Miracle Sealants 511 Impregnator
 - All Tile Floors: Set Over Schluter DITRA Uncoupling Membrane (No Floor Cement Board); Slate Buildup ~5/8" to 3/4" (1/2" Gauged Slate over 1/8" DITRA plus Thinset Beds); Keep the Stack as Thin as Possible While Durable
