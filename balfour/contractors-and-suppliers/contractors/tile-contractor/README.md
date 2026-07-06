@@ -14,6 +14,7 @@
 - Completed Floors: Covered with Taped Heavy Protection Paper Supplied by the Tile Contractor (Lighter Than Ram Board); Floors Only
 - No Wall Tile in the Kitchen or Mudroom (Kitchen Backsplash Is Granite, by Others)
 - Montauk Black Slate (12 in. x 24 in., natural textured)
+  - White Sanded Grout on All Slate
   - Foyer (Main Floor)
   - Powder Room (Main Floor)
   - Mudroom (Main Floor)
