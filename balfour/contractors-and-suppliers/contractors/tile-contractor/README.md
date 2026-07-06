@@ -7,6 +7,7 @@
 - Owner Supplies All Materials (Tile, Slate, Membranes, Backer, Mud, Thinset, Grout, Sealers, 2cm Quartz Pieces, Leveling System, Floor Protection Paper); Contractor Supplies Only Labor and Their Own Spacers
 - Contractor Supplies a Material List with Quantities One Month Ahead for Everything Other Than the Tile and Stone (Tile and Slate Already Selected): Best Polymer Modified Thinset, Sand Mortar for Mud Bases, DITRA/KERDI/KERDI-BAND, Durock and Durock Screws, Grout, Sealers, All Metal Edging, Leveling System Order; Sent After the Owner Delivers Marked-Up Plans Showing Where the Tile Goes
 - Leveling System Required on Every Tile Everywhere (Spin-Top or Wedge Style); Contractor Picks the System and the Owner Buys Exactly What Is Requested
+- Layout Symmetry: Cut Tiles at Left/Right Edges Match, and Top/Bottom Cuts Match on Walls; When a Cabinet Hides Most of a Wall or Edge, the Contractor Discusses It with the Owner and Proposes What Looks Best (e.g., Full Tile at an Entrance)
 - All Tile Pattern: 50/50 Brick Pattern (Running Bond)
   - Slate Long Side Runs Left to Right as Seen from the Most Common Entry into Each Room; Short Side Stacks in the 50/50 Offset
   - Fireplace Vertical Slate: Same 50/50 Brick, Long Side Left to Right
