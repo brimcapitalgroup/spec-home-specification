@@ -124,3 +124,9 @@
   - The basement is finished space, and its walls are framed only after the basement slab is poured
   - Trip 1 covers the house; trip 2 comes back for the finished basement
   - Quotes must price both mobilizations
+
+## Appliance Setting (Owner-Supplied ZLINE Units)
+
+- Set and Connect Both Dishwashers (Kitchen + Basement Bar)
+- Set and Connect the Dual-Fuel Range (Gas Hookup, Oven Set in Place)
+- Water Line to the Built-In Kitchen Refrigerator

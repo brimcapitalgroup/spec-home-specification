@@ -13,3 +13,8 @@
 - Cabinet Pulls
   - Selection to be completed
 - Install
+
+## Appliance Setting (Owner-Supplied ZLINE Units)
+
+- Cabinet Installer Sets Both Refrigerators: the 36" Built-In French-Door (RBIV-304-36) Into Its Cabinet Opening, and the 24" Monument Beverage Fridge (RBV-US-24) at the Basement Bar
+- Cabinet Run Provides the Hood Insert Chase; the HVAC Contractor Installs the Insert

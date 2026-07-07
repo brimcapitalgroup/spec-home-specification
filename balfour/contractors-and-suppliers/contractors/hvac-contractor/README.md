@@ -12,6 +12,7 @@
   - Full Insulation End-to-End on All Ducts in Unconditioned Spaces
 - Bathroom Exhaust Fans: 6" Ducts (All Bathrooms)
 - Kitchen Makeup Air: 8" Duct with an Electric Motorized Damper Interlocked to Open with the Range Hood; No Inline Conditioning (No Heater, No Cooler), Damper Vent Only
+- Install the Owner-Supplied ZLINE 34" 700 CFM Hood Insert (721-304-34), Ducted Through the Primary Chimney Chase
 - Dual-Fuel System (Two Separate Units: Heat Pump + Gas Furnace)
   - Separate Bosch IDS 2.0 Heat Pump Provides Both Heating and Central Air Conditioning (Cooling)
   - Separate 96% AFUE Bosch Gas Furnace: Auto-Engages Only in Extreme Cold via AprilAire 8920W Dual-Fuel Control
