@@ -1,6 +1,6 @@
 # Electrical Contractor
 
-**Related Suppliers:** [Electrical Supplier](../../suppliers/electrical-supplier/README.md), [Generator Supplier](../../suppliers/generator-supplier/README.md)
+**Related Suppliers:** [Electrical Supplier](../../suppliers/electrical-supplier/README.md)
 
 - 1-Year Labor Warranty from Date Home Becomes Occupied
 
@@ -12,15 +12,11 @@
   - All Home Runs to be Run Through 2x6 Wall to Finish Basement Wall in Mechanical Room Where Home Runs Drop to Panel
 - 200 Amp Meter with Integrated Disconnect (Exterior Emergency Disconnect per 2025 Code)
   - Service Entrance: Conduit Required from Meter to Home Penetration; Interior Wiring Installed per Code
+- Whole-House Surge Protection: Surge Protective Device (SPD) at the Primary Panel (2025 Code)
 - Dedicated 120V Circuit with Lug at the Water Heater Location Serving the Power-Vent Blower and the Powered Titanium Anode Rod
 - Garage Air Compressor Circuit
   - 1 30 Amp 220V 3-Wire Plug-In Outlet for 5HP Stage Air Compressor
   - 30 Amp Disconnect Switch Controlling the 220V Outlet
-- Generator Integration (Rough)
-  - Load Shed Device Required on the Garage 240V Circuit
-    - 30 Amp Switched Air Compressor Outlet
-  - Gas Line: Outside at Meter — Galvanized Iron Pipe with Flex Line to Generator (Installed by Plumber)
-  - Outdoor 20 Amp Outlet Near Generator Location
 - Garage Outlets
   - 1 Double Duplex 20 Amp Outlet at Each Garage Door
   - 1 Single Duplex 20 Amp Outlet every 12' along all walls
@@ -55,11 +51,6 @@
   - Dining: Coffer Lights
   - Kitchen Island: Triple Pendant
   - All Other / Remaining Locations: Custom Metal Fixtures (to be Quoted)
-- Standby Generator Install: Generac 26,000W Dual Fuel Air-Cooled Whole House Standby Generator with Smart Home Monitoring, Brownout Protection, and 200-AMP Automated Transfer Switch
-  - Whole-House Surge Protector Integrated in the Transfer Switch
-  - Provides Whole House Brownout and Power Outage Protection
-  - Generator Load Shed Device on the Garage 240V Circuit
-    - 30 Amp Switched Air Compressor Outlet
 
 ## Finish
 

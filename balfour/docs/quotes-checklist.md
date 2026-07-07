@@ -133,7 +133,6 @@ Comprehensive tracking for all contractor and supplier quotes.
 | Supplier | Quote Received | Scope Notes |
 |----------|----------------|-------------|
 | [ ] Electrical Supplier | | Panels, breakers, devices, boxes, wire |
-| [ ] Generator Supplier | | Generac 26KW + transfer switch |
 | [ ] Plumbing Supply | | Pipe, PEX, manifold, pumps, water treatment |
 | [ ] Plumbing Fixture Supplier | | Faucets, toilets, sinks, tub, shower fixtures |
 | [ ] HVAC Supplier | | Heat pump (heating + central AC/cooling), furnace, ductwork, fireplaces |

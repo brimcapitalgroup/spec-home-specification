@@ -162,7 +162,6 @@ Apply and document waste percentages. Suggested factors (or propose your standar
 - Hardware (door handles, cabinet pulls, bathroom accessories)
 - HVAC equipment and ductwork
 - Low Voltage / Smart Home
-- Generator
 - Well equipment
 
 ---

@@ -6,11 +6,11 @@
 - 200 Amp Meter with Integrated Disconnect (Exterior Emergency Disconnect per 2025 Code)
 - 150 AMP DTE CoolCurrents Meter with Its Own Disconnect (Fed from the Line Side of the 200 Amp Meter via Dual Lugs)
 - GFCI Breakers (All GFCI Protection via Breakers in the Panel; No GFCI Receptacles)
+- Whole-House Surge Protective Device (SPD, Panel Mount)
 - Wall Plates: Mulberry Brand, Decora Style, Metal, Smooth White — All Locations Including Low Voltage and 240V
 - Outlets and Switches: Leviton White Decora Style Throughout
 - Wire Nuts (No Wago or Push-In Connectors)
 - Ceiling Fan Rated Boxes
-- Load Shed Device for the Garage 240V Compressor Circuit
 - 30 Amp Disconnect Switch
 - Dedicated Circuit with Lug at the Water Heater Location (Power-Vent Blower and Powered Titanium Anode Rod)
 - Kitchen Under-Cabinet Track Plug System

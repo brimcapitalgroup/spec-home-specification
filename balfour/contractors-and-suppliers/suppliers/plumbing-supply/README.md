@@ -13,20 +13,17 @@
   - Sealed Cover with Plastic Glass View Port
 - Radon Exhaust Pipeline Materials
 - Gas Line Materials
-  - Galvanized Iron Pipe (Generator)
   - Flex Lines
-- 2 Iron Filters (Alternating) and Softener
-  - 1-1/4" Inlet and Outlet Ports
-  - 1-1/4" Stainless Steel 3-Way Valves
-  - Bypass Valves
+- Water Treatment Train Piping, 1" Throughout (Iron Filter and Softener Owner-Supplied: RainDance Iron Max-125-14 High Flow Filter + RDWS-MWS-125-12 High Flow Softener, 1" Connections with 1" Bypass Valves)
+  - 1" Stainless Steel 3-Way Valves
   - Schedule 40 PVC with Pressure Fittings (Drain to Exterior)
   - Backflow Preventer
   - 3 Check Valves
-- 1.5" Big Blue Water Filter
-  - Activated Carbon Filter Cartridges
-- Reverse Osmosis System
-- A.O. Smith Signature 500 75 Gallon Tall Power-Vent Natural Gas Water Heater, 76,000 BTU, 6-Year Warranty (Model G6-PVT7576NV)
-- PVC Power Venting Materials
+- Carbon Filter Fittings (Housing and Cartridge Owner-Supplied: Pentair Pentek 150236 Big Blue 20" x 4.5" Housing, 1-1/2" NPT Ports; Aquaboon GAC Cartridge)
+  - 1" to 1-1/2" Adapters at the Housing Inlet and Back to 1" at the Outlet
+- Reverse Osmosis Line Fittings (System Owner-Supplied: iSpring RCC7 5-Stage Under-Sink)
+- A.O. Smith Signature 500 75 Gallon Tall Power Direct Vent Natural Gas Water Heater, 76,000 BTU, 6-Year Warranty (Model G6-PDT7576NV, Lowe's Item 816085)
+- PVC Power Direct Venting Materials (Intake and Exhaust)
 - Powered Titanium Anode Rod
 - Expansion Tank
 - Hot Water Recirculation Pump

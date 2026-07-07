@@ -36,9 +36,6 @@
     - Both Garden Hose Spigots
     - Whole House AprilAire Humidifier (Fed by Hot Water Line)
 - Gas Lines
-  - 26KW Dual Fuel Standby Generator (Generac)
-    - Outside at Meter: Galvanized Iron Pipe
-    - Flex Line from Pipe to Generator
   - Gas Dryer
   - Gas Range
   - Both Fireplaces

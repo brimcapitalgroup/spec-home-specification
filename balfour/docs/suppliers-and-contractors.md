@@ -51,7 +51,6 @@
 - [Dumpster Rental](#dumpster-rental)
 - [Electrical Supplier](#electrical-supplier)
 - [Garage Door Supplier](#garage-door-supplier)
-- [Generator Supplier](#generator-supplier)
 - [Glass Supplier](#glass-supplier)
 - [Gutter and Downspout Supplier](#gutter-and-downspout-supplier)
 - [Hardwood Flooring Supplier](#hardwood-flooring-supplier)
@@ -159,7 +158,7 @@
 
 ## Electrical Contractor
 
-**Related Suppliers:** [Electrical Supplier](#electrical-supplier), [Generator Supplier](#generator-supplier)
+**Related Suppliers:** [Electrical Supplier](#electrical-supplier)
 
 - 1-Year Labor Warranty from Date Home Becomes Occupied
 
@@ -171,15 +170,11 @@
   - All Home Runs to be Run Through 2x6 Wall to Finish Basement Wall in Mechanical Room Where Home Runs Drop to Panel
 - 200 Amp Meter with Integrated Disconnect (Exterior Emergency Disconnect per 2025 Code)
   - Service Entrance: Conduit Required from Meter to Home Penetration; Interior Wiring Installed per Code
+- Whole-House Surge Protection: Surge Protective Device (SPD) at the Primary Panel (2025 Code)
 - Dedicated 120V Circuit with Lug at the Water Heater Location Serving the Power-Vent Blower and the Powered Titanium Anode Rod
 - Garage Air Compressor Circuit
   - 1 30 Amp 220V 3-Wire Plug-In Outlet for 5HP Stage Air Compressor
   - 30 Amp Disconnect Switch Controlling the 220V Outlet
-- Generator Integration (Rough)
-  - Load Shed Device Required on the Garage 240V Circuit
-    - 30 Amp Switched Air Compressor Outlet
-  - Gas Line: Outside at Meter — Galvanized Iron Pipe with Flex Line to Generator (Installed by Plumber)
-  - Outdoor 20 Amp Outlet Near Generator Location
 - Garage Outlets
   - 1 Double Duplex 20 Amp Outlet at Each Garage Door
   - 1 Single Duplex 20 Amp Outlet every 12' along all walls
@@ -215,11 +210,6 @@
   - Kitchen: 6 Recessed Lights (See Kitchen Above)
   - All Remaining Fixtures: Custom Metal
 - Remaining Custom-Metal Fixture and Ceiling-Fan Locations TBD
-- Standby Generator Install: Generac 26,000W Dual Fuel Air-Cooled Whole House Standby Generator with Smart Home Monitoring, Brownout Protection, and 200-AMP Automated Transfer Switch
-  - Whole-House Surge Protector Integrated in the Transfer Switch
-  - Provides Whole House Brownout and Power Outage Protection
-  - Generator Load Shed Device on the Garage 240V Circuit
-    - 30 Amp Switched Air Compressor Outlet
 
 ### Finish
 
@@ -562,8 +552,8 @@
 - Basement Ejector Pump for Drain System
 - Basement Mechanical Room Floor Drain for Furnace
 - Basement Sump Pump System
-  - Dual (2) Hard-Wired Sump Pumps (Offset for Redundancy)
-  - Both Exit to Same Exterior Drain
+  - 2 Hard-Wired Sump Pumps (Offset for Redundancy)
+  - Both Exit to Same Exterior Drain (Tied Into Shared French Drain System; Exits at Lakeside Pop-Up Emitters)
   - Backflow Preventer on Each Pump
   - Sealed Cover with Plastic Glass View Port
   - Fully Sealed Water-Tight to Floor
@@ -575,7 +565,7 @@
 - Water Supply System
   - Central Copper Manifold in Basement
     - 1/4 Turn Full Port Valve Controlled
-    - 1-1/4" Supply from Big Blue Carbon Water Filter
+    - 1" Supply from Big Blue Carbon Water Filter
     - Individual PEX Lines to Each Fixture (No Branching)
     - Hot and Cold Lines Originate from Manifold
   - 3/4" PEX Required for:
@@ -586,9 +576,6 @@
     - Both Garden Hose Spigots
     - Whole House AprilAire Humidifier (Fed by Hot Water Line)
 - Gas Lines
-  - 26KW Dual Fuel Standby Generator (Generac)
-    - Outside at Meter: Galvanized Iron Pipe
-    - Flex Line from Pipe to Generator
   - Gas Dryer
   - Gas Range
   - Both Fireplaces
@@ -601,65 +588,67 @@
 - Fixtures
   - Bathrooms (4 Total)
     - Master Full Bathroom
-      - 2 Sinks with Delta Stryke Laminar-Flow Widespread Faucets
+      - 2 Sinks with Delta Stryke Widespread Laminar-Flow Faucets
       - Shower
       - Swiss Madison One-Piece Toilet
       - 1/4 Turn Valves for Sinks and Toilet
     - Jack and Jill Full Bathroom
-      - 2 Sinks with Delta Stryke Laminar-Flow Widespread Faucets
+      - 2 Sinks with Delta Stryke Widespread Laminar-Flow Faucets
       - Drop-In Bathtub with Shower
         - Mixing Valve Located Under Vanity
       - Swiss Madison One-Piece Toilet
       - 1/4 Turn Valves for Sinks and Toilet
     - Powder Bathroom
-      - 1 Sink with Delta Stryke Laminar-Flow Widespread Faucet
+      - 1 Sink with Delta Stryke Widespread Laminar-Flow Faucet
       - Swiss Madison One-Piece Toilet
       - 1/4 Turn Valves for Sink and Toilet
     - Basement Full Bathroom
-      - 1 Sink with Delta Stryke Laminar-Flow Widespread Faucet
+      - 1 Sink with Delta Stryke Widespread Laminar-Flow Faucet
       - Shower
       - Swiss Madison One-Piece Toilet
       - 1/4 Turn Valves for Sink and Toilet
   - Kitchen
-    - 1 Sink with Delta Stryke Laminar-Flow Single-Hole Faucet
+    - 1 Sink with Delta Stryke Laminar-Flow Faucet (Single-Hole)
     - Filtered Water Dispenser from Reverse Osmosis
     - Dishwasher Drain Support
   - Basement Bar
-    - 1 Sink with Delta Stryke Laminar-Flow Single-Hole Faucet
+    - 1 Sink with Delta Stryke Laminar-Flow Faucet (Single-Hole)
     - Filtered Water Spigot from Reverse Osmosis
     - Dishwasher Drain Support
   - Mudroom
-    - 1 Sink with Delta Stryke Laminar-Flow Single-Hole Faucet
+    - 1 Sink with Delta Stryke Laminar-Flow Faucet (Single-Hole)
   - Laundry Room
     - Washing Machine: 1/2" Hot and Cold Water Ports with Drain
   - Outdoor
     - 2 Frost Free Garden Spigots
-      - 3-Way Valve to Support Water from Softener or Iron Filters
+      - 3-Way Valve to Support Water from the Softener or the Iron Filter
     - 1 Sprinkler Valve: Zurn Wilkins 1-710 1" 710 Pressure Vacuum Breaker Assembly
 
 ### Water Treatment
 
-- 2 Iron Filters (Alternating) and Softener
-  - 1-1/4" Inlet and Outlet Ports on Iron Filters and Softener
-  - All Supply Piping to and from Iron Filters and Softener: PEX
-  - 1-1/4" Stainless Steel 3-Way Valves
+- Iron Filter and Softener (Owner-Supplied: RainDance Iron Max-125-14 High Flow Filter + RDWS-MWS-125-12 High Flow Softener)
+  - 1" Piping Throughout the Water Treatment Train; the Purchased Units Have 1" Connections and Ship with Free 1" Bypass Valves
+  - All Supply Piping to and from the Iron Filter and Softener: PEX
+  - 1" Stainless Steel 3-Way Valves
   - Bypass Valves for Zero Downtime Servicing
-  - Backwash Drain (Tied Into Shared Sub-Surface French Drain System, Exiting at Lakeside Pop-Up Emitters)
+  - Backwash Drain (Tied Into Shared French Drain System; Exits at Lakeside Pop-Up Emitters)
     - Schedule 40 PVC with Pressure Fittings
     - Backflow Preventer
     - 3 Check Valves (One per Filter) to Prevent Backflow Between Filters
-    - 3-into-1 Configuration to Single Output Tied Into Shared Sub-Surface French Drain System
+    - 3-into-1 Configuration to Single Output Tied Into Shared French Drain System
   - Garden Hoses Water Supply
-    - 3-Way Valve to Select Water from Iron Filter Only or from Softener
+    - 3-Way Valve to Select Water from the Iron Filter Only or from the Softener
   - Sprinkler System Water Supply
     - Fed from Iron Filter Only
-- 1.5" Big Blue Water Filter
+- Carbon Filter (Owner-Supplied): Pentair Pentek 150236 Big Blue Housing, 20" x 4.5", 1-1/2" NPT Ports
   - Located After Softener and After Hose Output
-  - Activated Carbon Filter Cartridges
-- Reverse Osmosis
+  - Plumbed from the 1" Train: Adapt 1" to 1-1/2" at the Housing Inlet and Back to 1" at the Outlet
+  - Cartridge (Owner-Supplied): Aquaboon 5 Micron 20" x 4.5" Granular Activated Carbon (GAC)
+- Reverse Osmosis (Owner-Supplied): iSpring RCC7 5-Stage Under-Sink System, 75 GPD, Brushed Nickel Faucet
   - Fed by Softener Cold Water Line
-- A.O. Smith Signature 500 75 Gallon Tall Power-Vent Natural Gas Water Heater, 76,000 BTU, 6-Year Warranty (Model G6-PVT7576NV)
-  - PVC Power Venting
+  - Serves the Kitchen RO Dispenser and the Basement Bar RO Spigot
+- A.O. Smith Signature 500 75 Gallon Tall Power Direct Vent Natural Gas Water Heater, 76,000 BTU, 6-Year Warranty (Model G6-PDT7576NV, Lowe's Item 816085)
+  - PVC Power Direct Venting (Intake and Exhaust)
   - Powered Titanium Anode Rod (Electrical Provides a Dedicated 120V Circuit with Lug at the Water Heater, Serving the Power-Vent Blower and the Powered Anode)
   - Valved for Isolation (Zero Downtime Servicing)
   - Expansion Tank (Required Due to Check Valve After Well)
@@ -668,6 +657,18 @@
     - Controlled by Shelly WiFi Relay (Installed by Low Voltage)
     - Hot Water Recirculation on All Hot Water Fixtures
 
+### Rough Mobilizations
+
+- Two trips during the rough
+  - The basement is finished space, and its walls are framed only after the basement slab is poured
+  - Trip 1 covers the house; trip 2 comes back for the finished basement
+  - Quotes must price both mobilizations
+
+### Appliance Setting (Owner-Supplied ZLINE Units)
+
+- Set and Connect Both Dishwashers (Kitchen + Basement Bar)
+- Set and Connect the Dual-Fuel Range (Gas Hookup, Oven Set in Place)
+- Water Line to the Built-In Kitchen Refrigerator
 ## Roofing Contractor
 
 **Related Suppliers:** [Roofing Supplier](#roofing-supplier)
@@ -957,11 +958,11 @@
 - 200 Amp Meter with Integrated Disconnect (Exterior Emergency Disconnect per 2025 Code)
 - 150 AMP DTE CoolCurrents Meter with Its Own Disconnect (Fed from the Line Side of the 200 Amp Meter via Dual Lugs)
 - GFCI Breakers (All GFCI Protection via Breakers in the Panel; No GFCI Receptacles)
+- Whole-House Surge Protective Device (SPD, Panel Mount)
 - Wall Plates: Mulberry Brand, Decora Style, Metal, Smooth White — All Locations Including Low Voltage and 240V
 - Outlets and Switches: Leviton White Decora Style Throughout
 - Wire Nuts (No Wago or Push-In Connectors)
 - Ceiling Fan Rated Boxes
-- Load Shed Device for the Garage 240V Compressor Circuit
 - 30 Amp Disconnect Switch
 - Dedicated Circuit with Lug at the Water Heater Location (Power-Vent Blower and Powered Titanium Anode Rod)
 - Kitchen Under-Cabinet Track Plug System
@@ -987,14 +988,6 @@
 - 1 — 18' x 8' Garage Door (Factory Black Finish)
 - 1 — 8' x 8' Garage Door (Factory Black Finish)
 - 2 Direct Drive Electric Openers
-
-## Generator Supplier
-
-**Related Contractors:** [Electrical Contractor](#electrical-contractor)
-
-- Generac 26,000W Dual Fuel Air-Cooled Whole House Standby Generator with Smart Home Monitoring and Brownout Protection
-- 200-AMP Automated Transfer Switch with Integrated Whole-House Surge Protector
-- Load Shed Device for the Garage 240V Compressor Circuit
 
 ## Glass Supplier
 
@@ -1189,20 +1182,17 @@
   - Sealed Cover with Plastic Glass View Port
 - Radon Exhaust Pipeline Materials
 - Gas Line Materials
-  - Galvanized Iron Pipe (Generator)
   - Flex Lines
-- 2 Iron Filters (Alternating) and Softener
-  - 1-1/4" Inlet and Outlet Ports
-  - 1-1/4" Stainless Steel 3-Way Valves
-  - Bypass Valves
+- Water Treatment Train Piping, 1" Throughout (Iron Filter and Softener Owner-Supplied: RainDance Iron Max-125-14 High Flow Filter + RDWS-MWS-125-12 High Flow Softener, 1" Connections with 1" Bypass Valves)
+  - 1" Stainless Steel 3-Way Valves
   - Schedule 40 PVC with Pressure Fittings (Drain to Exterior)
   - Backflow Preventer
   - 3 Check Valves
-- 1.5" Big Blue Water Filter
-  - Activated Carbon Filter Cartridges
-- Reverse Osmosis System
-- A.O. Smith Signature 500 75 Gallon Tall Power-Vent Natural Gas Water Heater, 76,000 BTU, 6-Year Warranty (Model G6-PVT7576NV)
-- PVC Power Venting Materials
+- Carbon Filter Fittings (Housing and Cartridge Owner-Supplied: Pentair Pentek 150236 Big Blue 20" x 4.5" Housing, 1-1/2" NPT Ports; Aquaboon GAC Cartridge)
+  - 1" to 1-1/2" Adapters at the Housing Inlet and Back to 1" at the Outlet
+- Reverse Osmosis Line Fittings (System Owner-Supplied: iSpring RCC7 5-Stage Under-Sink)
+- A.O. Smith Signature 500 75 Gallon Tall Power Direct Vent Natural Gas Water Heater, 76,000 BTU, 6-Year Warranty (Model G6-PDT7576NV, Lowe's Item 816085)
+- PVC Power Direct Venting Materials (Intake and Exhaust)
 - Powered Titanium Anode Rod
 - Expansion Tank
 - Hot Water Recirculation Pump

@@ -53,7 +53,6 @@ Individual specification sheets for each contractor and supplier.
 | Dumpster Rental | [View](./suppliers/dumpster-rental/README.md) |
 | Electrical Supplier | [View](./suppliers/electrical-supplier/README.md) |
 | Garage Door Supplier | [View](./suppliers/garage-door-supplier/README.md) |
-| Generator Supplier | [View](./suppliers/generator-supplier/README.md) |
 | Glass Supplier | [View](./suppliers/glass-supplier/README.md) |
 | Gutter and Downspout Supplier | [View](./suppliers/gutter-and-downspout-supplier/README.md) |
 | Hardwood Flooring Supplier | [View](./suppliers/hardwood-flooring-supplier/README.md) |
