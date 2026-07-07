@@ -52,8 +52,6 @@
   - Master and Basement Showers: Full Porcelain on Floor, Walls, and Ceiling, with Benches; the Master Wall Niche Is the Only Niche
   - Jack and Jill: Framed Drop-In Tub Box Tiled in 12x24 Gloss; the Shower Is in the Tub (Tub/Shower Combo); Surround Walls and Ceiling Tiled; Quartz Seat
     - Exclusions from tile: the 2cm Quartz Sills, Bench Tops, Niche Base and Shelves, and Tub Seat (Quartz Supplied Cut Long; Tile Contractor Fits and Sets)
-- Rubber Athletic Flooring
-  - Basement Gym
 - 2cm Quartz in Every Shower or Bath Area: Installed by Tile Contractor (Bathroom Counters Are 3cm Quartz, by the Countertop Trade)
   - Shower Sills / Curb Tops
   - Shower Bench Tops

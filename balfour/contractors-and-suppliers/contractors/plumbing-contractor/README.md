@@ -25,7 +25,7 @@
 - Water Supply System
   - Central Copper Manifold in Basement
     - 1/4 Turn Full Port Valve Controlled
-    - 1-1/4" Supply from Big Blue Carbon Water Filter
+    - 1" Supply from Big Blue Carbon Water Filter
     - Individual PEX Lines to Each Fixture (No Branching)
     - Hot and Cold Lines Originate from Manifold
   - 3/4" PEX Required for:
@@ -84,15 +84,15 @@
     - Washing Machine: 1/2" Hot and Cold Water Ports with Drain
   - Outdoor
     - 2 Frost Free Garden Spigots
-      - 3-Way Valve to Support Water from Softener or Iron Filters
+      - 3-Way Valve to Support Water from the Softener or the Iron Filter
     - 1 Sprinkler Valve: Zurn Wilkins 1-710 1" 710 Pressure Vacuum Breaker Assembly
 
 ## Water Treatment
 
-- 2 Iron Filters (Alternating) and Softener
-  - 1-1/4" Inlet and Outlet Ports on Iron Filters and Softener
-  - All Supply Piping to and from Iron Filters and Softener: PEX
-  - 1-1/4" Stainless Steel 3-Way Valves
+- Iron Filter and Softener (Owner-Supplied: RainDance Iron Max-125-14 High Flow Filter + RDWS-MWS-125-12 High Flow Softener)
+  - 1" Piping Throughout the Water Treatment Train; the Purchased Units Have 1" Connections and Ship with Free 1" Bypass Valves
+  - All Supply Piping to and from the Iron Filter and Softener: PEX
+  - 1" Stainless Steel 3-Way Valves
   - Bypass Valves for Zero Downtime Servicing
   - Backwash Drain (Tied Into Shared French Drain System; Exits at Lakeside Pop-Up Emitters)
     - Schedule 40 PVC with Pressure Fittings
@@ -100,16 +100,18 @@
     - 3 Check Valves (One per Filter) to Prevent Backflow Between Filters
     - 3-into-1 Configuration to Single Output Tied Into Shared French Drain System
   - Garden Hoses Water Supply
-    - 3-Way Valve to Select Water from Iron Filter Only or from Softener
+    - 3-Way Valve to Select Water from the Iron Filter Only or from the Softener
   - Sprinkler System Water Supply
     - Fed from Iron Filter Only
-- 1.5" Big Blue Water Filter
+- Carbon Filter (Owner-Supplied): Pentair Pentek 150236 Big Blue Housing, 20" x 4.5", 1-1/2" NPT Ports
   - Located After Softener and After Hose Output
-  - Activated Carbon Filter Cartridges
-- Reverse Osmosis
+  - Plumbed from the 1" Train: Adapt 1" to 1-1/2" at the Housing Inlet and Back to 1" at the Outlet
+  - Cartridge (Owner-Supplied): Aquaboon 5 Micron 20" x 4.5" Granular Activated Carbon (GAC)
+- Reverse Osmosis (Owner-Supplied): iSpring RCC7 5-Stage Under-Sink System, 75 GPD, Brushed Nickel Faucet
   - Fed by Softener Cold Water Line
-- A.O. Smith Signature 500 75 Gallon Tall Power-Vent Natural Gas Water Heater, 76,000 BTU, 6-Year Warranty (Model G6-PVT7576NV)
-  - PVC Power Venting
+  - Serves the Kitchen RO Dispenser and the Basement Bar RO Spigot
+- A.O. Smith Signature 500 75 Gallon Tall Power Direct Vent Natural Gas Water Heater, 76,000 BTU, 6-Year Warranty (Model G6-PDT7576NV, Lowe's Item 816085)
+  - PVC Power Direct Venting (Intake and Exhaust)
   - Powered Titanium Anode Rod (Electrical Provides a Dedicated 120V Circuit with Lug at the Water Heater, Serving the Power-Vent Blower and the Powered Anode)
   - Valved for Isolation (Zero Downtime Servicing)
   - Expansion Tank (Required Due to Check Valve After Well)
