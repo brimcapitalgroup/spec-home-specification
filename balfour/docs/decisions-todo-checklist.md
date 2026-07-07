@@ -47,7 +47,6 @@ All pending decisions, selections, and specifications that need to be completed 
 | Slate tile source/color | Montauk Black Slate (12 in. x 24 in., natural textured) specified; confirm source/supplier |
 | Porcelain tile brand/style/color | Locations defined, no specific tile |
 | Wood plank porcelain selection | Basement open area - no specific tile |
-| Rubber gym mat brand | Basement gym - no specific product |
 
 ### Plumbing Fixtures
 

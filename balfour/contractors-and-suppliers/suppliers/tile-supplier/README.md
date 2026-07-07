@@ -17,8 +17,6 @@
   - Basement Open Area and Bar
     - Wood Plank Look Porcelain Tile
   - All Showers: Full Porcelain Tile on Floor, Walls, Niche, and Ceiling
-- Rubber Athletic Flooring
-  - Basement Gym
 - Grade-E Brazilian Exotic Granite Shower Components
   - Shower Door Thresholds
   - Shower Benches

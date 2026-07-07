@@ -685,7 +685,6 @@ Rev-01 now carries **handing (LH/RH)**; **in/out swing direction is still NOT sp
 - [ ] Montauk Black slate tile - SF by room
 - [ ] Porcelain tile - SF by room
 - [ ] Wood plank look porcelain tile - SF
-- [ ] Rubber gym mat flooring - SF
 - [ ] Thinset mortar - bags
 - [ ] Grout - bags
 - [ ] Backer board - sheets
@@ -713,9 +712,6 @@ Rev-01 now carries **handing (LH/RH)**; **in/out swing direction is still NOT sp
 - Basement open area and bar (wood plank look porcelain tile)
 - All showers: Full porcelain tile on floor, walls, niche, and ceiling
   - Exclusions: Grade-E Brazilian Exotic Granite shower door thresholds, shower benches, niche base, and niche mid shelves (handled separately)
-
-**Rubber Gym Mat Flooring:**
-- Basement gym
 
 ---
 

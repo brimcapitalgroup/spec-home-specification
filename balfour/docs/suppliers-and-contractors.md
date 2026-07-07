@@ -775,8 +775,6 @@
     - Wood Plank Look Porcelain Tile
   - All Showers: Full Porcelain Tile on Floor, Walls, Niche, and Ceiling
     - Exclusions: Grade-E Brazilian Exotic Granite Shower Door Thresholds, Shower Benches, Niche Base, and Niche Mid Shelves
-- Rubber Gym Mat Flooring
-  - Basement Gym
 - Grade-E Brazilian Exotic Granite Shower Components: Installed by Tile Contractor
   - Shower Door Thresholds
   - Shower Benches
@@ -1309,8 +1307,6 @@
   - Basement Open Area and Bar
     - Wood Plank Look Porcelain Tile
   - All Showers: Full Porcelain Tile on Floor, Walls, Niche, and Ceiling
-- Rubber Gym Mat Flooring
-  - Basement Gym
 - Grade-E Brazilian Exotic Granite Shower Components
   - Shower Door Thresholds
   - Shower Benches

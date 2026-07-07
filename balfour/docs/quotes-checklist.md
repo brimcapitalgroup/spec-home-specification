@@ -77,7 +77,7 @@ Comprehensive tracking for all contractor and supplier quotes.
 
 | Contractor | Quote Received | Scope Notes |
 |------------|----------------|-------------|
-| [ ] Tile Contractor | | Montauk Black slate, porcelain, rubber gym flooring |
+| [ ] Tile Contractor | | Montauk Black slate, porcelain |
 | [ ] Hardwood Flooring Contractor | | 8" engineered wire-brushed white oak |
 | [ ] Carpet Contractor | | Bedrooms, office, closets, basement TV |
 | [ ] Finish Carpenter | | Doors, cabinets, trim, molding, hardware |
@@ -145,7 +145,7 @@ Comprehensive tracking for all contractor and supplier quotes.
 | Supplier | Quote Received | Scope Notes |
 |----------|----------------|-------------|
 | [ ] Drywall Supplier | | Sheets, tape, compound |
-| [ ] Tile Supplier | | Montauk Black slate, porcelain, rubber gym mat |
+| [ ] Tile Supplier | | Montauk Black slate, porcelain |
 | [ ] Hardwood Flooring Supplier | | 8" engineered wire-brushed white oak |
 | [ ] Carpet Supplier | | Carpet + pad |
 | [ ] Paint and Stain Supplier | | Sherwin-Williams paint, deck stain |

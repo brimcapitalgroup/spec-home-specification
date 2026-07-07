@@ -357,9 +357,6 @@
 - [ ] Porcelain tile - SF (Showers - floors, walls, ceilings)
 - [ ] Porcelain tile - SF (TOTAL)
 
-**Rubber:**
-- [ ] Rubber gym mat flooring - SF (Basement gym)
-
 **Supplies:**
 - [ ] Thinset mortar - bags
 - [ ] Grout - bags
