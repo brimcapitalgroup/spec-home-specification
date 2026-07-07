@@ -88,6 +88,7 @@
 
 - Iron Filter and Softener (Owner-Supplied: RainDance Iron Max-125-14 High Flow Filter + RDWS-MWS-125-12 High Flow Softener)
   - 1" Piping Throughout the Water Treatment Train; the Purchased Units Have 1" Connections and Ship with Free 1" Bypass Valves
+  - Well Supply Arrives at 1-1/4" (Reduces Friction Loss from the Well); Reduce to 1" at the Treatment Train Inlet
   - All Supply Piping to and from the Iron Filter and Softener: PEX
   - 1" Stainless Steel 3-Way Valves
   - Bypass Valves for Zero Downtime Servicing

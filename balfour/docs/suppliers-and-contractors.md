@@ -628,6 +628,7 @@
 
 - Iron Filter and Softener (Owner-Supplied: RainDance Iron Max-125-14 High Flow Filter + RDWS-MWS-125-12 High Flow Softener)
   - 1" Piping Throughout the Water Treatment Train; the Purchased Units Have 1" Connections and Ship with Free 1" Bypass Valves
+  - Well Supply Arrives at 1-1/4" (Reduces Friction Loss from the Well); Reduce to 1" at the Treatment Train Inlet
   - All Supply Piping to and from the Iron Filter and Softener: PEX
   - 1" Stainless Steel 3-Way Valves
   - Bypass Valves for Zero Downtime Servicing
@@ -806,7 +807,7 @@
 - 2HP Constant Pressure Inverter 1.25 Supply
 - 1-1/4" Non-Lead Brass Check Valve
 - Entire Well Manifold and Pressure Tank: 1-1/4" (No Reductions)
-- 1-1/4" Supply Line from Well Motor to Iron Filter to Softener to Water Supply Manifold
+- 1-1/4" Supply Line from Well Motor to Inside the House (Reduces Friction Loss); Drops to 1" at the Water Treatment Train
 - Double-Length Well Screen for Improved Water Performance
 
 ---
@@ -1310,7 +1311,7 @@
 - 2HP Constant Pressure Inverter Well Pump (1.25 Supply)
 - 1-1/4" Non-Lead Brass Check Valve
 - Well Manifold and Pressure Tank: 1-1/4" (No Reductions)
-- 1-1/4" Supply Line
+- 1-1/4" Supply Line (Well Motor to Inside the House; Drops to 1" at the Water Treatment Train)
 - Double-Length Well Screen
 
 ## Window and Door Supplier
