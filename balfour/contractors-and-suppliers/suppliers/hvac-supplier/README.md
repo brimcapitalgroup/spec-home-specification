@@ -5,7 +5,7 @@
 - Bryant (Carrier) Dual-Fuel Equipment per the HVAC Contractor's Recommendation
 - Outdoor Unit: Inverter Air-Source Heat Pump; Provides Both Heating and Central Air Conditioning (Cooling)
 - Indoor Coil: Sized by Contractor
-- Backup Gas Furnace: 96% AFUE Minimum, Two-Stage; Separate Unit, Auto-Engages Only in Extreme Cold
+- Backup Gas Furnace: Two-Stage; Separate Unit, Auto-Engages Only in Extreme Cold (AFUE Stated in the Contractor's Quote)
 - Filtration: Contractor's Choice of Filter (Shop-Fabricated Is Fine), MERV 11
 - Whole House Humidifier: Contractor's Choice of Unit
 - Controls: Contractor-Selected Electronics; One (1) Master Thermostat; the Other Two Zones Run Without Wall Controls

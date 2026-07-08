@@ -360,7 +360,7 @@
 - Dual-Fuel System (Two Separate Units: Heat Pump + Gas Furnace)
   - Bryant (Carrier) Equipment per the HVAC Contractor's Recommendation
   - Inverter Air-Source Heat Pump Provides Both Heating and Central Air Conditioning (Cooling)
-  - Separate 96% AFUE Two-Stage Gas Furnace: Auto-Engages Only in Extreme Cold
+  - Separate Two-Stage Gas Furnace: Auto-Engages Only in Extreme Cold (AFUE Stated in the Contractor's Quote)
   - Sizing: HVAC Contractor to Choose Tonnage and BTU Ratings
     - Must Handle -15°F Winter Days and 115°F Summer Days
   - Exact Hardware Model Numbers Stated in the Quote
@@ -374,7 +374,7 @@
     - Zone 2: All Bedrooms Only (Excluding Bedroom Closets and Bedroom Bathrooms)
     - Zone 3: Rest of First Floor (Including Bedroom Closets and Bedroom Bathrooms)
   - Single Large Air Handler with Motorized Dampers
-  - HVAC Panel Amperage: Confirmed by the HVAC Contractor (Dedicated HVAC Subpanel Fed from the 150-Amp DTE CoolCurrents Meter)
+  - DTE CoolCurrents Service Size: HVAC Contractor States the Amps Needed for the CoolCurrents Meter and Its Dedicated HVAC Subpanel
   - DTE CoolCurrents Setup: HVAC Contractor to Confirm Whether They Handle the Enrollment
 - Garage Gas Heater: 80K BTU
   - Heater
@@ -1040,7 +1040,7 @@
 - Bryant (Carrier) Dual-Fuel Equipment per the HVAC Contractor's Recommendation
 - Outdoor Unit: Inverter Air-Source Heat Pump; Provides Both Heating and Central Air Conditioning (Cooling)
 - Indoor Coil: Sized by Contractor
-- Backup Gas Furnace: 96% AFUE Minimum, Two-Stage; Separate Unit, Auto-Engages Only in Extreme Cold
+- Backup Gas Furnace: Two-Stage; Separate Unit, Auto-Engages Only in Extreme Cold (AFUE Stated in the Contractor's Quote)
 - Filtration: Contractor's Choice of Filter (Shop-Fabricated Is Fine), MERV 11
 - Whole House Humidifier: Contractor's Choice of Unit
 - Controls: Contractor-Selected Electronics; One (1) Master Thermostat; the Other Two Zones Run Without Wall Controls
