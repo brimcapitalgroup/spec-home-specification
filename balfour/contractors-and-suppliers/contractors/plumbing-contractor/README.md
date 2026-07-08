@@ -82,6 +82,7 @@
     - Washing Machine: Hot and Cold Water Ports with Drain
   - Outdoor
     - 2 Frost Free Garden Spigots (Fed After the Iron Filter, Not After the Softener)
+      - Owner-Supplied: New Units with 18" Supply Pipes and 1/2" PEX Fittings Already Attached; Plumber Installs and Connects
     - Sprinkler Backflow: 1" UPC Certified Brass Pressure Vacuum Breaker, Max 400 PSI, Rated for Non-Potable Irrigation Service, Installed Outside (Plumber-Supplied and Installed)
 
 ## Water Treatment
