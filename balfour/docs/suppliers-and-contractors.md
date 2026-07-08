@@ -348,6 +348,7 @@
 
 ### Rough
 
+- Temporary Winter Heat: Supply and Install Temporary Heat Carrying the Build Through the First Winter
 - Ductwork: Solid Galvanized Metal Only (No Flexible Ducting Permitted for HVAC or Vents)
   - Balancing Dampers on All Ducts
   - System Tuning for Even Flow with CFM Meters Prior to Basement Drywall
@@ -376,7 +377,7 @@
   - Single Large Air Handler with Motorized Dampers
   - DTE CoolCurrents Service Size: HVAC Contractor States the Amps Needed for the CoolCurrents Meter and Its Dedicated HVAC Subpanel
   - DTE CoolCurrents Setup: HVAC Contractor to Confirm Whether They Handle the Enrollment
-- Garage Gas Heater: 80K BTU
+- Garage Gas Heater: Mr. Heater, 80K BTU, Natural Gas
   - Heater
   - Install
   - Gas Line Installed by Plumber; HVAC to Make Final Connection as Needed
@@ -1038,6 +1039,7 @@
 **Related Contractors:** [HVAC Contractor](#hvac-contractor)
 
 - Bryant (Carrier) Dual-Fuel Equipment per the HVAC Contractor's Recommendation
+- Temporary Winter Heat Equipment (First Build Winter)
 - Outdoor Unit: Inverter Air-Source Heat Pump; Provides Both Heating and Central Air Conditioning (Cooling)
 - Indoor Coil: Sized by Contractor
 - Backup Gas Furnace: Two-Stage; Separate Unit, Auto-Engages Only in Extreme Cold (AFUE Stated in the Contractor's Quote)
@@ -1050,7 +1052,7 @@
 - Balancing Dampers
 - Duct Insulation
 - Bathroom Exhaust Fans: 6" Ducts (All Bathrooms)
-- Garage Gas Heater: 80K BTU
+- Garage Gas Heater: Mr. Heater, 80K BTU, Natural Gas
 - Great Room Fireplace
 - Basement Fireplace
 ## Insulation Supplier

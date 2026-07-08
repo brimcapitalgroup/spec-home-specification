@@ -3,6 +3,7 @@
 **Related Contractors:** [HVAC Contractor](../../contractors/hvac-contractor/README.md)
 
 - Bryant (Carrier) Dual-Fuel Equipment per the HVAC Contractor's Recommendation
+- Temporary Winter Heat Equipment (First Build Winter)
 - Outdoor Unit: Inverter Air-Source Heat Pump; Provides Both Heating and Central Air Conditioning (Cooling)
 - Indoor Coil: Sized by Contractor
 - Backup Gas Furnace: Two-Stage; Separate Unit, Auto-Engages Only in Extreme Cold (AFUE Stated in the Contractor's Quote)
@@ -15,6 +16,6 @@
 - Balancing Dampers
 - Duct Insulation
 - Bathroom Exhaust Fans: 6" Ducts (All Bathrooms)
-- Garage Gas Heater: 80K BTU
+- Garage Gas Heater: Mr. Heater, 80K BTU, Natural Gas
 - Great Room Fireplace
 - Basement Fireplace

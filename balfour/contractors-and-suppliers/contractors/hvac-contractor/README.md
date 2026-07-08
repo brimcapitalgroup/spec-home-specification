@@ -6,6 +6,7 @@
 
 ## Rough
 
+- Temporary Winter Heat: Supply and Install Temporary Heat Carrying the Build Through the First Winter
 - Ductwork: Solid Galvanized Metal Only (No Flexible Ducting Permitted for HVAC or Vents)
   - Balancing Dampers on All Ducts
   - System Tuning for Even Flow with CFM Meters Prior to Basement Drywall
@@ -34,7 +35,7 @@
   - Single Large Air Handler with Motorized Dampers
   - DTE CoolCurrents Service Size: HVAC Contractor States the Amps Needed for the CoolCurrents Meter and Its Dedicated HVAC Subpanel
   - DTE CoolCurrents Setup: HVAC Contractor to Confirm Whether They Handle the Enrollment
-- Garage Gas Heater: 80K BTU
+- Garage Gas Heater: Mr. Heater, 80K BTU, Natural Gas
   - Heater
   - Install
   - Gas Line Installed by Plumber; HVAC to Make Final Connection as Needed
