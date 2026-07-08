@@ -4,7 +4,9 @@
 
 - Primary Electrical Panel: Square D QO Panel with Maximum Space Available
 - 200 Amp Meter with Integrated Disconnect (Exterior Emergency Disconnect per 2025 Code)
-- 150 AMP DTE CoolCurrents Meter with Its Own Disconnect (Fed from the Line Side of the 200 Amp Meter via Dual Lugs)
+- 100 AMP DTE CoolCurrents Meter with a Built-In Disconnect (Fed from the Line Side of the 200 Amp Meter via Dual Lugs)
+- 100 Amp HVAC Panel with Breakers for the HVAC Loads
+- Non-Fused Lever Outdoor-Rated Disconnect (at the Heat Pump Outdoor Unit)
 - GFCI Breakers (All GFCI Protection via Breakers in the Panel; No GFCI Receptacles)
 - Whole-House Surge Protective Device (SPD, Panel Mount)
 - Wall Plates: Mulberry Brand, Decora Style, Metal, Smooth White — All Locations Including Low Voltage and 240V

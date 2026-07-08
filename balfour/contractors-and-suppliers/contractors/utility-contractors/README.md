@@ -4,7 +4,7 @@
   - Buried Service from Pole to Meter
     - 3" PVC Conduit
   - 200 Amp Primary Meter
-  - 150 Amp Heat Pump Meter (DTE CoolCurrents, Rate D1.1)
+  - 100 Amp Heat Pump Meter (DTE CoolCurrents, Rate D1.1)
 - Internet (Xfinity)
   - 1.5" PVC Conduit from Pole to Exterior Xfinity Connection Box
 - Natural Gas (Consumers Energy)

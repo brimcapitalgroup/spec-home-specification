@@ -101,7 +101,7 @@ Comprehensive tracking for all contractor and supplier quotes.
 
 | Utility | Contact | Scope |
 |---------|---------|-------|
-| [ ] DTE Electric | | 200A primary + 150A heat-pump meter |
+| [ ] DTE Electric | | 200A primary + 100A heat-pump meter |
 | [ ] Consumers Energy | | Natural gas service |
 | [ ] Xfinity | | Internet conduit |
 

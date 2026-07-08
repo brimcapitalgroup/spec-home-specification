@@ -189,11 +189,13 @@
   - No GFCI Receptacles or Arc Fault Breakers to be Used Anywhere in the Home
 - Dedicated 15 Amp Outlet in Attic at Radon Pipe for Future Radon Pump where vent pipe located
 - Garage Cold-Storage Attic: provide lighting and at least one 20A outlet in the garage attic storage area.
-- 150 AMP DTE CoolCurrents Meter for the Entire HVAC System: DTE CoolCurrents Program (Rate D1.1), separately-metered, interruptible heat-pump/AC rate (up to ~25% on heat-pump heating and ~29% on cooling; interruptible May through September, no interruptions October through April)
-  - Meter Has Its Own Disconnect (Exterior Emergency Disconnect per 2025 Code); Fed from the Line Side of the 200 Amp Meter via Dual Lugs
-  - Separate HVAC Subpanel
+- 100 AMP DTE CoolCurrents Meter for the Entire HVAC System: DTE CoolCurrents Program (Rate D1.1), separately-metered, interruptible heat-pump/AC rate (up to ~25% on heat-pump heating and ~29% on cooling; interruptible May through September, no interruptions October through April)
+  - Meter Has a Built-In Disconnect; Fed from the Line Side of the 200 Amp Meter via Dual Lugs
+  - Separate 100 Amp HVAC Panel with Breakers for the HVAC Loads
+  - Non-Fused Lever Outdoor-Rated Disconnect at the Heat Pump Outdoor Unit
   - Feeds Heat Pump, Air Handler, and Backup Gas Furnace
-  - Equipment on Meter to be Verified with DTE Application; confirm CoolCurrents enrollment
+  - Service Size Confirmed with the HVAC Contractor 07/08/2026
+  - DTE CoolCurrents Application: Filled Out and Submitted by the Owner and the CM
 - Ceiling Fan Boxes: All Boxes in Ceiling Fan Locations to be Rated for Fan Weight
 - 20 Amp Underground Circuit to Septic Pump Tank
 - Kitchen Under-Cabinet Track Plug System (In Lieu of Wall Outlets)
@@ -799,7 +801,7 @@
   - Buried Service from Pole to Meter
     - 3" PVC Conduit
   - 200 Amp Primary Meter
-  - 150 Amp Heat Pump Meter (DTE CoolCurrents, Rate D1.1)
+  - 100 Amp Heat Pump Meter (DTE CoolCurrents, Rate D1.1)
 - Internet (Xfinity)
   - 1.5" PVC Conduit from Pole to Exterior Xfinity Connection Box
 - Natural Gas (Consumers Energy)
@@ -973,7 +975,9 @@
 
 - Primary Electrical Panel: Square D QO Panel with Maximum Space Available
 - 200 Amp Meter with Integrated Disconnect (Exterior Emergency Disconnect per 2025 Code)
-- 150 AMP DTE CoolCurrents Meter with Its Own Disconnect (Fed from the Line Side of the 200 Amp Meter via Dual Lugs)
+- 100 AMP DTE CoolCurrents Meter with a Built-In Disconnect (Fed from the Line Side of the 200 Amp Meter via Dual Lugs)
+- 100 Amp HVAC Panel with Breakers for the HVAC Loads
+- Non-Fused Lever Outdoor-Rated Disconnect (at the Heat Pump Outdoor Unit)
 - GFCI Breakers (All GFCI Protection via Breakers in the Panel; No GFCI Receptacles)
 - Whole-House Surge Protective Device (SPD, Panel Mount)
 - Wall Plates: Mulberry Brand, Decora Style, Metal, Smooth White — All Locations Including Low Voltage and 240V
