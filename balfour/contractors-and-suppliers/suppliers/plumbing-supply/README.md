@@ -8,7 +8,8 @@
 - Water Hammer Arrestors
 - Basement Ejector Pump
 - Basement Sump Pump System
-  - 2 Hard-Wired Sump Pumps
+  - 1 Hard-Wired Sump Pump
+  - 1 Battery Backup Sump Pump
   - Backflow Preventers
   - Sealed Cover with Plastic Glass View Port
 - Radon Exhaust Pipeline Materials
@@ -26,4 +27,4 @@
 - PVC Power Direct Venting Materials (Intake and Exhaust)
 - Powered Titanium Anode Rod
 - Expansion Tank
-- Hot Water Recirculation Pump
+- Hot Water Recirculation Pump (Plumber-Supplied, Not the Supply House)

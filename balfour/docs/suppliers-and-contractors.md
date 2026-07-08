@@ -565,8 +565,10 @@
 - Basement Ejector Pump for Drain System
 - Basement Mechanical Room Floor Drain for Furnace
 - Basement Sump Pump System
-  - 2 Hard-Wired Sump Pumps (Offset for Redundancy)
-  - Both Exit to Same Exterior Drain (Tied Into Shared French Drain System; Exits at Lakeside Pop-Up Emitters)
+  - 1 Hard-Wired Sump Pump
+  - 1 Battery Backup Sump Pump
+  - Both Pumps Share One Dedicated Sump Discharge Line Exiting the Mechanical Room (Tied Into the Shared French Drain System Outside; Exits at Lakeside Pop-Up Emitters)
+  - The Mechanical Room Has Two Separate Water Exits: This Sump Discharge and the Water Treatment Backwash Discharge (Backwash and Softener Brine Never Run Through the Sump Line)
   - Backflow Preventer on Each Pump
   - Sealed Cover with Plastic Glass View Port
   - Fully Sealed Water-Tight to Floor
@@ -589,16 +591,17 @@
     - Both Garden Hose Spigots
     - Whole House Humidifier (HVAC Contractor-Selected Unit, Fed by Hot Water Line)
 - Gas Lines
+  - Outside at the Meter: Capped Tee Sized to Supply a Future 26 kW Standby Generator (333,000 BTU/hr Full Load; 333 ft3/hr Natural Gas per the Generac 26 kW Spec)
   - Gas Dryer
   - Gas Range
   - Both Fireplaces
-  - A.O. Smith Signature 500 75 Gallon Tall Power-Vent Natural Gas Water Heater, 76,000 BTU (Model G6-PVT7576NV)
+  - A.O. Smith Signature 500 75 Gallon Tall Power Direct Vent Natural Gas Water Heater, 76,000 BTU (Model G6-PDT7576NV)
   - 100K BTU Gas Furnace
   - 80K BTU Garage Gas Heater
 
 ### Finish
 
-- Fixtures
+- Fixtures (Owner Supplies the Toilets, Faucets, and the Delta Rough-In and Mixing Valves as Needed; Plumber Sets and Connects)
   - Bathrooms (4 Total)
     - Master Full Bathroom
       - 2 Sinks with Delta Stryke Widespread Laminar-Flow Faucets
@@ -622,11 +625,10 @@
       - 1/4 Turn Valves for Sink and Toilet
   - Kitchen
     - 1 Sink with Delta Stryke Laminar-Flow Faucet (Single-Hole)
-    - Filtered Water Dispenser from Reverse Osmosis
+    - Reverse Osmosis Drinking Water Spigot
     - Dishwasher Drain Support
   - Basement Bar
     - 1 Sink with Delta Stryke Laminar-Flow Faucet (Single-Hole)
-    - Filtered Water Spigot from Reverse Osmosis
     - Dishwasher Drain Support
   - Mudroom
     - 1 Sink with Delta Stryke Laminar-Flow Faucet (Single-Hole)
@@ -645,11 +647,11 @@
   - All Supply Piping to and from the Iron Filter and Softener: PEX
   - 1" Stainless Steel 3-Way Valves
   - Bypass Valves for Zero Downtime Servicing
-  - Backwash Drain (Tied Into Shared French Drain System; Exits at Lakeside Pop-Up Emitters)
+  - Backwash Drain: Its Own Dedicated Discharge Line Exiting the Mechanical Room (Separate Penetration from the Sump Discharge; Backwash and Softener Brine Never Run Through the Sump Line)
     - Schedule 40 PVC with Pressure Fittings
-    - Backflow Preventer
-    - 3 Check Valves (One per Filter) to Prevent Backflow Between Filters
-    - 3-into-1 Configuration to Single Output Tied Into Shared French Drain System
+    - The Iron Filter and the Softener Each Get Their Own Backwash Line with Its Own Backflow Preventer
+    - The Backwash Lines Combine Through a Wye into a Single 1-1/2" Discharge Line to the Outside
+    - Tied Into the Shared French Drain System Outside; Exits at Lakeside Pop-Up Emitters
   - Garden Hoses Water Supply
     - 3-Way Valve to Select Water from the Iron Filter Only or from the Softener
   - Sprinkler System Water Supply
@@ -660,13 +662,13 @@
   - Cartridge (Owner-Supplied): Aquaboon 5 Micron 20" x 4.5" Granular Activated Carbon (GAC)
 - Reverse Osmosis (Owner-Supplied): iSpring RCC7 5-Stage Under-Sink System, 75 GPD, Brushed Nickel Faucet
   - Fed by Softener Cold Water Line
-  - Serves the Kitchen RO Dispenser and the Basement Bar RO Spigot
+  - Serves the Kitchen Sink Drinking Water Spigot and the Built-In Kitchen Refrigerator (Internal Water and Ice)
 - A.O. Smith Signature 500 75 Gallon Tall Power Direct Vent Natural Gas Water Heater, 76,000 BTU, 6-Year Warranty (Model G6-PDT7576NV, Lowe's Item 816085)
   - PVC Power Direct Venting (Intake and Exhaust)
   - Powered Titanium Anode Rod (Electrical Provides a Dedicated 120V Circuit with Lug at the Water Heater, Serving the Power-Vent Blower and the Powered Anode)
   - Valved for Isolation (Zero Downtime Servicing)
   - Expansion Tank (Required Due to Check Valve After Well)
-  - Hot Water Recirculation Pump
+  - Hot Water Recirculation Pump (Plumber-Supplied)
     - NPT Port on Feed Line of Loop for Digital Water Temperature Sensor
     - Controlled by Shelly WiFi Relay (Installed by Low Voltage)
     - Hot Water Recirculation on All Hot Water Fixtures
@@ -682,7 +684,7 @@
 
 - Set and Connect Both Dishwashers (Kitchen + Basement Bar)
 - Set and Connect the Dual-Fuel Range (Gas Hookup, Oven Set in Place)
-- Water Line to the Built-In Kitchen Refrigerator
+- Water Line to the Built-In Kitchen Refrigerator (Fed from the Reverse Osmosis System)
 ## Roofing Contractor
 
 **Related Suppliers:** [Roofing Supplier](#roofing-supplier)
@@ -1197,7 +1199,8 @@
 - Water Hammer Arrestors
 - Basement Ejector Pump
 - Basement Sump Pump System
-  - Dual (2) Hard-Wired Sump Pumps
+  - 1 Hard-Wired Sump Pump
+  - 1 Battery Backup Sump Pump
   - Backflow Preventers
   - Sealed Cover with Plastic Glass View Port
 - Radon Exhaust Pipeline Materials
@@ -1215,7 +1218,7 @@
 - PVC Power Direct Venting Materials (Intake and Exhaust)
 - Powered Titanium Anode Rod
 - Expansion Tank
-- Hot Water Recirculation Pump
+- Hot Water Recirculation Pump (Plumber-Supplied, Not the Supply House)
 
 ## Port-a-John Rental
 
