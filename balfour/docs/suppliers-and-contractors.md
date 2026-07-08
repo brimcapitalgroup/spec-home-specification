@@ -584,8 +584,8 @@
   - Whole House Humidifier Feed (HVAC Contractor-Selected Unit, Fed by the Hot Water Line)
 - Gas Lines
   - Outside at the Meter: Capped Tee Sized to Supply a Future 26 kW Standby Generator (333,000 BTU/hr Full Load; 333 ft3/hr Natural Gas per the Generac 26 kW Spec)
-  - Gas Dryer
-  - Gas Range
+  - Gas Dryer: Maytag Bravos XL, 22,000 BTU Burner (Confirm on the Unit Rating Plate)
+  - Gas Range: ZLINE Dual Fuel, 71,000 BTU Total Gas Cooktop
   - Both Fireplaces
   - A.O. Smith Signature 500 75 Gallon Tall Power Direct Vent Natural Gas Water Heater, 76,000 BTU (Model G6-PDT7576NV)
   - 100K BTU Gas Furnace
