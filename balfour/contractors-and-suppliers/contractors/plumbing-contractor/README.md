@@ -6,37 +6,29 @@
 
 ## Rough
 
-- All Drain Pipe: Schedule 40
+- All Drain Pipe: Schedule 40, Not Thin Wall
 - Cleanout Access Points on Main Sewage Lines in Basement
 - Water Hammer Arrestors at Washing Machine and Dishwasher Locations
-- Basement Ejector Pump for Drain System
+- Basement Ejector Pump for Drain System (Plumber-Supplied and Installed)
 - Basement Mechanical Room Floor Drain for Furnace
-- Basement Sump Pump System
+- Basement Sump Pump System (Pumps Plumber-Supplied and Installed)
   - 1 Hard-Wired Sump Pump
   - 1 Battery Backup Sump Pump
   - Both Pumps Share One Dedicated Sump Discharge Line Exiting the Mechanical Room (Tied Into the Shared French Drain System Outside; Exits at Lakeside Pop-Up Emitters)
   - The Mechanical Room Has Two Separate Water Exits: This Sump Discharge and the Water Treatment Backwash Discharge (Backwash and Softener Brine Never Run Through the Sump Line)
   - Backflow Preventer on Each Pump
-  - Sealed Cover with Plastic Glass View Port
-  - Fully Sealed Water-Tight to Floor
+  - Radon-Rated Sealed Basin Covers on Both the Sump Pit and the Ejector Pit
 - Radon Exhaust Pipeline
-  - Tied into Weeping System
+  - One Passive Pipe Tied into the Drain and Weeping System
+  - Not Taken Off the Basin Covers (Unless the Plumber Recommends Otherwise)
   - Run Through Wall to Roof Penetration
   - No Fan Initially Installed
 - Roof Penetrations: All Plumbing Vents Painted Black Satin
 - Water Supply System
-  - Central Copper Manifold in Basement
-    - 1/4 Turn Full Port Valve Controlled
-    - 1" Supply from Big Blue Carbon Water Filter
-    - Individual PEX Lines to Each Fixture (No Branching)
-    - Hot and Cold Lines Originate from Manifold
-  - 3/4" PEX Required for:
-    - All Showers
-    - Bathtub
-    - Kitchen Sink
-    - Laundry Sink
-    - Both Garden Hose Spigots
-    - Whole House Humidifier (HVAC Contractor-Selected Unit, Fed by Hot Water Line)
+  - PEX Supply Throughout
+  - 1" Main Trunk Lines for the House (No Other Pipe Sizes Specified)
+  - Fixture-Use Stability: Flushing a Toilet or Opening a Sink Must Not Make a Running Shower Go Hot or Cold; the Plumber Determines the Method and States It in the Quote
+  - Whole House Humidifier Feed (HVAC Contractor-Selected Unit, Fed by the Hot Water Line)
 - Gas Lines
   - Outside at the Meter: Capped Tee Sized to Supply a Future 26 kW Standby Generator (333,000 BTU/hr Full Load; 333 ft3/hr Natural Gas per the Generac 26 kW Spec)
   - Gas Dryer
@@ -80,11 +72,10 @@
   - Mudroom
     - 1 Sink with Delta Stryke Laminar-Flow Faucet (Single-Hole)
   - Laundry Room
-    - Washing Machine: 1/2" Hot and Cold Water Ports with Drain
+    - Washing Machine: Hot and Cold Water Ports with Drain
   - Outdoor
-    - 2 Frost Free Garden Spigots
-      - 3-Way Valve to Support Water from the Softener or the Iron Filter
-    - 1 Sprinkler Valve: Zurn Wilkins 1-710 1" 710 Pressure Vacuum Breaker Assembly
+    - 2 Frost Free Garden Spigots (Fed After the Iron Filter, Not After the Softener)
+    - Sprinkler Backflow: 1" UPC Certified Brass Pressure Vacuum Breaker, Max 400 PSI, Rated for Non-Potable Irrigation Service, Installed Outside (Plumber-Supplied and Installed)
 
 ## Water Treatment
 
@@ -92,15 +83,13 @@
   - 1" Piping Throughout the Water Treatment Train; the Purchased Units Have 1" Connections and Ship with Free 1" Bypass Valves
   - Well Supply Arrives at 1-1/4" (Reduces Friction Loss from the Well); Reduce to 1" at the Treatment Train Inlet
   - All Supply Piping to and from the Iron Filter and Softener: PEX
-  - 1" Stainless Steel 3-Way Valves
-  - Bypass Valves for Zero Downtime Servicing
   - Backwash Drain: Its Own Dedicated Discharge Line Exiting the Mechanical Room (Separate Penetration from the Sump Discharge; Backwash and Softener Brine Never Run Through the Sump Line)
     - Schedule 40 PVC with Pressure Fittings
     - The Iron Filter and the Softener Each Get Their Own Backwash Line with Its Own Backflow Preventer
     - The Backwash Lines Combine Through a Wye into a Single 1-1/2" Discharge Line to the Outside
     - Tied Into the Shared French Drain System Outside; Exits at Lakeside Pop-Up Emitters
   - Garden Hoses Water Supply
-    - 3-Way Valve to Select Water from the Iron Filter Only or from the Softener
+    - Fed After the Iron Filter, Not After the Softener
   - Sprinkler System Water Supply
     - Fed from Iron Filter Only
 - Carbon Filter (Owner-Supplied): Pentair Pentek 150236 Big Blue Housing, 20" x 4.5", 1-1/2" NPT Ports
@@ -110,11 +99,10 @@
 - Reverse Osmosis (Owner-Supplied): iSpring RCC7 5-Stage Under-Sink System, 75 GPD, Brushed Nickel Faucet
   - Fed by Softener Cold Water Line
   - Serves the Kitchen Sink Drinking Water Spigot and the Built-In Kitchen Refrigerator (Internal Water and Ice)
-- A.O. Smith Signature 500 75 Gallon Tall Power Direct Vent Natural Gas Water Heater, 76,000 BTU, 6-Year Warranty (Model G6-PDT7576NV, Lowe's Item 816085)
+- A.O. Smith Signature 500 75 Gallon Tall Power Direct Vent Natural Gas Water Heater, 76,000 BTU, 6-Year Warranty (Model G6-PDT7576NV, Lowe's Item 816085); Owner-Supplied with the Powered Anode Rod, Plumber Installs Both
   - PVC Power Direct Venting (Intake and Exhaust)
   - Powered Titanium Anode Rod (Electrical Provides a Dedicated 120V Circuit with Lug at the Water Heater, Serving the Power-Vent Blower and the Powered Anode)
   - Valved for Isolation (Zero Downtime Servicing)
-  - Expansion Tank (Required Due to Check Valve After Well)
   - Hot Water Recirculation Pump (Plumber-Supplied)
     - NPT Port on Feed Line of Loop for Digital Water Temperature Sensor
     - Controlled by Shelly WiFi Relay (Installed by Low Voltage)

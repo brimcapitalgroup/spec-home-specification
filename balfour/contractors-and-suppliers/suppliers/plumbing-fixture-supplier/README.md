@@ -32,4 +32,4 @@
   - 1 Sink with Delta Stryke Laminar-Flow Faucet (Single-Hole)
 - Outdoor
   - 2 Frost Free Garden Spigots
-  - 1 Sprinkler Valve: Zurn Wilkins 1-710 1" 710 Pressure Vacuum Breaker Assembly
+  - Sprinkler Backflow: 1" UPC Certified Brass Pressure Vacuum Breaker, Max 400 PSI, Rated for Non-Potable Irrigation Service (Plumber-Supplied and Installed; Not from This Supplier)
