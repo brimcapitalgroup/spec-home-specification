@@ -32,6 +32,7 @@
   - PEX Supply Throughout
   - 1" Main Trunk Lines for the House (No Other Pipe Sizes Specified)
   - Fixture-Use Stability: Flushing a Toilet or Opening a Sink Must Not Make a Running Shower Go Hot or Cold; the Plumber Determines the Method and States It in the Quote
+  - Optional Priced Line: Basement Hot and Cold PEX Manifold with a Home Run to Every Fixture, If Possible and Still Compatible with the Recirculation Loop
   - Whole House Humidifier Feed (HVAC Contractor-Selected Unit, Fed by the Hot Water Line)
 - Gas Lines
   - Outside at the Meter: Capped Tee Sized to Supply a Future 26 kW Standby Generator (333,000 BTU/hr Full Load; 333 ft3/hr Natural Gas per the Generac 26 kW Spec)
@@ -45,6 +46,8 @@
 ## Finish
 
 - Fixtures (Owner Supplies the Toilets, Faucets, and the Delta Rough-In and Mixing Valves as Needed; Plumber Sets and Connects)
+  - Toilet Seals: Wax Rings Supplied by the Plumber; Never the Seal Rings That Ship with the Toilets
+  - Shower Drains: Satin Black (Oatey Round Is Fine)
   - Bathrooms (4 Total)
     - Master Full Bathroom
       - 2 Sinks with Delta Stryke Widespread Laminar-Flow Faucets
@@ -53,7 +56,7 @@
       - 1/4 Turn Valves for Sinks and Toilet
     - Jack and Jill Full Bathroom
       - 2 Sinks with Delta Stryke Widespread Laminar-Flow Faucets
-      - Drop-In Bathtub with Shower
+      - Drop-In Bathtub with Shower (Lightweight Material; Plumber Installs the Tub)
         - Mixing Valve Located Under Vanity
       - Swiss Madison One-Piece Toilet
       - 1/4 Turn Valves for Sinks and Toilet
