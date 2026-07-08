@@ -70,5 +70,5 @@ Both units are owner purchased from Woodland Direct (1-844-953-1225) and install
 
 - The great room chimney chase gets no fireplace flue: the Boulevard is vent free, so that chase is decorative (framed and stone clad per the plans)
 - Both fireplaces get the picture-framed Montauk Black Slate wall surround, no hearth (RFQ-95 tile scope)
-- Gas: both fireplaces are fed from the 1.8M BTU meter (RFQ-93 plumbing scope); the Boulevard needs a 1/2" IPS gas connection
+- Gas: both fireplaces are fed from the Consumers Energy meter, assumed 850K BTU (RFQ-93 plumbing scope); the Boulevard needs a 1/2" IPS gas connection
 - Sworn statement: each unit has its own supplier line (Woodland Direct) to draw against, plus the existing rough-in and finish lines

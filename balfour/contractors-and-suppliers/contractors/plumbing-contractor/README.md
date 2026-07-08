@@ -10,7 +10,11 @@
 - Cleanout Access Points on Main Sewage Lines in Basement
 - Water Hammer Arrestors at Washing Machine and Dishwasher Locations
 - Basement Ejector Pump for Drain System (Plumber-Supplied and Installed)
-- Basement Mechanical Room Floor Drain for Furnace
+- Two Basement Floor Drains in the Mechanical Room
+  - Drain 1: By the Furnace
+  - Drain 2: For the Water Heater Drain Pan and the Softener Brine Tank Overflow
+    - The Water Heater Sits in a Drain Pan, Piped Over the Floor to Drain 2
+    - The Brine Tank Overflow Pipes to Drain 2
 - Basement Sump Pump System (Pumps Plumber-Supplied and Installed)
   - 1 Hard-Wired Sump Pump
   - 1 Battery Backup Sump Pump
@@ -118,5 +122,5 @@
 ## Appliance Setting (Owner-Supplied ZLINE Units)
 
 - Set and Connect Both Dishwashers (Kitchen + Basement Bar)
-- Set and Connect the Dual-Fuel Range (Gas Hookup, Oven Set in Place)
+- Set and Connect the Dual-Fuel Range, One Unit with Its Built-In Electric Oven; Plumber Makes the Gas Hookup
 - Water Line to the Built-In Kitchen Refrigerator (Fed from the Reverse Osmosis System)
