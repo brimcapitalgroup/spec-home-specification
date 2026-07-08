@@ -13,7 +13,7 @@ All pending decisions, selections, and specifications that need to be completed 
 | Custom Metal Light Fixture Selection | Electrical | All remaining fixtures are custom metal — select style/brand |
 | Shower Door Handles | Glass | Select handle style |
 | HVAC Finish Items | HVAC | Define HVAC finish scope |
-| Thermostat Location | HVAC | Choose the wall location for the single master thermostat (the other two zones run without wall controls) |
+| Thermostat Locations | HVAC | Choose the wall locations for the master thermostat and the two zone wall controls (one in each of the other two zones) |
 | Insurance Agent | Insurance | Select insurance provider |
 | Gas Meter | Utilities | Spec'd: 1.8 Million BTU High-Capacity Meter — confirm availability with Consumers Energy |
 | Server Rack Location | Low Voltage | Choose location in mechanical room |

@@ -25,7 +25,7 @@
   - Exact Hardware Model Numbers Stated in the Quote
   - Controls: HVAC Contractor-Selected Electronics
     - One (1) Master Thermostat (Location: Builder to Choose)
-    - The Other Two Zones Run Without Wall Controls
+    - The Other Two Zones Each Have a Wall Control Located in Their Zone
   - Filtration: HVAC Contractor's Choice of Filter (Shop-Fabricated Is Fine), MERV 11
   - Whole House Humidifier: HVAC Contractor's Choice of Unit
   - Zones (3 Total)

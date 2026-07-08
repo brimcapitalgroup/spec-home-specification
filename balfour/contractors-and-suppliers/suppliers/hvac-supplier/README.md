@@ -9,7 +9,7 @@
 - Backup Gas Furnace: Two-Stage; Separate Unit, Auto-Engages Only in Extreme Cold (AFUE Stated in the Contractor's Quote)
 - Filtration: Contractor's Choice of Filter (Shop-Fabricated Is Fine), MERV 11
 - Whole House Humidifier: Contractor's Choice of Unit
-- Controls: Contractor-Selected Electronics; One (1) Master Thermostat; the Other Two Zones Run Without Wall Controls
+- Controls: Contractor-Selected Electronics; One (1) Master Thermostat; the Other Two Zones Each Have a Wall Control Located in Their Zone
 - Exact Hardware Model Numbers Stated in the Quote
 - Motorized Dampers (3 Zones)
 - Solid Galvanized Metal Ductwork
