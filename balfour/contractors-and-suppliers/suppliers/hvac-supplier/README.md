@@ -2,14 +2,14 @@
 
 **Related Contractors:** [HVAC Contractor](../../contractors/hvac-contractor/README.md)
 
-- Outdoor Unit: Bosch IDS 2.0 Inverter Air-Source Heat Pump (20 SEER Minimum) — Separate Unit; Provides Both Heating and Central Air Conditioning (Cooling)
-- Indoor Coil: Bosch (Sized by Contractor)
-- Backup Gas Furnace: Bosch (96% AFUE Minimum, Two-Stage, Variable-Speed ECM) — Separate Unit, Auto-Engages Only in Extreme Cold via AprilAire 8920W
-- Filtration: AprilAire 2210 or 2410 with MERV 11 Media
-- Whole House AprilAire Humidifier
-- Thermostat: AprilAire 8920W Dual-Fuel Control
-- Wired In-Wall Room Sensors: AprilAire 8051 (One in Each Bedroom, Office, Great Room, Kitchen)
-- Outdoor Sensor: AprilAire 8052
+- Bryant (Carrier) Dual-Fuel Equipment per the HVAC Contractor's Recommendation
+- Outdoor Unit: Inverter Air-Source Heat Pump; Provides Both Heating and Central Air Conditioning (Cooling)
+- Indoor Coil: Sized by Contractor
+- Backup Gas Furnace: 96% AFUE Minimum, Two-Stage; Separate Unit, Auto-Engages Only in Extreme Cold
+- Filtration: Contractor's Choice of Filter (Shop-Fabricated Is Fine), MERV 11
+- Whole House Humidifier: Contractor's Choice of Unit
+- Controls: Contractor-Selected Electronics; One (1) Master Thermostat; the Other Two Zones Run Without Wall Controls
+- Exact Hardware Model Numbers Stated in the Quote
 - Motorized Dampers (3 Zones)
 - Solid Galvanized Metal Ductwork
 - Balancing Dampers

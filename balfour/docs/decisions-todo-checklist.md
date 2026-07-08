@@ -13,8 +13,7 @@ All pending decisions, selections, and specifications that need to be completed 
 | Custom Metal Light Fixture Selection | Electrical | All remaining fixtures are custom metal — select style/brand |
 | Shower Door Handles | Glass | Select handle style |
 | HVAC Finish Items | HVAC | Define HVAC finish scope |
-| HVAC Room Sensor Locations | HVAC | Choose locations for AprilAire 8051 sensors (bedrooms, office, great room, kitchen) |
-| Thermostat Locations | HVAC | Choose wall locations for 3 zone thermostats |
+| Thermostat Location | HVAC | Choose the wall location for the single master thermostat (the other two zones run without wall controls) |
 | Insurance Agent | Insurance | Select insurance provider |
 | Gas Meter | Utilities | Spec'd: 1.8 Million BTU High-Capacity Meter — confirm availability with Consumers Energy |
 | Server Rack Location | Low Voltage | Choose location in mechanical room |
@@ -96,7 +95,7 @@ All pending decisions, selections, and specifications that need to be completed 
 | Item | Notes |
 |------|-------|
 | Garage door style/color | Sizes specified; color SELECTED: Black (painted per Paint schedule); style TBD |
-| Range Hood model | 400 CFM max specified, no model |
+| Range Hood model | DECIDED 07/08/2026: Cosmo COS-36IRHP 36" ducted 380 CFM stainless insert, Lowe's item 4833948; 299.99 less 10% veterans discount + 6% MI tax = 286.19; owner buys, HVAC installs; 6" round duct up the primary chimney chase to a black fabricated cap; no makeup air needed |
 | Dishwashers model | Kitchen and basement, no model |
 | Refrigerator model | Water line noted, no model |
 | Range model | Gas specified, no model |

@@ -6,7 +6,7 @@
   - Kitchen Dishwasher
   - Basement Dishwasher: ZLINE (Matching)
   - Range
-  - Range Hood: 400 CFM Maximum (No Makeup Air Required)
+  - Range Hood: Owner-Supplied Cosmo 36" 380 CFM Stainless Insert (COS-36IRHP) from Lowe's; Installed by the HVAC Contractor; No Makeup Air Required at 380 CFM
     - Venting: Through Primary Stone-Clad Chimney (Shared with Basement Fireplace); Custom Metal Chimney Cap with Functional Vent
   - Refrigerator / Freezer Combo
     - Water Line from Reverse Osmosis

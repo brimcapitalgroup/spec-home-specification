@@ -11,28 +11,29 @@
   - System Tuning for Even Flow with CFM Meters Prior to Basement Drywall
   - Full Insulation End-to-End on All Ducts in Unconditioned Spaces
 - Bathroom Exhaust Fans: 6" Ducts (All Bathrooms)
-- Kitchen Makeup Air: 8" Duct with an Electric Motorized Damper Interlocked to Open with the Range Hood; No Inline Conditioning (No Heater, No Cooler), Damper Vent Only
-- Install the Owner-Supplied ZLINE 34" 700 CFM Hood Insert (721-304-34), Ducted Through the Primary Chimney Chase
+- Install the Owner-Supplied Cosmo 36" 380 CFM Stainless Insert Range Hood (COS-36IRHP)
+  - 6" Round Duct Through the Primary Chimney Chase
+  - Terminates at a Black Fabricated Chimney Cap
+  - No Makeup Air Required at 380 CFM
 - Dual-Fuel System (Two Separate Units: Heat Pump + Gas Furnace)
-  - Separate Bosch IDS 2.0 Heat Pump Provides Both Heating and Central Air Conditioning (Cooling)
-  - Separate 96% AFUE Bosch Gas Furnace: Auto-Engages Only in Extreme Cold via AprilAire 8920W Dual-Fuel Control
+  - Bryant (Carrier) Equipment per the HVAC Contractor's Recommendation
+  - Inverter Air-Source Heat Pump Provides Both Heating and Central Air Conditioning (Cooling)
+  - Separate 96% AFUE Two-Stage Gas Furnace: Auto-Engages Only in Extreme Cold
   - Sizing: HVAC Contractor to Choose Tonnage and BTU Ratings
     - Must Handle -15°F Winter Days and 115°F Summer Days
-  - Outdoor Unit: Bosch IDS 2.0 Inverter Air-Source Heat Pump (20 SEER Minimum)
-  - Indoor Coil: Bosch (Sized by Contractor)
-  - Backup Gas Furnace: Bosch (96% AFUE Minimum, Two-Stage, Variable-Speed ECM) — Separate Unit, Auto-Engages Only in Extreme Cold via AprilAire 8920W
-  - Filtration: AprilAire 2210 or 2410 with MERV 11 Media
-  - Whole House AprilAire Humidifier
-  - Thermostat: AprilAire 8920W Dual-Fuel Control
-    - Thermostat Locations: Builder to Choose
-  - Wired In-Wall Room Sensors: AprilAire 8051 (One in Each Bedroom, Office, Great Room, Kitchen)
-    - Room Sensor Locations: TBD
-  - Outdoor Sensor: AprilAire 8052
+  - Exact Hardware Model Numbers Stated in the Quote
+  - Controls: HVAC Contractor-Selected Electronics
+    - One (1) Master Thermostat (Location: Builder to Choose)
+    - The Other Two Zones Run Without Wall Controls
+  - Filtration: HVAC Contractor's Choice of Filter (Shop-Fabricated Is Fine), MERV 11
+  - Whole House Humidifier: HVAC Contractor's Choice of Unit
   - Zones (3 Total)
     - Zone 1: Basement
     - Zone 2: All Bedrooms Only (Excluding Bedroom Closets and Bedroom Bathrooms)
     - Zone 3: Rest of First Floor (Including Bedroom Closets and Bedroom Bathrooms)
   - Single Large Air Handler with Motorized Dampers
+  - HVAC Panel Amperage: Confirmed by the HVAC Contractor (Dedicated HVAC Subpanel Fed from the 150-Amp DTE CoolCurrents Meter)
+  - DTE CoolCurrents Setup: HVAC Contractor to Confirm Whether They Handle the Enrollment
 - Garage Gas Heater: 80K BTU
   - Heater
   - Install

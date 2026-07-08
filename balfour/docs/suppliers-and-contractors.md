@@ -353,41 +353,45 @@
   - System Tuning for Even Flow with CFM Meters Prior to Basement Drywall
   - Full Insulation End-to-End on All Ducts in Unconditioned Spaces
 - Bathroom Exhaust Fans: 6" Ducts (All Bathrooms)
-- Dual-Fuel Inverter System
-  - Provides Both Heating and Central Air Conditioning (Cooling): the Bosch dual-fuel inverter heat pump supplies central air conditioning/cooling and heating, with the backup gas furnace providing heating on the coldest days
+- Install the Owner-Supplied Cosmo 36" 380 CFM Stainless Insert Range Hood (COS-36IRHP)
+  - 6" Round Duct Through the Primary Chimney Chase
+  - Terminates at a Black Fabricated Chimney Cap
+  - No Makeup Air Required at 380 CFM
+- Dual-Fuel System (Two Separate Units: Heat Pump + Gas Furnace)
+  - Bryant (Carrier) Equipment per the HVAC Contractor's Recommendation
+  - Inverter Air-Source Heat Pump Provides Both Heating and Central Air Conditioning (Cooling)
+  - Separate 96% AFUE Two-Stage Gas Furnace: Auto-Engages Only in Extreme Cold
   - Sizing: HVAC Contractor to Choose Tonnage and BTU Ratings
     - Must Handle -15°F Winter Days and 115°F Summer Days
-  - Outdoor Unit: Bosch IDS 2.0 Inverter Air-Source Heat Pump (20 SEER Minimum)
-  - Indoor Coil: Bosch (Sized by Contractor)
-  - Backup Gas Furnace: SEPARATE Bosch 96% AFUE Gas Furnace (Two-Stage, Variable-Speed ECM) — Auto-Engages Only in Extreme Cold via the AprilAire 8920W Dual-Fuel Control
-  - Filtration: AprilAire 2210 or 2410 with MERV 11 Media
-  - Whole House AprilAire Humidifier
-  - Thermostat: AprilAire 8920W Dual-Fuel Control
-    - Thermostat Locations: Builder to Choose
-  - Wired Room Sensors: AprilAire 8051 (One in Each Bedroom, Office, Great Room, Kitchen)
-    - Room Sensor Locations: TBD
-  - Outdoor Sensor: AprilAire 8052
+  - Exact Hardware Model Numbers Stated in the Quote
+  - Controls: HVAC Contractor-Selected Electronics
+    - One (1) Master Thermostat (Location: Builder to Choose)
+    - The Other Two Zones Run Without Wall Controls
+  - Filtration: HVAC Contractor's Choice of Filter (Shop-Fabricated Is Fine), MERV 11
+  - Whole House Humidifier: HVAC Contractor's Choice of Unit
   - Zones (3 Total)
     - Zone 1: Basement
     - Zone 2: All Bedrooms Only (Excluding Bedroom Closets and Bedroom Bathrooms)
     - Zone 3: Rest of First Floor (Including Bedroom Closets and Bedroom Bathrooms)
   - Single Large Air Handler with Motorized Dampers
+  - HVAC Panel Amperage: Confirmed by the HVAC Contractor (Dedicated HVAC Subpanel Fed from the 150-Amp DTE CoolCurrents Meter)
+  - DTE CoolCurrents Setup: HVAC Contractor to Confirm Whether They Handle the Enrollment
 - Garage Gas Heater: 80K BTU
   - Heater
   - Install
   - Gas Line Installed by Plumber; HVAC to Make Final Connection as Needed
-- Great Room Fireplace: See-Through / Pass-Through (Viewable from Great Room AND Deck)
+- Great Room Fireplace (See-Through / Pass-Through: Great Room and Deck)
   - Fireplace Installation by HVAC/Mechanical Contractor
     - 2-Wire Dry Contact Trigger Supplied
-  - Venting: Great-Room Chimney with Custom Metal Chimney Cap and Functional Vent (Vents the Pass-Through Fireplace)
-  - Smart / Google Nest Controlled
+  - Venting: Through Great Room Chimney (Vents the Pass-Through); Custom Metal Chimney Cap with Functional Vent
+  - Smart Control: Google Nest (Wiring by Low Voltage)
   - Auto On/Off Fans (As Applicable)
   - Gas Line Installed by Plumber; HVAC to Make Final Connection as Needed
 - Basement Fireplace
   - Fireplace Installation by HVAC/Mechanical Contractor
     - 2-Wire Dry Contact Trigger Supplied
-  - Venting: Primary Stone-Clad Chimney with Custom Metal Chimney Cap and Functional Vent (Shared with Kitchen Range Hood)
-  - Smart / Google Nest Controlled
+  - Venting: Through Primary Stone-Clad Chimney (Shared with Kitchen Range Hood); Framed Chimney Space with Custom Black Fabricated Chimney Cap
+  - Smart Control: Google Nest (Wiring by Low Voltage)
   - Auto On/Off Fans (As Applicable)
   - Gas Line Installed by Plumber; HVAC to Make Final Connection as Needed
 - Vents Through Brick or Stone: Satin Black Paint
@@ -397,6 +401,12 @@
 
 - TBD
 
+### Rough Mobilizations
+
+- Likely two trips during the rough
+  - The basement is finished space, and its walls are framed only after the basement slab is poured
+  - Trip 1 covers the house; trip 2 comes back for the finished basement
+  - Quotes must price both mobilizations
 ## Insulation Contractor
 
 **Related Suppliers:** [Insulation Supplier](#insulation-supplier)
@@ -574,7 +584,7 @@
     - Kitchen Sink
     - Laundry Sink
     - Both Garden Hose Spigots
-    - Whole House AprilAire Humidifier (Fed by Hot Water Line)
+    - Whole House Humidifier (HVAC Contractor-Selected Unit, Fed by Hot Water Line)
 - Gas Lines
   - Gas Dryer
   - Gas Range
@@ -823,7 +833,7 @@
   - Kitchen Island Beverage Fridge: ZLINE
   - Basement / Wet Bar Dishwasher: ZLINE (Matching)
   - Range
-  - Range Hood: 400 CFM Maximum (No Makeup Air Required)
+  - Range Hood: Owner-Supplied Cosmo 36" 380 CFM Stainless Insert (COS-36IRHP) from Lowe's; Installed by the HVAC Contractor; No Makeup Air Required at 380 CFM
     - Venting: Primary Stone-Clad Chimney with Custom Metal Chimney Cap and Functional Vent (Shared with Basement Fireplace)
   - Refrigerator / Freezer Combo
     - Water Line from Reverse Osmosis
@@ -836,18 +846,23 @@
 
 **Related Contractors:** [Finish Carpenter](#finish-carpenter)
 
-- All Cabinets: Shaker-Style, Semi-Custom
-- Species by Room:
+- All Cabinets: Shaker-Style, Semi-Custom (Including Basement Wet Bar)
+- Species and Finish by Room
   - Kitchen Island, Powder Room, and Mudroom: Natural Hickory
-  - Rest of Kitchen and Laundry Room: Maple, Off-White
-  - All Bathrooms (Excluding Powder Room): Cherry Wood, Shaker, Stained with a Dark-Mocha Edge Fading to a Light-Espresso Center (NOT a Red-Toned Cherry Look)
-  - Basement Wet Bar: Shaker-Style, Semi-Custom (Grade-E Brazilian Exotic Granite Counters; Matching ZLINE Appliances) [CONFIRM: wet bar cabinet species not specified]
+  - Rest of Kitchen and Laundry: Maple, Off-White
+  - All Bathrooms: Cherry Wood, Shaker-Style, Stained Dark-Mocha at Edges Fading to Light-Espresso at Center (Not Red Cherry)
+  - Basement Wet Bar: Shaker-Style, Semi-Custom [CONFIRM: species/finish not specified in lender spec]
 - Design to be completed
 - Selection to be completed
 - Cabinet Pulls
   - Selection to be completed
 - Install
 
+### Appliance Setting (Owner-Supplied ZLINE Units)
+
+- Cabinet Installer Sets Both Refrigerators: the 36" Built-In French-Door (RBIV-304-36) Into Its Cabinet Opening, and the 24" Monument Beverage Fridge (RBV-US-24) at the Basement Bar
+- Cabinet Run Provides the Hood Insert Chase; the HVAC Contractor Installs the Insert
+  - Insert Is the Owner-Supplied Cosmo COS-36IRHP (11.4" Deep); the Trim Carpenter Reduces the Opening Depth and Faces the Underside Opening with Glued Stainless Sheet Metal
 ## Carpet Supplier
 
 **Related Contractors:** [Carpet Contractor](#carpet-contractor)
@@ -1022,15 +1037,14 @@
 
 **Related Contractors:** [HVAC Contractor](#hvac-contractor)
 
-- Bosch Dual-Fuel Inverter Heat Pump: Provides Both Heating and Central Air Conditioning (Cooling)
-- Outdoor Unit: Bosch IDS 2.0 Inverter Air-Source Heat Pump (20 SEER Minimum)
-- Indoor Coil: Bosch (Sized by Contractor)
-- Backup Gas Furnace: SEPARATE Bosch 96% AFUE Gas Furnace (Two-Stage, Variable-Speed ECM) — Auto-Engages Only in Extreme Cold via the AprilAire 8920W Dual-Fuel Control
-- Filtration: AprilAire 2210 or 2410 with MERV 11 Media
-- Whole House AprilAire Humidifier
-- Thermostat: AprilAire 8920W Dual-Fuel Control
-- Wired Room Sensors: AprilAire 8051 (One in Each Bedroom, Office, Great Room, Kitchen)
-- Outdoor Sensor: AprilAire 8052
+- Bryant (Carrier) Dual-Fuel Equipment per the HVAC Contractor's Recommendation
+- Outdoor Unit: Inverter Air-Source Heat Pump; Provides Both Heating and Central Air Conditioning (Cooling)
+- Indoor Coil: Sized by Contractor
+- Backup Gas Furnace: 96% AFUE Minimum, Two-Stage; Separate Unit, Auto-Engages Only in Extreme Cold
+- Filtration: Contractor's Choice of Filter (Shop-Fabricated Is Fine), MERV 11
+- Whole House Humidifier: Contractor's Choice of Unit
+- Controls: Contractor-Selected Electronics; One (1) Master Thermostat; the Other Two Zones Run Without Wall Controls
+- Exact Hardware Model Numbers Stated in the Quote
 - Motorized Dampers (3 Zones)
 - Solid Galvanized Metal Ductwork
 - Balancing Dampers
@@ -1039,7 +1053,6 @@
 - Garage Gas Heater: 80K BTU
 - Great Room Fireplace
 - Basement Fireplace
-
 ## Insulation Supplier
 
 **Related Contractors:** [Insulation Contractor](#insulation-contractor)

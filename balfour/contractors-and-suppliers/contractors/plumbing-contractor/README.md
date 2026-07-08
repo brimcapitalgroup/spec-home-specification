@@ -34,7 +34,7 @@
     - Kitchen Sink
     - Laundry Sink
     - Both Garden Hose Spigots
-    - Whole House AprilAire Humidifier (Fed by Hot Water Line)
+    - Whole House Humidifier (HVAC Contractor-Selected Unit, Fed by Hot Water Line)
 - Gas Lines
   - Gas Dryer
   - Gas Range
