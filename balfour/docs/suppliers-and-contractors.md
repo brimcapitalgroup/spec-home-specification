@@ -629,6 +629,7 @@
     - Dishwasher Drain Support
   - Basement Bar
     - 1 Sink with Delta Stryke Laminar-Flow Faucet (Single-Hole)
+    - Reverse Osmosis Drinking Water Spigot
     - Dishwasher Drain Support
   - Mudroom
     - 1 Sink with Delta Stryke Laminar-Flow Faucet (Single-Hole)
@@ -660,7 +661,7 @@
   - Cartridge (Owner-Supplied): Aquaboon 5 Micron 20" x 4.5" Granular Activated Carbon (GAC)
 - Reverse Osmosis (Owner-Supplied): iSpring RCC7 5-Stage Under-Sink System, 75 GPD, Brushed Nickel Faucet
   - Fed by Softener Cold Water Line
-  - Serves the Kitchen Sink Drinking Water Spigot and the Built-In Kitchen Refrigerator (Internal Water and Ice)
+  - Serves the Kitchen Sink Drinking Water Spigot, the Basement Bar Drinking Water Spigot, and the Built-In Kitchen Refrigerator (Internal Water and Ice)
 - A.O. Smith Signature 500 75 Gallon Tall Power Direct Vent Natural Gas Water Heater, 76,000 BTU, 6-Year Warranty (Model G6-PDT7576NV, Lowe's Item 816085); Owner-Supplied with the Powered Anode Rod, Plumber Installs Both
   - PVC Power Direct Venting (Intake and Exhaust)
   - Powered Titanium Anode Rod (Electrical Provides a Dedicated 120V Circuit with Lug at the Water Heater, Serving the Power-Vent Blower and the Powered Anode)
