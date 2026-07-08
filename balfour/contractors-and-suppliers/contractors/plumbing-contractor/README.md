@@ -6,6 +6,7 @@
 
 ## Rough
 
+- Basement Routing: the Basement Is Fully Finished with a Drywalled Ceiling; Route All Basement Piping as Close to the Beam as Possible or Through the Engineered Floor Joists; Keep the Ceiling Plane (Underside of the Engineered Joists) as Clear as Possible for Drywall; the Framers Box In the Work After Install
 - All Drain Pipe: Schedule 40, Not Thin Wall
 - Cleanout Access Points on Main Sewage Lines in Basement
 - Water Hammer Arrestors at Washing Machine and Dishwasher Locations
