@@ -133,7 +133,7 @@ Comprehensive tracking for all contractor and supplier quotes.
 | Supplier | Quote Received | Scope Notes |
 |----------|----------------|-------------|
 | [ ] Electrical Supplier | | Panels, breakers, devices, boxes, wire |
-| [ ] Plumbing Supply | | Pipe, PEX, manifold, pumps, water treatment |
+| [ ] Plumbing Supply | | Pipe, PEX, and fittings (sump/ejector pumps and water treatment units carried in RFQ-93 installed scope) |
 | [ ] Plumbing Fixture Supplier | | Faucets, toilets, sinks, tub, shower fixtures |
 | [ ] HVAC Supplier | | Heat pump (heating + central AC/cooling), furnace, ductwork, fireplaces |
 | [ ] Insulation Supplier | | Batt, cellulose, spray foam |
