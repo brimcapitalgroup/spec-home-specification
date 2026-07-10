@@ -3,7 +3,7 @@
 **Related Contractors:** [Excavation Contractor - General](../../contractors/excavation-contractor-general/README.md), [Grading Contractor](../../contractors/grading-contractor/README.md), [Masonry Contractor](../../contractors/masonry-contractor/README.md)
 
 - Take-Off Estimator to Rough Calculate Cubic Yards for All Stone Types
-- Retaining Wall: Hollow Retaining Wall Block with Cap Stones, Porter Color, Geogrid Reinforced, 24" x 12 ft (Menards Denver Block + XL Porter Caps; Boulders Dropped 07/10/2026; Material Quote in quotes/suppliers/landscaping-finish/retaining-wall-block-menards.md)
+- Retaining Wall: Hollow Retaining Wall Block with Cap Stones, Porter Color, Geogrid Reinforced, 24" x 12 ft (Menards Denver Block + XL Porter Caps; Boulders Dropped 07/10/2026; RFQ-108 Material Quoted at Menards and RFQ-109 Install Quoted by Darrell's Excavating, Both 07/10/2026)
   - Determined from Plot Plan by Take-Off Estimator
 - Primary Driveway (2-Car-Wide)
   - Rough
