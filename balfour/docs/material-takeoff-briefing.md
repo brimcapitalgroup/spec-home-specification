@@ -193,7 +193,7 @@ Apply and document waste percentages. Suggested factors (or propose your standar
 - [ ] Pea stone - CY (Porch)
 - [ ] Pea stone - CY (Basement)
 - [ ] 6A Round stone - CY (French Drain System)
-- [ ] Boulder - CY (Retaining Walls per plot plan)
+- [ ] Retaining wall block system, Porter (hollow block + caps + geogrid; boulders dropped 07/10/2026)
 
 **Specifications:**
 
@@ -205,7 +205,7 @@ Apply and document waste percentages. Suggested factors (or propose your standar
 | Porch | Pea stone | Under slab |
 | Basement | Pea stone | Under slab |
 | French Drain System | 6A Round stone | Around pipe |
-| Retaining Walls | Boulder | Per plot plan - engineering spec |
+| Retaining Walls | Hollow retaining wall block, Porter, with caps and geogrid | 24" x 12 ft; Menards material quote 07/10/2026 |
 
 ---
 

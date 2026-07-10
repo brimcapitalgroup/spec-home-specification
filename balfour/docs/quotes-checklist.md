@@ -114,7 +114,7 @@ Comprehensive tracking for all contractor and supplier quotes.
 | Supplier | Quote Received | Scope Notes |
 |----------|----------------|-------------|
 | [ ] Concrete Supplier | | All concrete by location/PSI, reinforcement |
-| [ ] Stone Supplier | | 1x3, 21AA, pea stone, 6A, boulder |
+| [ ] Stone Supplier | | 1x3, 21AA, pea stone, 6A |
 | [ ] Steel Supplier | | I-beams, stanchion posts, brick headers |
 | [ ] Lumber Supplier | | Framing, deck, trim, molding, hardware |
 

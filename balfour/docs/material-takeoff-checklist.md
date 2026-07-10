@@ -61,7 +61,7 @@
 - [ ] Pea stone - CY (Porch)
 - [ ] Pea stone - CY (Basement)
 - [ ] 6A Round stone - CY (French Drain)
-- [ ] Boulder - CY (Retaining Walls)
+- [ ] Retaining wall block, caps, geogrid, base, drainage stone (hollow block wall 24" x 12 ft, Porter; boulders dropped 07/10/2026)
 
 **Notes:** _________________________________________________________________
 
