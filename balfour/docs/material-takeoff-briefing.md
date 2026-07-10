@@ -434,7 +434,7 @@ Apply and document waste percentages. Suggested factors (or propose your standar
 
 | Door | Specification |
 |------|--------------|
-| Front Door | Therma-Tru wood-grain French entry door, full-height custom decorative glass (mix of privacy and clear) with integrated metalwork, astragal between panels, wood grain texture unfinished (to be stained American Walnut) |
+| Front Door | doors.com Prestige Entries solid mahogany TDL French double doors, 4-lite insulated beveled glass, owner-purchased, unfinished (stained American Walnut on site) |
 | Garage to Mudroom | Fiberglass, fireproof, 2-panel shaker style |
 | Garage Doors | Per design spec (see Garage Doors section) |
 
@@ -475,7 +475,7 @@ Rev-01 now carries **handing (LH/RH)**; **in/out swing direction is still NOT sp
 | Interior — Basement, Workout | dbl 26-68 | Double French, 9-lite beveled glass, ball catches | LH | 1 pr |
 | Interior — Basement, Mech/Storage | dbl 30-68 | Double French, with astragal | LH | 1 pr |
 | Exterior — Garage entry | 3'0"x8'0" (30-80) | Fiberglass fire-rated, 2-panel shaker, self-closing | RH | 1 |
-| Exterior — Front entry | dbl 30-80 | Therma-Tru fiberglass French entry (decorative glass, astragal) | — | 1 pr |
+| Exterior — Front entry | dbl 30-80 | doors.com solid mahogany TDL French entry, 4-lite beveled glass (owner-purchased) | — | 1 pr |
 | Exterior — Basement rear (walkout) | 30-68 triple | 3-panel sliding doorwall | — | 1 |
 
 > **Door-swing gap resolution:** The Rev-01 take-off now supplies **handing (LH/RH)** for every interior swing door (previously a gap). The remaining open item is **in/out swing direction**, which Rev-01 does not state — confirm before ordering prehung units.

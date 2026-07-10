@@ -1355,13 +1355,17 @@
     - All Swing and French Style Doors: Ball Bearing Black Hinges
     - All Swing and French Style Doors: Factory Back-Beveled Latch Edge
   - Exterior
-    - Front Door: Therma-Tru Classic Craft Fiberglass French Entry Double Door (CCM8981D)
-      - 3/4-Length Lucerna Decorative Glass in Black Nickel with One Bottom Panel per Leaf (Full-Length Glass Is Not Offered in 8' Doors), Black Nickel Hardware (RFQ-84)
-      - Mahogany Wood Grain Texture (Walnut Grain Is Not Offered with Glass), Unfinished, Stained American Walnut On Site (Under Paint and Stain)
-      - Fir Grained Astragal Between the Leaves (Grained Astragals Come Only in Fir or Oak)
-      - Woodgrain Dura-Tech Frame and Jamb, 6-9/16" (Matches the Mahogany Grain for Staining)
-      - Active Leaf: Left, Viewed from the Exterior; the Passive Leaf Is Not Bored for a Lockset and Carries Only the Deadbolt and Latch Strike Preps
-    - Garage to Mudroom: Fiberglass, 20-Minute Fire Rated, 2-Panel Shaker Style (SSF8120), with Deadbolt Prep for the Smart Touchscreen Lock
+    - Front Door: doors.com Prestige Entries 7221-2-80, Solid Mahogany Wood TDL French Double Door (Owner-Purchased 07/10/2026)
+      - 72" x 96" (Two 36" Leaves), Pre-Hung, Fits the 75" x 98" Rough Opening
+      - 4-Lite True Divided Lite Insulated Tempered Beveled Clear Glass over One Raised Panel per Leaf
+      - 6-5/8" Mahogany Jambs; Bronze Hinges; Black/Bronze Sill
+      - Active Leaf: Left, Viewed from the Exterior (Left Hand Inswing); Handle and Deadbolt Prep, 2-3/8" Backset
+      - Unfinished; Stained American Walnut On Site (Under Paint and Stain)
+      - No Factory Brickmould or Casing; the Trim Carpenter Provides Both
+    - Garage to Mudroom: Steves & Sons 36" x 80" Single Prehung Composite Door, 20-Minute Fire Rated, House to Garage (Owner-Purchased at Home Depot 07/10/2026)
+      - 2-Panel Square Top, Primed, Right Hand Inswing, Nickel Hinges
+      - Home Depot Internet #337035169, Model SIP0000030405; $567.20 Delivered
+      - Gets the Smart Touchscreen Deadbolt Like Every Exterior Door
     - Garage Doors: Per Design Spec
   - Interior
     - All Interior Swing Doors: Hollow Core Wood, 2-Panel Shaker Style
