@@ -105,10 +105,10 @@
 
 ### Masonry
 
-- [ ] Queen-size brick count (EA)
+- [ ] Acme Oyster Bay king-size brick count (EA)
 - [ ] Weep holes (EA)
 - [ ] Wall ties (EA)
-- [ ] Mortar bags (EA): light-sand mortar (queen-size limewash brick)
+- [ ] Mortar bags (EA): light-sand mortar (Acme Oyster Bay king-size brick)
 - [ ] Foundation block 8x16 (EA) - on foundation/basement walls
 - [ ] Lintels (EA/LF)
 - [ ] Affinity Stone veneer (Ridge Cut Series, Yukon) - SF (screw-on panel system; material RFQ-72, install RFQ-74)

@@ -125,7 +125,7 @@ Apply and document waste percentages. Suggested factors (or propose your standar
 
 | Category | Line Items Required |
 |----------|---------------------|
-| Masonry | Queen-size brick count, weep holes, wall ties, mortar bags, 8x16 foundation block count (on foundation/basement walls), lintels, Affinity Stone veneer (Ridge Cut, Yukon) SF |
+| Masonry | Acme Oyster Bay king-size brick count, weep holes, wall ties, mortar bags, 8x16 foundation block count (on foundation/basement walls), lintels, Affinity Stone veneer (Ridge Cut, Yukon) SF |
 | Framing | Board feet by dimension (2x4, 2x6, 2x10, etc.), sheet count (OSB/plywood), joist hangers, hurricane ties, LVL beams, rim board, SF of Tyvek/house wrap |
 | Deck | Trex composite decking SF/LF, joists, ledger board, posts, post bases, lag bolts, joist hangers, deck screws, under-deck waterproof gutter/drainage system components |
 | Steel | I-beam LF by size, stanchion posts count, base plates, brick headers LF |
@@ -272,7 +272,7 @@ Apply and document waste percentages. Suggested factors (or propose your standar
 ### Masonry
 
 **Expected Line Items:**
-- [ ] Queen-size brick count (EA)
+- [ ] Acme Oyster Bay king-size brick count (EA)
 - [ ] Weep holes (EA)
 - [ ] Wall ties (EA)
 - [ ] Mortar bags (EA): light-sand mortar (brick)
@@ -282,12 +282,12 @@ Apply and document waste percentages. Suggested factors (or propose your standar
 - [ ] Lintels (EA/LF)
 
 **Specifications:**
-- Queen-size brick install per design spec: factory limewash finish, set in light-sand mortar
+- Acme Oyster Bay king-size brick install per design spec: Heritage texture (blend OKP919), set in light-sand mortar
 - Exterior stone veneer facade per design spec: Affinity Stone, Ridge Cut Series, Yukon (engineered concrete stone); screw-on panel system per the manufacturer's spec (no lath, no mortar bed, no grout); self-sealing waterproof membrane behind; finished corners/returns; both chimneys fully stone-clad all sides; material RFQ-72, install RFQ-74
-- Queen-size brick and Affinity Stone materials included
+- Acme Oyster Bay king-size brick and Affinity Stone materials included
 - 8x16 standard block on foundation/basement walls per plans
 - All brick pattern: 50/50 brick pattern (running bond)
-- Brick: gentle clean per the limewash manufacturer, then sealed with a breathable masonry sealer; Affinity Stone: cleaned per the manufacturer's guidance, manufacturer-approved sealer if recommended (no acid wash unless the manufacturer approves); slate: acid cleaned and sealed after install
+- Brick: cleaned per Acme guidance for the Heritage texture, then sealed with a breathable masonry sealer; Affinity Stone: cleaned per the manufacturer's guidance, manufacturer-approved sealer if recommended (no acid wash unless the manufacturer approves); slate: acid cleaned and sealed after install
 - Framed chimney chase: Affinity Stone (Ridge Cut, Yukon) screw-on panel system per the manufacturer's spec
 
 ---

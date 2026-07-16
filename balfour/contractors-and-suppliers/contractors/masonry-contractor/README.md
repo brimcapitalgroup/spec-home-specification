@@ -3,14 +3,14 @@
 **Related Suppliers:** [Stone Supplier](../../suppliers/stone-supplier/README.md)
 
 - 1-Year Labor Warranty from Date Home Becomes Occupied
-- Brick: Queen-Size, Factory Limewash Finish, Light-Sand Mortar
+- Brick: Acme Oyster Bay, King-Size, Heritage Texture (Blend OKP919), Light-Sand Mortar
 - All Brick Pattern: 50/50 Brick Pattern (Running Bond)
 - Exterior Stone: Affinity Stone, Ridge Cut Series, Yukon (Engineered Concrete Stone Veneer)
   - Screw-On Panel System per the Manufacturer's Spec (No Lath, No Mortar Bed, No Grout)
   - Self-Sealing Waterproof Membrane Behind the Stone
   - Finished Corners and Returns; Both Chimneys Fully Stone-Clad All Sides
   - Quoted Separately: Material RFQ-72, Install RFQ-74
-- Brick: Gentle Clean per the Limewash Manufacturer, Then Sealed with a Breathable Masonry Sealer (No Acid Wash on Limewashed Brick)
+- Brick: Cleaned per the Acme Brick Cleaning Guidance for the Heritage Texture, Then Sealed with a Breathable Masonry Sealer
 - Affinity Stone: Cleaned per the Manufacturer's Guidance; Manufacturer-Approved Sealer if Recommended (No Acid Wash Unless the Manufacturer Approves)
 - Montauk Black Slate: Acid Cleaned and Sealed After Install
 - Framed Chimney Chase: Affinity Stone (Ridge Cut, Yukon) Screw-On Panel System per the Manufacturer's Spec (Install RFQ-74)
@@ -24,7 +24,7 @@
 - Cleaning
 - Masonry
   - Exterior
-    - Queen-Size Factory Limewash Brick Install (Light-Sand Mortar)
-    - Queen-Size Factory Limewash Brick and Materials
+    - Acme Oyster Bay King-Size Brick Install (Light-Sand Mortar)
+    - Acme Oyster Bay King-Size Brick and Materials
     - Affinity Stone (Ridge Cut, Yukon) Veneer Facade Install: Screw-On Panel System (Quoted Separately as RFQ-74)
     - Affinity Stone (Ridge Cut, Yukon) Veneer Facade Materials (Quoted Separately as RFQ-72)
