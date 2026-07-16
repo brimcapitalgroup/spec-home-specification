@@ -10,7 +10,6 @@
   - LVL Requirements: Estimator to Identify Where Needed and Specify if Engineering Required
 - Deck
   - Trex Composite Decking Material
-  - Waterproof Deck Gutter System with Downspouts (under-deck drainage system on the deck above the walkout; routes rainwater to gutters/downspouts so the patio below stays dry)
   - Deck Stain and Sealer (Estimator to Calculate Quantities) [CONFIRM: deck material changed to Trex composite; deck staining still in scope?]
   - Ceiling Above Deck: Hardie Board (Installed by Siding Contractor) [CONFIRM: siding changed to vinyl; deck ceiling still Hardie?]
 - Trim and Molding (Finish Trim Materials — see RFQ-26 Interior Trim, Molding & Stair Materials; framing lumber is RFQ-75)

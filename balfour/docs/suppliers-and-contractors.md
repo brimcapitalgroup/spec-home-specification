@@ -712,7 +712,7 @@
 - Screw Down Flooring
 - No Drop Flooring
 - Install Blocking for All Handrails, Towel Holders, and Bathroom Toilet Paper Holders
-- Deck Install: Deck Built and Trex-Clad (RFQ-89) (Trex Composite Decking; Includes Under-Deck Drainage System Routing Rainwater to Gutters/Downspouts So the Walkout Patio Below Stays Dry)
+- Deck Install: Deck Built and Trex-Clad (RFQ-89) (Trex Composite Decking)
 - Chimney Chases: Framed and Sheathed, Ready for Stone (RFQ-89)
 - Mudroom and Walkout Step-Out Landings (RFQ-89)
 - Red Tag Corrections Included (RFQ-89)
@@ -1116,7 +1116,6 @@
   - LVL Requirements: Estimator to Identify Where Needed and Specify if Engineering Required
 - Deck
   - Trex Composite Decking Material
-  - Waterproof Deck Gutter System with Downspouts (Under-Deck Drainage: routes rainwater from the deck above the walkout to gutters/downspouts so the patio below stays dry)
   - Deck Stain and Sealer (Estimator to Calculate Quantities) [CONFIRM: deck now Trex composite — does deck stain/seal still apply?]
   - Ceiling Above Deck: Hardie Board (Installed by Siding Contractor) [CONFIRM: siding changed to vinyl; deck ceiling still Hardie?]
 - Trim and Molding (Finish Trim Materials — see RFQ-26 Interior Trim, Molding & Stair Materials; framing lumber is RFQ-75)

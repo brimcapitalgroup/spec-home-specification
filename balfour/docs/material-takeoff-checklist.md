@@ -151,7 +151,6 @@
 - [ ] Lag bolts - count
 - [ ] Joist hangers - count
 - [ ] Deck screws - lbs
-- [ ] Under-deck waterproof gutter/drainage system components
 - [ ] Deck stain and sealer - gallons [CONFIRM: deck now Trex composite — does deck stain/seal still apply?]
 
 **Notes:** _________________________________________________________________

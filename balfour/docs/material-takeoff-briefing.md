@@ -127,7 +127,7 @@ Apply and document waste percentages. Suggested factors (or propose your standar
 |----------|---------------------|
 | Masonry | Acme Oyster Bay king-size brick count, weep holes, wall ties, mortar bags, 8x16 foundation block count (on foundation/basement walls), lintels, Affinity Stone veneer (Ridge Cut, Yukon) SF |
 | Framing | Board feet by dimension (2x4, 2x6, 2x10, etc.), sheet count (OSB/plywood), joist hangers, hurricane ties, LVL beams, rim board, SF of Tyvek/house wrap |
-| Deck | Trex composite decking SF/LF, joists, ledger board, posts, post bases, lag bolts, joist hangers, deck screws, under-deck waterproof gutter/drainage system components |
+| Deck | Trex composite decking SF/LF, joists, ledger board, posts, post bases, lag bolts, joist hangers, deck screws |
 | Steel | I-beam LF by size, stanchion posts count, base plates, brick headers LF |
 | Concrete | Cubic yards by pour location, SF of wire mesh, LF of rebar by size (#4), SF of vapor barrier, SF of foam insulation, gallons of stain/sealer |
 | Stone/Aggregate | Cubic yards by type (1x3, 21AA, pea stone, 6A) by location |
@@ -331,12 +331,10 @@ Apply and document waste percentages. Suggested factors (or propose your standar
 - [ ] Lag bolts - count
 - [ ] Joist hangers - count
 - [ ] Deck screws - lbs
-- [ ] Under-deck waterproof gutter/drainage system - components
 - [ ] Deck stain and sealer - gallons [CONFIRM: deck now Trex composite — does deck stain/seal still apply?]
 
 **Specifications:**
 - Trex composite decking material
-- Waterproof deck gutter system with downspouts (under-deck drainage: routes rainwater from the deck above the walkout to gutters/downspouts so the patio below stays dry)
 - Deck stain and sealer (estimator to calculate quantities) [CONFIRM: deck now Trex composite — does deck stain/seal still apply?]
 - Ceiling above deck: Hardie Board (see Siding section) [CONFIRM: siding changed to vinyl; deck ceiling still Hardie?]
 
