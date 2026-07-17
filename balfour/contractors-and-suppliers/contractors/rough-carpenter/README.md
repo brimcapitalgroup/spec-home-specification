@@ -1,5 +1,7 @@
 # Rough Carpenter (Framing)
 
+- Deck Railing: Black Aluminum, 36" Min Height, Spindles at 4" O.C. Max; Installed by the Rough Carpenter (Material by Others). The Porch and Entry Stair Railing Is Installed by the Finish Carpenter
+
 **Related Suppliers:** [Lumber Supplier](../../suppliers/lumber-supplier/README.md), [Steel Supplier](../../suppliers/steel-supplier/README.md)
 
 - 1-Year Labor Warranty from Date Home Becomes Occupied
