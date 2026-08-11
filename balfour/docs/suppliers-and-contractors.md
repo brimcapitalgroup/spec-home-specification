@@ -789,8 +789,8 @@
   - Basement Open Area and Bar
     - Wood Plank Look Porcelain Tile
   - All Showers: Full Porcelain Tile on Floor, Walls, Niche, and Ceiling
-    - Exclusions: Grade-E Brazilian Exotic Granite Shower Door Thresholds, Shower Benches, Niche Base, and Niche Mid Shelves
-- Grade-E Brazilian Exotic Granite Shower Components: Installed by Tile Contractor
+    - Exclusions: 2cm Quartz Shower Door Thresholds, Shower Benches, Niche Base, and Niche Mid Shelves
+- 2cm Quartz Shower Components: Installed by Tile Contractor
   - Shower Door Thresholds
   - Shower Benches
   - Shower Niche Base and Mid Shelves
@@ -849,17 +849,18 @@
 
 **Related Contractors:** [Finish Carpenter](#finish-carpenter)
 
-- All Cabinets: Shaker-Style (Including Basement Wet Bar); Quoted at Two Tiers, Builder Grade and Semi-Custom (RFQ-107)
+- All Cabinets: Quality Signature in the Levin Door Style (Including Basement Wet Bar), Supplemented with KraftMaid Vantage (Lyndale) Where Quality Signature Cannot Cover an Item; Full Overlay, 5-Piece Drawer Fronts, Half-Inch Dovetail Boxes, Full-Extension Soft-Close, Soft-Close Hinges, Shoe Molding in Every Room; Accepted Quote 07/29/2026 (RFQ-107)
+  - The Previously Selected Bosley/Bates Door Style Was Dropped: Quality Signature Does Not Offer It in Hickory, and Hickory Is Excluded from the 18% Levin Discount
 - Species and Finish by Room
-  - Kitchen Island: Natural Hickory
-  - Powder Room: Natural Hickory Floating Vanity
-  - Mudroom: Natural Hickory Bench with a Hickory Top Sitting Rest
-  - Rest of Kitchen and Laundry: Maple, Off-White
-  - All Full Bathrooms (Powder Room Excluded): Cherry Wood, Shaker-Style, Stained Dark-Mocha at Edges Fading to Light-Espresso at Center (Not Red Cherry)
-  - Basement Wet Bar: Maple, Off-White
-  - Pewter Glaze Option on All the Off-White Maple Rooms (Kitchen Perimeter, Laundry, Basement Bar): Priced With and Without, Decision Pending the RFQ-107 Pricing
+  - Kitchen Island: Natural Hickory (Hickory Clear)
+  - Powder Room: Natural Hickory Floating Vanity (Hickory Clear)
+  - Mudroom: Natural Hickory Bench (Hickory Clear) with a Traditional Solid Wood Top Sitting Rest
+  - Rest of Kitchen and Laundry: Evercore Painted, Dove White (Off-White)
+  - All Full Bathrooms (Powder Room Excluded): Cherry, Mocha Stain, Dark-Mocha at Edges Fading to Light-Espresso at Center (Not Red Cherry)
+  - Basement Wet Bar: Evercore Painted, Dove White (Off-White), with Hickory Clear Floating Shelves
+  - Pewter Glaze: Not Taken. The Off-White Rooms (Kitchen Perimeter, Laundry, Basement Bar) Are Evercore Painted, Dove White; the Accepted 07/29/2026 Quote Carries No Glaze
 - Design and Supply Quoted via RFQ-107 (Carter Lumber, Kimberly Hunley, 07/08/2026); Install Priced as an Option in the Same Quote
-- Countertop Design in RFQ-107 for the Stone Company Handoff: Pencil Edge (Square, Smallest Bevel), Rounded Anti Chip Edge at the Sink Cutouts; Countertop Supply by Others
+- Countertop Design in RFQ-107 for the Stone Company Handoff: Pencil Edge (Square, Smallest Bevel), Rounded Anti Chip Edge at the Sink Cutouts; Countertop Supply Is Not in the Cabinet Quote. Carter Shopped the Tops to Two Fabricators and Quoted Them Separately 08/03/2026: Counter Solutions Accepted at $17,487.40 in Quartz, Not Granite
 - Cabinet Pulls
   - Selection to be completed
 - Install
@@ -905,10 +906,14 @@
 
 **Related Contractors:** [Tile Contractor](#tile-contractor)
 
-- All Granite: Grade-E Brazilian Exotic Granite (Most Premium Tier)
+- All Counters Are Quartz, Not Granite: Two Stones, Fabricated by Counter Solutions (Quoted Through Carter Lumber 08/03/2026, $17,487.40 Accepted)
+  - Group A, White Quartz "Italian Waves": Kitchen Perimeter, Basement Bar, Laundry, and the Three Full Bathrooms (Master, Jack and Jill, Basement)
+  - Group B, Dark Quartz "Charcoal Peak": Kitchen Island and Powder Bathroom
+  - Shower and Bath Components (Benches, Sills, Thresholds, Curbs, Niche Base and Shelves, Tub Seat): 2cm Quartz, Set by the Tile Contractor
+  - Edges: Pencil Edge (Square, Smallest Bevel) Throughout, Rounded Anti Chip Edge at the Kitchen, Laundry and Basement Bar Sink Cutouts
 - Kitchen
-  - Cabinet Counters
-  - Island
+  - Cabinet Counters: Italian Waves White Quartz
+  - Island: Charcoal Peak Dark Quartz
 - Powder Bathroom
   - Vanity
   - Backsplash
@@ -943,15 +948,15 @@
   - Basement Bar
     - Travertine
   - Powder Bathroom
-    - Grade-E Brazilian Exotic Granite
+    - Charcoal Peak Dark Quartz (Matches the Vanity)
   - Laundry Room
-    - Grade-E Brazilian Exotic Granite
+    - Italian Waves White Quartz (Matches the Counter)
   - Jack and Jill Bathroom
-    - Grade-E Brazilian Exotic Granite
+    - Italian Waves White Quartz (Matches the Vanity)
   - Master Bathroom
-    - Grade-E Brazilian Exotic Granite
+    - Italian Waves White Quartz (Matches the Vanity)
   - Basement Bathroom
-    - Grade-E Brazilian Exotic Granite
+    - Italian Waves White Quartz (Matches the Vanity)
 
 ## Drywall Supplier
 
@@ -1320,7 +1325,7 @@
   - Basement Open Area and Bar
     - Wood Plank Look Porcelain Tile
   - All Showers: Full Porcelain Tile on Floor, Walls, Niche, and Ceiling
-- Grade-E Brazilian Exotic Granite Shower Components
+- 2cm Quartz Shower Components
   - Shower Door Thresholds
   - Shower Benches
   - Shower Niche Base and Mid Shelves

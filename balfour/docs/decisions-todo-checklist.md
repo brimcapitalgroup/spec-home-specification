@@ -79,9 +79,9 @@ All pending decisions, selections, and specifications that need to be completed 
 
 | Item | Notes |
 |------|-------|
-| Kitchen countertop material/color | Locations defined, no material |
-| Bathroom vanity countertop material/color | Grade-E Brazilian Exotic Granite backsplash noted, no counter material |
-| Basement bar countertop material/color | No material specified |
+| Kitchen countertop material/color | DECIDED 08/10/2026: quartz, Italian Waves (white) on the perimeter and Charcoal Peak (dark) on the island; Counter Solutions fabricating, quoted through Carter Lumber 08/03/2026 |
+| Bathroom vanity countertop material/color | DECIDED 08/10/2026: Italian Waves white quartz in the master, Jack and Jill and basement baths; Charcoal Peak dark quartz in the powder bath; backsplashes match the counter |
+| Basement bar countertop material/color | DECIDED 08/10/2026: Italian Waves white quartz (travertine backsplash unchanged) |
 
 ### Fireplaces
 

@@ -17,7 +17,7 @@
   - Basement Open Area and Bar
     - Wood Plank Look Porcelain Tile
   - All Showers: Full Porcelain Tile on Floor, Walls, Niche, and Ceiling
-- Grade-E Brazilian Exotic Granite Shower Components
+- 2cm Quartz Shower Components
   - Shower Door Thresholds
   - Shower Benches
   - Shower Niche Base and Mid Shelves

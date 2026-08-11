@@ -2,10 +2,14 @@
 
 **Related Contractors:** [Tile Contractor](../../contractors/tile-contractor/README.md)
 
-- All Granite: Grade-E Brazilian Exotic Granite (Most Premium Tier)
+- All Counters Are Quartz, Not Granite: Two Stones, Fabricated by Counter Solutions (Quoted Through Carter Lumber 08/03/2026, $17,487.40 Accepted)
+  - Group A, White Quartz "Italian Waves": Kitchen Perimeter, Basement Wet Bar, Laundry, and the Three Full Bathrooms (Master, Jack and Jill, Basement)
+  - Group B, Dark Quartz "Charcoal Peak": Kitchen Island and Powder Bathroom
+  - Shower and Bath Components (Benches, Sills, Thresholds, Curbs, Niche Base and Shelves, Tub Seat): 2cm Quartz, Set by the Tile Contractor
+  - Edges: Pencil Edge (Square, Smallest Bevel) Throughout, Rounded Anti Chip Edge at the Kitchen, Laundry and Basement Bar Sink Cutouts
 - Kitchen
-  - Cabinet Counters
-  - Island
+  - Cabinet Counters: Italian Waves White Quartz
+  - Island: Charcoal Peak Dark Quartz
 - Powder Bathroom
   - Vanity
   - Backsplash
@@ -40,12 +44,12 @@
   - Basement Wet Bar
     - Travertine
   - Powder Bathroom
-    - Grade-E Brazilian Exotic Granite
+    - Charcoal Peak Dark Quartz (Matches the Vanity)
   - Laundry Room
-    - Grade-E Brazilian Exotic Granite
+    - Italian Waves White Quartz (Matches the Counter)
   - Jack and Jill Bathroom
-    - Grade-E Brazilian Exotic Granite
+    - Italian Waves White Quartz (Matches the Vanity)
   - Master Bathroom
-    - Grade-E Brazilian Exotic Granite
+    - Italian Waves White Quartz (Matches the Vanity)
   - Basement Bathroom
-    - Grade-E Brazilian Exotic Granite
+    - Italian Waves White Quartz (Matches the Vanity)

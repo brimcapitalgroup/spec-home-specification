@@ -708,7 +708,7 @@ Rev-01 now carries **handing (LH/RH)**; **in/out swing direction is still NOT sp
 - Closet by mudroom
 - Basement open area and bar (wood plank look porcelain tile)
 - All showers: Full porcelain tile on floor, walls, niche, and ceiling
-  - Exclusions: Grade-E Brazilian Exotic Granite shower door thresholds, shower benches, niche base, and niche mid shelves (handled separately)
+  - Exclusions: 2cm quartz shower door thresholds, shower benches, niche base, and niche mid shelves (handled separately)
 
 ---
 
