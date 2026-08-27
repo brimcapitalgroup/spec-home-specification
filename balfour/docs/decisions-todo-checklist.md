@@ -42,7 +42,7 @@ All pending decisions, selections, and specifications that need to be completed 
 | Item | Notes |
 |------|-------|
 | Carpet brand/style/color | Locations defined, material not selected |
-| Hardwood brand/style/color | 8" engineered wire-brushed white oak (varied grain) specified; confirm brand/source |
+| Hardwood brand/style/color | DECIDED 07/22/2026: 7.5" engineered wire-brushed maple, Malibu Wide Plank Pacifica Maple, T&G; owner purchases at Home Depot (cart 4,147.28 after military discount) |
 | Slate tile source/color | Montauk Black Slate (12 in. x 24 in., natural textured) specified; confirm source/supplier |
 | Porcelain tile brand/style/color | Locations defined, no specific tile |
 | Wood plank porcelain selection | Basement open area - no specific tile |

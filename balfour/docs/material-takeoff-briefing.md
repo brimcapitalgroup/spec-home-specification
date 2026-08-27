@@ -125,9 +125,9 @@ Apply and document waste percentages. Suggested factors (or propose your standar
 
 | Category | Line Items Required |
 |----------|---------------------|
-| Masonry | Acme Oyster Bay king-size brick count, weep holes, wall ties, mortar bags, 8x16 foundation block count (on foundation/basement walls), lintels, Affinity Stone veneer (Ridge Cut, Yukon) SF |
+| Masonry | Acme Oyster Bay king-size brick count, chimney thin brick SF (sides and rear above the roofline; full brick face off the brick count), additional chimney sand and mortar, weep holes, wall ties, mortar bags, 8x16 foundation block count (on foundation/basement walls), lintels |
 | Framing | Board feet by dimension (2x4, 2x6, 2x10, etc.), sheet count (OSB/plywood), joist hangers, hurricane ties, LVL beams, rim board, SF of Tyvek/house wrap |
-| Deck | Trex composite decking SF/LF, joists, ledger board, posts, post bases, lag bolts, joist hangers, deck screws |
+| Deck | TimberTech composite decking SF/LF (Prime Plus Dark Cocoa), matching fascia LF, hidden fasteners, joists, ledger board, posts, post bases, lag bolts, joist hangers, deck screws |
 | Steel | I-beam LF by size, stanchion posts count, base plates, brick headers LF |
 | Concrete | Cubic yards by pour location, SF of wire mesh, LF of rebar by size (#4), SF of vapor barrier, SF of foam insulation, gallons of stain/sealer |
 | Stone/Aggregate | Cubic yards by type (1x3, 21AA, pea stone, 6A) by location |
@@ -277,18 +277,17 @@ Apply and document waste percentages. Suggested factors (or propose your standar
 - [ ] Wall ties (EA)
 - [ ] Mortar bags (EA): light-sand mortar (brick)
 - [ ] Foundation block 8x16 (EA) - on foundation/basement walls per plans
-- [ ] Affinity Stone veneer (Ridge Cut Series, Yukon) - SF
-- [ ] Affinity Stone facade system materials (self-sealing waterproof membrane, fasteners, finished corners/returns)
+- [ ] Chimney thin brick (sides and rear above the roofline) - SF
+- [ ] Additional chimney sand and mortar (bags) for the thin-brick veneer
 - [ ] Lintels (EA/LF)
 
 **Specifications:**
 - Acme Oyster Bay king-size brick install per design spec: Heritage texture (blend OKP919), set in light-sand mortar
-- Exterior stone veneer facade per design spec: Affinity Stone, Ridge Cut Series, Yukon (engineered concrete stone); screw-on panel system per the manufacturer's spec (no lath, no mortar bed, no grout); self-sealing waterproof membrane behind; finished corners/returns; both chimneys fully stone-clad all sides; material RFQ-72, install RFQ-74
-- Acme Oyster Bay king-size brick and Affinity Stone materials included
+- Chimney cladding per design spec: both chimneys brick-clad, full Oyster Bay brick on the face and matching thin brick on the sides and rear above the roofline (weight-conscious veneer over the framed chases), set in the same light-sand mortar; replaced the Affinity engineered stone veneer per owner 07/22/2026 (RFQ-72/74 closed)
+- Acme Oyster Bay king-size brick and chimney thin brick materials included (plus additional sand and mortar)
 - 8x16 standard block on foundation/basement walls per plans
 - All brick pattern: 50/50 brick pattern (running bond)
-- Brick: cleaned per Acme guidance for the Heritage texture, then sealed with a breathable masonry sealer; Affinity Stone: cleaned per the manufacturer's guidance, manufacturer-approved sealer if recommended (no acid wash unless the manufacturer approves); slate: acid cleaned and sealed after install
-- Framed chimney chase: Affinity Stone (Ridge Cut, Yukon) screw-on panel system per the manufacturer's spec
+- Brick: cleaned per Acme guidance for the Heritage texture, then sealed with a breathable masonry sealer; slate: acid cleaned and sealed after install
 
 ---
 
@@ -323,7 +322,9 @@ Apply and document waste percentages. Suggested factors (or propose your standar
 ### Deck
 
 **Expected Line Items:**
-- [ ] Trex composite decking - SF/LF
+- [ ] TimberTech composite decking, Prime Plus Dark Cocoa (grooved and square-shoulder boards) - SF/LF
+- [ ] Matching deck fascia - LF
+- [ ] Cortex hidden fasteners and starter clips - per manufacturer
 - [ ] Deck joists - count/LF
 - [ ] Ledger board - LF
 - [ ] Deck posts - count
@@ -331,11 +332,12 @@ Apply and document waste percentages. Suggested factors (or propose your standar
 - [ ] Lag bolts - count
 - [ ] Joist hangers - count
 - [ ] Deck screws - lbs
-- [ ] Deck stain and sealer - gallons [CONFIRM: deck now Trex composite — does deck stain/seal still apply?]
 
 **Specifications:**
-- Trex composite decking material
-- Deck stain and sealer (estimator to calculate quantities) [CONFIRM: deck now Trex composite — does deck stain/seal still apply?]
+- TimberTech composite decking, Prime Plus Collection, Dark Cocoa (was Trex per owner 07/22/2026; Carter quote 23600082772 material 3,599.09 delivered incl tax)
+- Westbury C10 level rail, textured black, 36 in min height, spindles 4 in o.c. max, covers deck, covered porch, and entry steps (same Carter quote, railing portion 2,885.06 delivered incl tax; owner-supplied to the carpenters who install it)
+- Manhattan Natural Oak column wraps, 6 pcs 7 in x 10 ft plus 12 matching cap and base trims (Carter quote 23600082770, 2,396.50 delivered; installed by the finish carpenter)
+- No deck stain or sealer (composite decking)
 - Ceiling above deck: Hardie Board (see Siding section) [CONFIRM: siding changed to vinyl; deck ceiling still Hardie?]
 
 ---
@@ -508,11 +510,11 @@ Rev-01 now carries **handing (LH/RH)**; **in/out swing direction is still NOT sp
 - Deck ceiling: Hardie Board [CONFIRM: siding changed to vinyl; deck ceiling still Hardie?]
 
 **Aluminum:**
-- All aluminum: Satin White Smooth Finish
-- Roof fascia: Satin White Smooth
-- Garage door opening trim: Satin White Smooth
+- All aluminum: Satin Black Smooth Finish (changed from satin white; matches the spec sheet and RFQ playbook)
+- Roof fascia: Satin Black Smooth
+- Garage door opening trim: Satin Black Smooth
 - Soffit: Vinyl
-- All aluminum vent exits on side of house: Satin White Smooth
+- All aluminum vent exits on side of house: Satin Black Smooth
 
 **Vents:**
 - Vents through brick or stone: Satin Black Paint
@@ -660,13 +662,13 @@ Rev-01 now carries **handing (LH/RH)**; **in/out swing direction is still NOT sp
 ### Hardwood Flooring
 
 **Expected Line Items:**
-- [ ] 8" Engineered wire-brushed white oak (varied grain) - SF by room
+- [ ] 7.5" Engineered wire-brushed maple, Malibu Wide Plank Pacifica Maple, T&G (changed from white oak per owner 07/22/2026) - SF by room
 - [ ] Underlayment - SF
 - [ ] Transition pieces - count
 - [ ] Adhesive/nails - as needed
 
 **Specifications:**
-- 8" Engineered Wire-Brushed White Oak (varied grain)
+- 7.5" Engineered Wire-Brushed Maple, Malibu Wide Plank Pacifica Maple, Tongue and Groove (owner purchases at Home Depot; about 770 SF carted vs 702 SF measured)
 
 **Locations:**
 - Dining area
@@ -821,8 +823,8 @@ Crown molding — **1,068 LF total** (order as 16'ers where possible) `[SELECTIO
 - [ ] Sherwin-Williams Extra White, Semi-Gloss - gallons (all interior trim, doors, window casing, base, crown, poplar stair rails)
 - [ ] Black - gallons (garage doors)
 - [ ] Primer - gallons
-- [ ] American Walnut stain - quarts (front door, garage-window decorative braces, front and rear porch posts — exposed American Walnut hardwood posts)
-- [ ] Deck stain and sealer (natural cedar finish) - gallons [CONFIRM: deck now Trex composite — does deck stain/seal still apply?]
+- [ ] American Walnut stain - quarts (front door, garage-window decorative braces)
+- No deck stain or sealer: decking is TimberTech composite; porch and deck posts use Manhattan Natural Oak post wraps (no field stain)
 
 **Specifications:**
 
@@ -841,10 +843,10 @@ Crown molding — **1,068 LF total** (order as 16'ers where possible) `[SELECTIO
 
 **Exterior Stain (American Walnut, to match front door):**
 - Custom hardwood decorative braces over the garage windows
-- Front and rear porch posts (exposed American Walnut hardwood posts) [CONFIRM: exposed posts vs 12" vinyl post wraps in Siding spec — post-wrap vs exposed-post conflict]
+- No field stain on porch and deck posts: finished in Manhattan Natural Oak post wraps installed by the finish carpenter (Carter quote 23600082770; resolves the exposed-walnut conflict per owner 07/22/2026)
 
 **Deck:**
-- Cedar deck: Stained and sealed to natural cedar finish [CONFIRM: deck now Trex composite — does deck stain/seal still apply?]
+- No deck stain or sealer: decking is TimberTech composite (Prime Plus, Dark Cocoa)
 
 ---
 

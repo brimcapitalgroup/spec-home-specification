@@ -23,8 +23,7 @@
 - Carbon Filter Fittings (Housing and Cartridge Owner-Supplied: Pentair Pentek 150236 Big Blue 20" x 4.5" Housing, 1-1/2" NPT Ports; Aquaboon GAC Cartridge)
   - 1" to 1-1/2" Adapters at the Housing Inlet and Back to 1" at the Outlet
 - Reverse Osmosis Line Fittings (System Owner-Supplied: iSpring RCC7 5-Stage Under-Sink)
-- A.O. Smith Signature 500 75 Gallon Tall Power Direct Vent Natural Gas Water Heater, 76,000 BTU, 6-Year Warranty (Model G6-PDT7576NV, Lowe's Item 816085); Owner-Supplied with the Powered Anode Rod, Plumber Installs Both
-- PVC Power Direct Venting Materials (Intake and Exhaust)
-- Powered Titanium Anode Rod
+- 50 Gallon Power Vent Natural Gas Water Heater, Plumber-Supplied Inside the 28,000 All-In Plumbing Price (Changed from the 75 Gallon A.O. Smith G6-PDT7576NV Owner Purchase per Owner 07/21/2026)
+- PVC Power Venting Materials (Intake and Exhaust)
 - Expansion Tank
 - Hot Water Recirculation Pump (Plumber-Supplied, Not the Supply House)

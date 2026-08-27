@@ -14,7 +14,7 @@
 - Wire Nuts (No Wago or Push-In Connectors)
 - Ceiling Fan Rated Boxes
 - 30 Amp Disconnect Switch
-- Dedicated Circuit with Lug at the Water Heater Location (Power-Vent Blower and Powered Titanium Anode Rod)
+- Dedicated Circuit with Lug at the Water Heater Location (Power-Vent Blower of the Plumber-Supplied 50-Gallon Power Vent Water Heater)
 - Kitchen Under-Cabinet Track Plug System
 - Kitchen Under-Cabinet Lighting
 - Kitchen 6 Recessed Lights

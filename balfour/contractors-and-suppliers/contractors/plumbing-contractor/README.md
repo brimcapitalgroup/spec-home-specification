@@ -40,7 +40,7 @@
   - Gas Dryer: Maytag Bravos XL; Account for 36,000 BTU
   - Gas Range: ZLINE Dual Fuel, 71,000 BTU Total Gas Cooktop
   - Both Fireplaces
-  - A.O. Smith Signature 500 75 Gallon Tall Power Direct Vent Natural Gas Water Heater, 76,000 BTU (Model G6-PDT7576NV)
+  - 50 Gallon Power Vent Natural Gas Water Heater, Plumber-Supplied (Changed from the 75 Gallon A.O. Smith Owner Purchase per Owner 07/21/2026)
   - 100K BTU Gas Furnace
   - 80K BTU Garage Gas Heater
 
@@ -109,9 +109,8 @@
 - Reverse Osmosis (Owner-Supplied): iSpring RCC7 5-Stage Under-Sink System, 75 GPD, Brushed Nickel Faucet
   - Fed by Softener Cold Water Line
   - Serves the Kitchen Sink Drinking Water Spigot, the Basement Bar Drinking Water Spigot, and the Built-In Kitchen Refrigerator (Internal Water and Ice)
-- A.O. Smith Signature 500 75 Gallon Tall Power Direct Vent Natural Gas Water Heater, 76,000 BTU, 6-Year Warranty (Model G6-PDT7576NV, Lowe's Item 816085); Owner-Supplied with the Powered Anode Rod, Plumber Installs Both
-  - PVC Power Direct Venting (Intake and Exhaust)
-  - Powered Titanium Anode Rod (Electrical Provides a Dedicated 120V Circuit with Lug at the Water Heater, Serving the Power-Vent Blower and the Powered Anode)
+- 50 Gallon Power Vent Natural Gas Water Heater, Plumber-Supplied and Installed Inside the 28,000 All-In Plumbing Price (Changed from the 75 Gallon A.O. Smith G6-PDT7576NV Owner Purchase per Owner 07/21/2026)
+  - PVC Power Venting (Intake and Exhaust); Electrical Provides a Dedicated 120V Circuit with Lug at the Water Heater Serving the Power-Vent Blower
   - Valved for Isolation (Zero Downtime Servicing)
   - Hot Water Recirculation Pump (Plumber-Supplied)
     - NPT Port on Feed Line of Loop for Digital Water Temperature Sensor

@@ -13,6 +13,6 @@
 - Interior Stain
   - Front Door: Stained in American Walnut
 - Exterior Stain
-  - Custom Hardwood Decorative Braces (over Garage Windows) and Front and Rear Porch Posts: Stained American Walnut to Match Front Door
-- Deck Stain and Treatment
-  - Cedar Deck: Stained and Sealed to Natural Cedar Finish [CONFIRM: deck material changed to Trex composite; deck staining still in scope?]
+  - Custom Hardwood Decorative Braces (over Garage Windows): Stained American Walnut to Match Front Door
+  - Porch and Deck Posts: No Field Stain; Finished in Manhattan Natural Oak Post Wraps Installed by the Finish Carpenter (Carter Quote 23600082770; Resolves the Exposed-Walnut Conflict per Owner 07/22/2026)
+- No Deck Stain or Sealer: Decking Is TimberTech Composite (Prime Plus, Dark Cocoa)

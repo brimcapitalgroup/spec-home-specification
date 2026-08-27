@@ -16,7 +16,8 @@
 - Stairs (Rev-01): Attic stair unit (HD 10', 30"x54", 300 lb); MDF skirt 2 ea 1x12x16 + cap 1 ea 1x8x16; 16 custom risers + 14 custom treads
 - Closet/Pantry (Rev-01): 19 ea 1x12x16 shelving + 19 ea 1x2x16 cleats + 8 ea 1-3/8"x16' clothes poles [SELECTION: shelving material]
 - Rev-01 Take-Off source: Dan McJunkin, Est. 26-0518-5544-R01
-- Custom hardwood decorative braces (brackets) at the accent roof over the garage windows, per the elevations (Stained American Walnut to Match Front Door — See Paint and Stain)
+- Custom hardwood decorative braces (brackets) at the accent roof over the garage windows, per the elevations (Stained American Walnut to Match Front Door, See Paint and Stain)
+- Installs the Exterior Post Wraps: Manhattan Natural Oak Column Wraps, 6 pcs 7 in x 10 ft plus 12 Matching Cap and Base Trims (Carter Quote 23600082770, Material by Others)
 - Hardware
   - Door Handles
   - Door Stops

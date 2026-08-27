@@ -111,8 +111,8 @@
 - [ ] Mortar bags (EA): light-sand mortar (Acme Oyster Bay king-size brick)
 - [ ] Foundation block 8x16 (EA) - on foundation/basement walls
 - [ ] Lintels (EA/LF)
-- [ ] Affinity Stone veneer (Ridge Cut Series, Yukon) - SF (screw-on panel system; material RFQ-72, install RFQ-74)
-- [ ] Affinity Stone facade system materials (self-sealing waterproof membrane, fasteners, finished corners/returns; per manufacturer spec)
+- [ ] Chimney thin brick (sides and rear above the roofline) - SF (full brick on the face comes off the brick count; replaced Affinity stone per owner 07/22/2026)
+- [ ] Additional chimney sand and mortar (bags) for the thin-brick veneer
 
 **Notes:** _________________________________________________________________
 
@@ -143,7 +143,7 @@
 
 ### Deck
 
-- [ ] Trex composite decking - SF/LF
+- [ ] TimberTech composite decking (Prime Plus Dark Cocoa) - SF/LF
 - [ ] Deck joists - count/LF
 - [ ] Ledger board - LF
 - [ ] Deck posts - count
@@ -151,7 +151,7 @@
 - [ ] Lag bolts - count
 - [ ] Joist hangers - count
 - [ ] Deck screws - lbs
-- [ ] Deck stain and sealer - gallons [CONFIRM: deck now Trex composite — does deck stain/seal still apply?]
+- No deck stain or sealer (TimberTech composite; no field stain on Manhattan Natural Oak post wraps)
 
 **Notes:** _________________________________________________________________
 
@@ -321,11 +321,11 @@
 
 ### Hardwood Flooring
 
-- [ ] 8" Engineered wire-brushed white oak - SF (Dining area)
-- [ ] 8" Engineered wire-brushed white oak - SF (Kitchen and pantry)
-- [ ] 8" Engineered wire-brushed white oak - SF (Great room)
-- [ ] 8" Engineered wire-brushed white oak - SF (Hallway)
-- [ ] 8" Engineered wire-brushed white oak - SF (TOTAL)
+- [ ] 7.5" Engineered wire-brushed maple, Malibu Wide Plank Pacifica Maple, T&G (changed from white oak per owner 07/22/2026) - SF (Dining area)
+- [ ] 7.5" Engineered wire-brushed maple - SF (Kitchen and pantry)
+- [ ] 7.5" Engineered wire-brushed maple - SF (Great room)
+- [ ] 7.5" Engineered wire-brushed maple - SF (Hallway)
+- [ ] 7.5" Engineered wire-brushed maple - SF (TOTAL)
 - [ ] Underlayment - SF
 - [ ] Transition pieces - count
 - [ ] Adhesive/nails

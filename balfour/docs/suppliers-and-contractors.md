@@ -171,7 +171,7 @@
 - 200 Amp Meter with Integrated Disconnect (Exterior Emergency Disconnect per 2025 Code)
   - Service Entrance: Conduit Required from Meter to Home Penetration; Interior Wiring Installed per Code
 - Whole-House Surge Protection: Surge Protective Device (SPD) at the Primary Panel (2025 Code)
-- Dedicated 120V Circuit with Lug at the Water Heater Location Serving the Power-Vent Blower and the Powered Titanium Anode Rod
+- Dedicated 120V Circuit with Lug at the Water Heater Location Serving the Power-Vent Blower of the Plumber-Supplied 50-Gallon Power Vent Natural Gas Water Heater (Changed from the 75-Gallon A.O. Smith Owner Purchase per Owner 07/21/2026)
 - Garage Air Compressor Circuit
   - 1 30 Amp 220V 3-Wire Plug-In Outlet for 5HP Stage Air Compressor
   - 30 Amp Disconnect Switch Controlling the 220V Outlet
@@ -275,6 +275,7 @@
 - Closet/Pantry (Rev-01): 19 ea 1x12x16 shelving + 19 ea 1x2x16 cleats + 8 ea 1-3/8"x16' clothes poles [SELECTION: shelving material]
 - Rev-01 Take-Off source: Dan McJunkin, Est. 26-0518-5544-R01
 - Custom hardwood decorative braces (brackets) at the accent roof over the garage windows, per the elevations
+- Installs the Exterior Post Wraps: Manhattan Natural Oak Column Wraps, 6 pcs 7 in x 10 ft plus 12 Matching Cap and Base Trims (Carter Quote 23600082770, Material by Others)
 - Hardware
   - Door Handles
   - Door Stops
@@ -336,7 +337,7 @@
 **Related Suppliers:** [Hardwood Flooring Supplier](#hardwood-flooring-supplier)
 
 - 1-Year Labor Warranty from Date Home Becomes Occupied
-- 8" Engineered Wire-Brushed White Oak (varied grain)
+- 7.5" Engineered Wire-Brushed Maple, Malibu Wide Plank Pacifica Maple, Tongue and Groove (Changed from White Oak per Owner 07/22/2026; Owner Supplies the Material, See Hardwood Flooring Supplier)
   - Dining Area
   - Kitchen and Pantry
   - Great Room
@@ -505,22 +506,22 @@
 - 1-Year Labor Warranty from Date Home Becomes Occupied
 - All Brick Pattern: 50/50 Brick Pattern (Running Bond)
 - Brick: Acme Oyster Bay, King-Size, Heritage Texture (Blend OKP919), Set in Light-Sand Mortar
-- Exterior Stone: Affinity Stone, Ridge Cut Series, Yukon (Engineered Concrete Stone Veneer)
-  - Screw-On Panel System per the Manufacturer's Spec (No Lath, No Mortar Bed, No Grout)
-  - Self-Sealing Waterproof Membrane Behind the Stone
-  - Finished Corners and Returns; Both Chimneys Fully Stone-Clad All Sides
-  - Quoted Separately: Material RFQ-72, Install RFQ-74
+- Exterior Chimney Cladding: Full Oyster Bay Brick on the Face; Matching Thin Brick on the Sides and Rear Above the Roofline, Set in the Same Light-Sand Mortar (Weight-Conscious Veneer Over the Framed Chases)
+  - Replaced the Affinity Engineered Stone Veneer per Owner 07/22/2026 (Carter Stone Quote 23600082742 Declined; Material RFQ-72 and Install RFQ-74 Closed)
 - Brick: Cleaned per the Acme Brick Cleaning Guidance for the Heritage Texture, Then Sealed with a Breathable Masonry Sealer
-- Affinity Stone: Cleaned per the Manufacturer's Guidance; Manufacturer-Approved Sealer if Recommended (No Acid Wash Unless the Manufacturer Approves)
 - Slate: Acid Cleaned and Sealed After Install
-- Framed Chimney Chase: Affinity Stone (Ridge Cut, Yukon) Screw-On Panel System per the Manufacturer's Spec (Install RFQ-74)
+- Chimneys and Caps
+  - Two Chimneys, Both Brick-Clad: Primary Chimney and Great Room Chimney
+  - Custom Metal Chimney Caps with Functional Vents on Both Chimneys [CONFIRM: metal cap fabrication trade, coordinate with Appliance Supplier "Custom Black Fabricated Chimney Cap"]
+  - Primary Brick-Clad Chimney: Vents Kitchen Range Hood and Basement Fireplace
+  - Great Room Chimney: Decorative Chase (the Vent-Free See-Through / Pass-Through Fireplace Requires No Flue)
 - Cleaning
 - Masonry
   - Exterior
     - Acme Oyster Bay King-Size Brick Install
     - Acme Oyster Bay King-Size Brick and Materials
-    - Affinity Stone (Ridge Cut, Yukon) Veneer Facade Install: Screw-On Panel System (Quoted Separately as RFQ-74)
-    - Affinity Stone (Ridge Cut, Yukon) Veneer Facade Materials (Quoted Separately as RFQ-72)
+    - Chimney Brick and Thin Brick Install (Full Brick on the Face, Thin Brick on the Sides and Rear Above the Roofline)
+    - Chimney Thin Brick Materials (Plus Additional Sand and Mortar)
 
 ## Paint and Stain Contractor
 
@@ -538,9 +539,8 @@
   - Front Door: Stained in American Walnut
 - Exterior Stain (American Walnut, to Match Front Door) [CONFIRM: added per round-2 correction]
   - Custom Hardwood Decorative Braces (Brackets) over the Garage Windows
-  - Front and Rear Porch Posts (Exposed American Walnut Hardwood Posts) [CONFIRM: exposed posts vs 12" vinyl post wraps in Siding spec — post-wrap vs exposed-post conflict]
-- Deck Stain and Treatment
-  - Cedar Deck: Stained and Sealed to Natural Cedar Finish [CONFIRM: deck now Trex composite — does deck stain/seal still apply?]
+  - Porch and Deck Posts: No Field Stain; Finished in Manhattan Natural Oak Post Wraps Installed by the Finish Carpenter (Carter Quote 23600082770; Resolves the Exposed-Walnut Conflict per Owner 07/22/2026)
+- No Deck Stain or Sealer: Decking Is TimberTech Composite (Prime Plus, Dark Cocoa)
 
 ## Permits
 
@@ -593,7 +593,7 @@
   - Gas Dryer: Maytag Bravos XL; Account for 36,000 BTU
   - Gas Range: ZLINE Dual Fuel, 71,000 BTU Total Gas Cooktop
   - Both Fireplaces
-  - A.O. Smith Signature 500 75 Gallon Tall Power Direct Vent Natural Gas Water Heater, 76,000 BTU (Model G6-PDT7576NV)
+  - 50 Gallon Power Vent Natural Gas Water Heater, Plumber-Supplied (Changed from the 75 Gallon A.O. Smith Owner Purchase per Owner 07/21/2026)
   - 100K BTU Gas Furnace
   - 80K BTU Garage Gas Heater
 
@@ -662,9 +662,8 @@
 - Reverse Osmosis (Owner-Supplied): iSpring RCC7 5-Stage Under-Sink System, 75 GPD, Brushed Nickel Faucet
   - Fed by Softener Cold Water Line
   - Serves the Kitchen Sink Drinking Water Spigot, the Basement Bar Drinking Water Spigot, and the Built-In Kitchen Refrigerator (Internal Water and Ice)
-- A.O. Smith Signature 500 75 Gallon Tall Power Direct Vent Natural Gas Water Heater, 76,000 BTU, 6-Year Warranty (Model G6-PDT7576NV, Lowe's Item 816085); Owner-Supplied with the Powered Anode Rod, Plumber Installs Both
-  - PVC Power Direct Venting (Intake and Exhaust)
-  - Powered Titanium Anode Rod (Electrical Provides a Dedicated 120V Circuit with Lug at the Water Heater, Serving the Power-Vent Blower and the Powered Anode)
+- 50 Gallon Power Vent Natural Gas Water Heater, Plumber-Supplied and Installed Inside the 28,000 All-In Plumbing Price (Changed from the 75 Gallon A.O. Smith G6-PDT7576NV Owner Purchase per Owner 07/21/2026)
+  - PVC Power Venting (Intake and Exhaust); Electrical Provides a Dedicated 120V Circuit with Lug at the Water Heater Serving the Power-Vent Blower
   - Valved for Isolation (Zero Downtime Servicing)
   - Hot Water Recirculation Pump (Plumber-Supplied)
     - NPT Port on Feed Line of Loop for Digital Water Temperature Sensor
@@ -712,8 +711,8 @@
 - Screw Down Flooring
 - No Drop Flooring
 - Install Blocking for All Handrails, Towel Holders, and Bathroom Toilet Paper Holders
-- Deck Install: Deck Built and Trex-Clad (RFQ-89) (Trex Composite Decking)
-- Chimney Chases: Framed and Sheathed, Ready for Stone (RFQ-89)
+- Deck Install: Deck Built and TimberTech-Clad, Prime Plus Collection, Dark Cocoa (Was Trex per Owner 07/22/2026; RFQ-89); Installs the Westbury Deck Railing (Owner-Supplied Material)
+- Chimney Chases: Framed and Sheathed, Ready for Brick and Thin Brick Cladding (RFQ-89)
 - Mudroom and Walkout Step-Out Landings (RFQ-89)
 - Red Tag Corrections Included (RFQ-89)
 - Kitchen/Dining Studio Ceiling: Frame the 12-ft Flat Coffered "Studio Ceiling" Over the Kitchen and Dining Area, with an 8"x12" Beam Where the Vaulted Ceiling Steps Down to the Studio Ceiling (Per Plan)
@@ -741,15 +740,15 @@
 - CELECT Cellular Composite Board-and-Batten Siding (Westlake Royal), Wrought Iron, Wood-Grain
   - Siding: 9" Board and 2" Batten (11" Profile)
   - Rear Elevation: Horizontal Vinyl Lap Siding, Top to Bottom, Color-Matched to Wrought Iron (All Other Elevations CELECT)
-  - Porch and Deck Post Wraps: 12" [CONFIRM: owner now wants EXPOSED American Walnut hardwood porch posts (stained to match the front door) instead of 12" vinyl post wraps — post-wrap vs exposed-post conflict]
+  - Porch and Deck Post Wraps: Manhattan Natural Oak Column Wraps, 7 in x 10 ft with Matching Cap and Base Trims (Carter Quote 23600082770; Installed by the Finish Carpenter; Resolves the Post-Wrap vs Exposed-Walnut Conflict per Owner 07/22/2026)
   - All Other Trim per Design Spec
   - Wrought Iron with Wood Grain
 - Aluminum
-  - All Aluminum: Satin White Smooth Finish
-  - Roof Fascia: Satin White Smooth
-  - Garage Door Opening Trim: Satin White Smooth
+  - All Aluminum: Satin Black Smooth Finish (Changed from Satin White; Matches the Spec Sheet and RFQ Playbook)
+  - Roof Fascia: Satin Black Smooth
+  - Garage Door Opening Trim: Satin Black Smooth
   - Soffit: Vinyl
-  - All Aluminum Vent Exits on Side of House: Satin White Smooth
+  - All Aluminum Vent Exits on Side of House: Satin Black Smooth
 - Vents Through Brick or Stone: Satin Black Paint
   - Metal Vents with Door Flaps
 - Deck Ceiling: Hardie Board (Ceiling Above Deck) [CONFIRM: siding changed to vinyl; deck ceiling still Hardie?]
@@ -993,7 +992,7 @@
 - Wire Nuts (No Wago or Push-In Connectors)
 - Ceiling Fan Rated Boxes
 - 30 Amp Disconnect Switch
-- Dedicated Circuit with Lug at the Water Heater Location (Power-Vent Blower and Powered Titanium Anode Rod)
+- Dedicated Circuit with Lug at the Water Heater Location (Power-Vent Blower of the Plumber-Supplied 50-Gallon Power Vent Water Heater)
 - Kitchen Under-Cabinet Track Plug System
 - Kitchen Under-Cabinet Lighting
 - Kitchen 6 Recessed Lights
@@ -1040,7 +1039,8 @@
 
 **Related Contractors:** [Hardwood Flooring Contractor](#hardwood-flooring-contractor)
 
-- 8" Engineered Wire-Brushed White Oak (varied grain)
+- 7.5" Engineered Wire-Brushed Maple, Malibu Wide Plank Pacifica Maple, Tongue and Groove (Changed from White Oak per Owner 07/22/2026)
+  - Owner Purchases at Home Depot (Delivered Cart 4,147.28 after Military discount, about 770 SF carted vs 702 SF measured)
   - Dining Area
   - Kitchen and Pantry
   - Great Room
@@ -1120,8 +1120,10 @@
   - No Dimensional Lumber Longer Than 16'
   - LVL Requirements: Estimator to Identify Where Needed and Specify if Engineering Required
 - Deck
-  - Trex Composite Decking Material
-  - Deck Stain and Sealer (Estimator to Calculate Quantities) [CONFIRM: deck now Trex composite — does deck stain/seal still apply?]
+  - TimberTech Composite Decking, Prime Plus Collection, Dark Cocoa (Was Trex per Owner 07/22/2026; Carter Quote 23600082772: Grooved and Square-Shoulder Deck Boards, Matching Fascia, Cortex Hidden Fasteners, Starter Clips, Deck Tape, Delivered)
+  - Westbury Aluminum Railing Material, C10 Level Rail, Textured Black, 36 in Min Height, Spindles 4 in O.C. Max (Same Carter Quote; Covers Deck, Covered Porch, and Entry Steps; Owner-Supplied to the Carpenters Who Install It)
+  - Exterior Post Wraps: Manhattan Natural Oak Column Wraps, 6 pcs 7 in x 10 ft plus 12 Matching Cap and Base Trims (Carter Quote 23600082770, 2,396.50 Delivered; Installed by the Finish Carpenter)
+  - No Deck Stain or Sealer (Composite Decking)
   - Ceiling Above Deck: Hardie Board (Installed by Siding Contractor) [CONFIRM: siding changed to vinyl; deck ceiling still Hardie?]
 - Trim and Molding (Finish Trim Materials — see RFQ-26 Interior Trim, Molding & Stair Materials; framing lumber is RFQ-75)
 - Large Crown Molding (Every Flat-Ceilinged Room, Excluding Closets) — 1,068 LF (Rev-01; itemized by room in the Material Takeoff Briefing) [SELECTION: profile]
@@ -1154,9 +1156,8 @@
   - American Walnut (Front Door)
 - Exterior Stain (American Walnut, to Match Front Door) [CONFIRM: added per round-2 correction]
   - Custom Hardwood Decorative Braces over Garage Windows
-  - Front and Rear Porch Posts (Exposed American Walnut Hardwood Posts) [CONFIRM: exposed posts vs 12" vinyl post wraps in Siding spec — post-wrap vs exposed-post conflict]
-- Deck Stain and Sealer
-  - Natural Cedar Finish [CONFIRM: deck now Trex composite — does deck stain/seal still apply?]
+  - No Field Stain on Porch and Deck Posts: Finished in Manhattan Natural Oak Post Wraps Installed by the Finish Carpenter (Carter Quote 23600082770; Resolves the Exposed-Walnut Conflict per Owner 07/22/2026)
+- No Deck Stain or Sealer: Decking Is TimberTech Composite (Prime Plus, Dark Cocoa); Porch and Deck Posts Use Manhattan Natural Oak Post Wraps (No Field Stain)
 
 ## Plumbing Fixture Supplier
 
@@ -1219,9 +1220,8 @@
 - Carbon Filter Fittings (Housing and Cartridge Owner-Supplied: Pentair Pentek 150236 Big Blue 20" x 4.5" Housing, 1-1/2" NPT Ports; Aquaboon GAC Cartridge)
   - 1" to 1-1/2" Adapters at the Housing Inlet and Back to 1" at the Outlet
 - Reverse Osmosis Line Fittings (System Owner-Supplied: iSpring RCC7 5-Stage Under-Sink)
-- A.O. Smith Signature 500 75 Gallon Tall Power Direct Vent Natural Gas Water Heater, 76,000 BTU, 6-Year Warranty (Model G6-PDT7576NV, Lowe's Item 816085); Owner-Supplied with the Powered Anode Rod, Plumber Installs Both
-- PVC Power Direct Venting Materials (Intake and Exhaust)
-- Powered Titanium Anode Rod
+- 50 Gallon Power Vent Natural Gas Water Heater, Plumber-Supplied Inside the 28,000 All-In Plumbing Price (Changed from the 75 Gallon A.O. Smith G6-PDT7576NV Owner Purchase per Owner 07/21/2026)
+- PVC Power Venting Materials (Intake and Exhaust)
 - Expansion Tank
 - Hot Water Recirculation Pump (Plumber-Supplied, Not the Supply House)
 
@@ -1255,15 +1255,15 @@
 - CELECT Cellular Composite Board-and-Batten Siding (Westlake Royal), Wrought Iron, Wood-Grain
   - 9" Board and 2" Batten (11" Profile)
   - Rear Elevation: Horizontal Vinyl Lap Siding, Top to Bottom, Color-Matched to Wrought Iron (All Other Elevations CELECT)
-  - Porch and Deck Post Wraps: 12" [CONFIRM: owner now wants EXPOSED American Walnut hardwood porch posts (stained to match the front door) instead of 12" vinyl post wraps — post-wrap vs exposed-post conflict]
+  - Porch and Deck Post Wraps: Manhattan Natural Oak Column Wraps, 7 in x 10 ft with Matching Cap and Base Trims (Carter Quote 23600082770; Installed by the Finish Carpenter; Resolves the Post-Wrap vs Exposed-Walnut Conflict per Owner 07/22/2026)
   - All Other Trim per Design Spec
   - Wrought Iron with Wood Grain
 - Aluminum
-  - All Aluminum: Satin White Smooth Finish
-  - Roof Fascia: Satin White Smooth
-  - Garage Door Opening Trim: Satin White Smooth
+  - All Aluminum: Satin Black Smooth Finish (Changed from Satin White; Matches the Spec Sheet and RFQ Playbook)
+  - Roof Fascia: Satin Black Smooth
+  - Garage Door Opening Trim: Satin Black Smooth
   - Soffit: Vinyl
-  - All Aluminum Vent Exits on Side of House: Satin White Smooth
+  - All Aluminum Vent Exits on Side of House: Satin Black Smooth
 - Metal Vents with Door Flaps (Satin Black Paint)
 
 ## Steel Supplier

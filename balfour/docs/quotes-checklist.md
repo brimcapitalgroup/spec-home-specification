@@ -38,7 +38,7 @@ Comprehensive tracking for all contractor and supplier quotes.
 | Contractor | Quote Received | Scope Notes |
 |------------|----------------|-------------|
 | [ ] Concrete Contractor | | Foundation, basement, garage, driveways, patios, porches |
-| [ ] Masonry Contractor | | Acme Oyster Bay king-size brick; exterior stone is Affinity Stone (Ridge Cut, Yukon) screw-on panel system quoted separately (material RFQ-72, install RFQ-74) |
+| [ ] Masonry Contractor | | Acme Oyster Bay king-size brick; both chimneys brick-clad (full brick face, thin brick sides and rear above the roofline; replaced Affinity stone per owner 07/22/2026, RFQ-72/74 closed) |
 
 ### Phase 4: Framing
 
@@ -78,10 +78,10 @@ Comprehensive tracking for all contractor and supplier quotes.
 | Contractor | Quote Received | Scope Notes |
 |------------|----------------|-------------|
 | [ ] Tile Contractor | | Montauk Black slate, porcelain |
-| [ ] Hardwood Flooring Contractor | | 8" engineered wire-brushed white oak |
+| [ ] Hardwood Flooring Contractor | | 7.5" engineered wire-brushed maple (Malibu Pacifica); install labor only, owner supplies material |
 | [ ] Carpet Contractor | | Bedrooms, office, closets, basement TV |
 | [ ] Finish Carpenter | | Doors, cabinets, trim, molding, hardware |
-| [ ] Paint and Stain Contractor | | Interior paint/stain, deck stain |
+| [ ] Paint and Stain Contractor | | Interior paint/stain, American walnut exterior stain (braces); no deck stain |
 | [ ] Glass Contractor | | Shower doors, mirrors |
 | [ ] Plumbing Contractor - Finish | | Fixture installation |
 | [ ] Electrical Contractor - Finish | | Devices, plates, light fixtures |
@@ -145,9 +145,9 @@ Comprehensive tracking for all contractor and supplier quotes.
 |----------|----------------|-------------|
 | [ ] Drywall Supplier | | Sheets, tape, compound |
 | [ ] Tile Supplier | | Montauk Black slate, porcelain |
-| [ ] Hardwood Flooring Supplier | | 8" engineered wire-brushed white oak |
+| [ ] Hardwood Flooring Supplier | | 7.5" Malibu Pacifica Maple; owner purchases at Home Depot |
 | [ ] Carpet Supplier | | Carpet + pad |
-| [ ] Paint and Stain Supplier | | Sherwin-Williams paint, deck stain |
+| [ ] Paint and Stain Supplier | | Sherwin-Williams paint, American walnut stain; no deck stain |
 | [ ] Glass Supplier | | Shower doors, mirrors |
 | [ ] Cabinet Supplier | | Semi-custom cabinets |
 | [ ] Countertop Fabricator | | Kitchen, bath, bar counters + backsplashes |

@@ -9,8 +9,10 @@
   - No Dimensional Lumber Longer Than 16'
   - LVL Requirements: Estimator to Identify Where Needed and Specify if Engineering Required
 - Deck
-  - Trex Composite Decking Material
-  - Deck Stain and Sealer (Estimator to Calculate Quantities) [CONFIRM: deck material changed to Trex composite; deck staining still in scope?]
+  - TimberTech Composite Decking, Prime Plus Collection, Dark Cocoa (Was Trex per Owner 07/22/2026; Carter Quote 23600082772: Grooved and Square-Shoulder Deck Boards, Matching Fascia, Cortex Hidden Fasteners, Starter Clips, Deck Tape, Delivered)
+  - Westbury Aluminum Railing Material, C10 Level Rail, Textured Black, 36 in Min Height, Spindles 4 in O.C. Max (Same Carter Quote; Covers Deck, Covered Porch, and Entry Steps; Owner-Supplied to the Carpenters Who Install It)
+  - Exterior Post Wraps: Manhattan Natural Oak Column Wraps, 6 pcs 7 in x 10 ft plus 12 Matching Cap and Base Trims (Carter Quote 23600082770, 2,396.50 Delivered; Installed by the Finish Carpenter)
+  - No Deck Stain or Sealer (Composite Decking)
   - Ceiling Above Deck: Hardie Board (Installed by Siding Contractor) [CONFIRM: siding changed to vinyl; deck ceiling still Hardie?]
 - Trim and Molding (Finish Trim Materials — see RFQ-26 Interior Trim, Molding & Stair Materials; framing lumber is RFQ-75)
   - Window Casing: All Windows Fully Cased — Full-Perimeter LF NOT in Rev-01 (Gap); Rev-01 carries window casing pieces 7 ea 12' + 11 ea 14' + 14 ea 16', jamb trim, and 1x6 #1 WP jamb extensions (7 ea 12' + 11 ea 14' + 14 ea 16')

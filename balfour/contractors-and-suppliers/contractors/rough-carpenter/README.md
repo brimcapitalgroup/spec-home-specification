@@ -16,8 +16,8 @@
 - Screw Down Flooring
 - No Drop Flooring
 - Install Blocking for All Handrails, Towel Holders, and Bathroom Toilet Paper Holders
-- Deck Install: Deck Built and Trex-Clad (RFQ-89)
-- Chimney Chases: Framed and Sheathed, Ready for Stone (RFQ-89)
+- Deck Install: Deck Built and TimberTech-Clad, Prime Plus Collection, Dark Cocoa (Was Trex per Owner 07/22/2026; RFQ-89); Installs the Westbury Deck Railing (Owner-Supplied Material)
+- Chimney Chases: Framed and Sheathed, Ready for Brick and Thin Brick Cladding (RFQ-89)
 - Mudroom and Walkout Step-Out Landings (RFQ-89)
 - Red Tag Corrections Included (RFQ-89)
 - Kitchen/Dining Studio Ceiling: Frame the 12-ft Flat Coffered "Studio Ceiling" with an 8"x12" Beam Where the Vaulted Ceiling Steps Down (Per Plan)

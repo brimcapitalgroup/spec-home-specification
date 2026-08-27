@@ -13,7 +13,7 @@
 - 200 Amp Meter with Integrated Disconnect (Exterior Emergency Disconnect per 2025 Code)
   - Service Entrance: Conduit Required from Meter to Home Penetration; Interior Wiring Installed per Code
 - Whole-House Surge Protection: Surge Protective Device (SPD) at the Primary Panel (2025 Code)
-- Dedicated 120V Circuit with Lug at the Water Heater Location Serving the Power-Vent Blower and the Powered Titanium Anode Rod
+- Dedicated 120V Circuit with Lug at the Water Heater Location Serving the Power-Vent Blower of the Plumber-Supplied 50-Gallon Power Vent Natural Gas Water Heater (Changed from the 75-Gallon A.O. Smith Owner Purchase per Owner 07/21/2026)
 - Garage Air Compressor Circuit
   - 1 30 Amp 220V 3-Wire Plug-In Outlet for 5HP Stage Air Compressor
   - 30 Amp Disconnect Switch Controlling the 220V Outlet

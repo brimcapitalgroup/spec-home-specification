@@ -11,6 +11,5 @@
   - None — garage doors are a factory black finish by the garage-door supplier (durable, warranted factory coating; NOT field-painted)
 - Interior Stain
   - American Walnut (Front Door)
-  - American Walnut (Exterior Custom Hardwood Decorative Braces over Garage Windows, and Front and Rear Porch Posts — Match Front Door)
-- Deck Stain and Sealer
-  - Natural Cedar Finish [CONFIRM: deck material changed to Trex composite; deck staining still in scope?]
+  - American Walnut (Exterior Custom Hardwood Decorative Braces over Garage Windows, Match Front Door)
+  - No Deck Stain or Sealer: Decking Is TimberTech Composite (Prime Plus, Dark Cocoa); Porch and Deck Posts Use Manhattan Natural Oak Post Wraps (No Field Stain)
